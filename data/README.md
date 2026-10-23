@@ -13,7 +13,10 @@
 2. `python src/clean.py` puis `python src/analysis.py`.
 
 ## Source
-Le fichier brut doit être cité avec sa source officielle (campagne de mesures de qualité de service mobile 2025 — à vérifier sur data.gouv.fr ou auprès du régulateur, ainsi que sa licence de réutilisation).
+Mesures de qualité de service mobile 2025 en France métropolitaine, publiées en open data par l'Arcep :
+- Communiqué : https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/qualite-des-services-mobiles-en-metropole-201125.html
+- Données ouvertes : https://data.arcep.fr/mobile/
+Licence de réutilisation : à vérifier sur la page du jeu de données.
 
 ## Nettoyage appliqué
 - Décimales à virgule converties, valeurs radio aberrantes mises à vide (RSRP hors −140 / −40 dBm, RSRQ hors −30 / 0 dB).
