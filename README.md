@@ -1,5 +1,5 @@
 # 📶 5G-QoS France 2025
-**Qualité de service mobile 5G en France métropolitaine** — analyse de 354 282 mesures réelles (mai-septembre 2025, 4 opérateurs, 1 682 communes) : comparaison des opérateurs, fracture rurale, cartes par département, modèles prédictifs, profils de communes et tableau de bord interactif.
+**Qualité de service mobile 5G en France métropolitaine** - analyse de 354 282 mesures réelles (mai-septembre 2025, 4 opérateurs, 1 682 communes) : comparaison des opérateurs, fracture rurale, cartes par département, modèles prédictifs, profils de communes et tableau de bord interactif.
 
 ## Questions posées
 1. Quel opérateur offre les meilleurs débits, en zone dense comme en zone rurale ?
