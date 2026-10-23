@@ -140,7 +140,7 @@ with t4:
 
 with t5:
     st.markdown("""
-**Source** : fichier de mesures de qualité de service mobile 2025 en France métropolitaine (campagne « habitations »), à citer avec sa source officielle.
+   **Source** : mesures de qualité de service mobile 2025 en France métropolitaine, publiées en open data par l'[Arcep](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/qualite-des-services-mobiles-en-metropole-201125.html) ([données ouvertes](https://data.arcep.fr/mobile/)). Fichier utilisé : `2025_QoS_Metropole_data_habitations.csv` (campagne « habitations »).
 
 **Ce que mesure chaque test** : navigation web (WEB), téléchargement (DOWNLOAD, 250 Mo en 10 s maximum), envoi de fichier (UPLOAD, ULH), streaming vidéo (STREAM) et ping (ICMP).
 
