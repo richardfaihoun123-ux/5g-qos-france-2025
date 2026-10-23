@@ -1,0 +1,1683 @@
+commune,dep,lat,lon,zone,n,n_dl,dl_med,n_web,web_fail,rsrp_med,web_access_s,cluster,profil
+Abbaye du Mont-Saint-Michel Mont-Saint-Michel,50,48.61,-1.5,Touristique,168,16,21.12,120,12.5,-107.97,3.88,3,Débit limité
+Ablain-Saint-Nazaire,62,50.39,2.71,Dense,168,16,79.09,120,0.0,-108.88,2.2,1,Bien servies
+Ablis,78,48.52,1.84,Rurale,168,16,60.87,120,15.83,-104.15,3.05,1,Bien servies
+Aigneville,80,50.03,1.62,Rurale,164,14,0.24,120,55.83,-112.11,3.24,3,Débit limité
+Aiguillon,47,44.3,0.34,Rurale,168,16,311.17,120,7.5,-101.88,2.44,2,Très bien servies
+Airaines,80,49.96,1.95,Rurale,168,16,90.38,120,0.83,-108.75,2.26,1,Bien servies
+Aire-sur-l'Adour,40,43.7,-0.26,Rurale,168,16,45.92,120,4.17,-113.14,2.51,1,Bien servies
+Aix-en-Provence,13,43.53,5.43,Dense,1267,126,228.57,887,4.74,-104.99,2.86,1,Bien servies
+Aix-les-Bains,73,45.69,5.91,Intermédiaire,168,16,431.58,120,0.0,-88.0,2.06,2,Très bien servies
+Ajaccio,2A,41.93,8.76,Intermédiaire,503,48,234.73,360,0.56,-96.28,2.63,2,Très bien servies
+Alban,81,43.89,2.46,Rurale,168,16,0.0,120,58.33,-109.39,10.01,0,Mal servies
+Albert,80,50.0,2.65,Rurale,167,16,180.47,120,0.0,-103.67,2.17,1,Bien servies
+Alfortville,94,48.8,2.42,Dense,168,16,239.69,120,1.67,-107.05,2.59,1,Bien servies
+Alissas,07,44.71,4.63,Intermédiaire,168,16,154.28,120,8.33,-95.36,2.84,2,Très bien servies
+Allanche,15,45.23,2.93,Rurale,168,16,0.0,120,71.67,-104.88,10.01,0,Mal servies
+Allauch,13,43.36,5.49,Dense,168,16,47.88,120,20.0,-103.75,3.56,3,Débit limité
+Althen-des-Paluds,84,44.0,4.96,Dense,168,16,121.87,120,15.83,-112.62,3.18,3,Débit limité
+Ambert,63,45.55,3.74,Rurale,168,16,42.8,120,0.83,-111.0,2.29,1,Bien servies
+Amfreville-la-Mi-Voie,76,49.4,1.13,Dense,168,16,235.92,120,0.0,-103.04,2.2,2,Très bien servies
+Amélie-les-Bains-Palalda,66,42.47,2.67,Rurale,168,16,60.0,120,28.33,-107.33,2.75,3,Débit limité
+Ancerville,55,48.63,5.02,Intermédiaire,165,14,2.87,120,52.5,-112.2,10.01,0,Mal servies
+Andelot-Blancheville,52,48.24,5.3,Rurale,160,11,8.41,120,55.83,-118.1,2.49,3,Débit limité
+Andilly,95,49.01,2.3,Dense,168,16,56.28,120,0.0,-111.0,2.28,1,Bien servies
+Andrésy,78,48.98,2.05,Dense,168,16,318.13,120,1.67,-102.38,2.9,2,Très bien servies
+Angers,49,47.46,-0.55,Intermédiaire,840,80,220.21,600,1.17,-98.55,2.77,2,Très bien servies
+Angerville,91,48.31,2.0,Rurale,168,16,50.59,120,5.83,-105.64,3.27,1,Bien servies
+Anglet,64,43.49,-1.5,Intermédiaire,168,16,232.27,120,0.0,-106.79,2.32,1,Bien servies
+Angoulême,16,45.64,0.16,Intermédiaire,329,28,263.97,240,5.42,-95.18,2.14,2,Très bien servies
+Angres,62,50.41,2.76,Dense,168,16,346.13,120,0.0,-103.25,2.16,2,Très bien servies
+Annay,62,50.46,2.88,Dense,160,12,104.68,120,0.83,-108.0,2.45,1,Bien servies
+Annecy,74,45.92,6.13,Intermédiaire,1333,124,140.45,960,3.96,-104.48,2.25,1,Bien servies
+Annequin,62,50.51,2.72,Intermédiaire,168,16,131.24,120,0.0,-104.5,2.13,1,Bien servies
+Anse,69,45.95,4.71,Dense,172,16,140.44,120,0.0,-111.0,2.32,1,Bien servies
+Anthy-sur-Léman,74,46.35,6.44,Intermédiaire,168,16,389.83,120,0.0,-95.0,2.09,2,Très bien servies
+Antibes,06,43.6,7.1,Dense,332,32,234.6,236,2.12,-100.74,2.74,2,Très bien servies
+Any-Martin-Rieux,02,49.88,4.22,Rurale,168,16,7.02,120,11.67,-111.0,2.89,3,Débit limité
+Aouste-sur-Sye,26,44.72,5.04,Intermédiaire,172,16,258.48,120,0.0,-108.0,2.01,1,Bien servies
+Appietto,2A,42.0,8.76,Intermédiaire,163,16,22.24,118,25.42,-110.6,3.86,3,Débit limité
+Aquarium Mare Nostrum Montpellier,34,43.6,3.92,Touristique,168,16,195.47,120,1.67,-103.02,2.78,1,Bien servies
+Aquarium de La Rochelle La Rochelle,70,46.15,-1.15,Touristique,168,16,277.69,120,0.0,-89.79,1.98,2,Très bien servies
+Aquarium de Saint-Malo,35,48.62,-1.99,Touristique,168,16,303.28,120,4.17,-104.8,2.72,2,Très bien servies
+Arbois,39,46.9,5.77,Rurale,168,16,152.86,120,0.0,-110.33,2.58,1,Bien servies
+Arc de Triomphe Paris,75,48.87,2.29,Touristique,168,16,186.62,120,10.0,-100.35,2.96,1,Bien servies
+Arcis-sur-Aube,10,48.54,4.15,Rurale,168,16,170.49,120,0.0,-107.12,2.46,1,Bien servies
+Arfeuilles,03,46.16,3.73,Rurale,168,16,18.65,120,0.83,-96.78,2.37,1,Bien servies
+Argelès-sur-Mer,66,42.55,3.03,Intermédiaire,168,16,67.48,120,35.83,-100.92,3.28,3,Débit limité
+Argentat-sur-Dordogne,19,45.09,1.94,Rurale,168,16,52.81,120,15.83,-112.14,2.68,3,Débit limité
+Argenteuil,95,48.94,2.23,Dense,168,16,188.05,120,1.67,-102.68,2.83,1,Bien servies
+Argentonnay,79,46.99,-0.45,Rurale,168,16,143.56,120,5.0,-104.36,2.3,1,Bien servies
+Argenvilliers,28,48.26,0.96,Rurale,168,16,6.46,120,11.67,-105.14,3.4,1,Bien servies
+Arlay,39,46.76,5.56,Rurale,168,16,94.9,120,4.17,-115.12,2.54,1,Bien servies
+Arnage,72,47.93,0.19,Intermédiaire,168,16,280.16,120,9.17,-106.86,3.04,1,Bien servies
+Ars-sur-Moselle,57,49.08,6.08,Intermédiaire,168,16,104.62,120,5.83,-103.67,2.39,1,Bien servies
+Artigues-près-Bordeaux,33,44.87,-0.5,Dense,168,16,303.5,120,0.0,-96.96,2.18,2,Très bien servies
+Arènes de Nîmes,30,43.84,4.36,Touristique,168,16,53.04,120,0.0,-95.79,2.82,1,Bien servies
+Assevent,59,50.29,4.02,Intermédiaire,168,16,121.52,120,0.0,-103.0,2.3,1,Bien servies
+Assé-le-Boisne,72,48.32,-0.01,Rurale,168,16,27.41,120,10.83,-112.18,2.88,3,Débit limité
+Athis-Mons,91,48.71,2.38,Dense,167,15,429.74,120,30.0,-99.76,2.84,2,Très bien servies
+Aubagne,13,43.29,5.59,Dense,168,16,341.96,120,0.0,-98.22,2.64,2,Très bien servies
+Aubigny-sur-Nère,18,47.49,2.44,Rurale,168,16,462.45,120,2.5,-95.88,2.7,2,Très bien servies
+Aubusson,23,45.96,2.17,Rurale,168,16,31.77,120,10.83,-112.14,2.74,3,Débit limité
+Auch,32,43.65,0.59,Intermédiaire,672,64,267.7,480,7.71,-100.72,2.33,2,Très bien servies
+Audincourt,25,47.49,6.84,Intermédiaire,168,16,243.43,120,0.0,-99.34,2.34,2,Très bien servies
+Augerolles,63,45.72,3.62,Rurale,165,14,47.37,120,40.83,-106.3,3.36,3,Débit limité
+Augny,57,49.08,6.11,Intermédiaire,168,16,402.1,120,0.0,-91.5,2.2,2,Très bien servies
+Aulnay-sous-Bois,93,48.95,2.5,Dense,168,16,252.98,120,0.0,-87.67,1.99,2,Très bien servies
+Auneuil,60,49.37,2.0,Rurale,168,16,31.67,120,0.83,-110.1,2.35,1,Bien servies
+Auribeau-sur-Siagne,06,43.61,6.91,Dense,168,16,146.35,120,29.17,-106.98,3.2,3,Débit limité
+Auriol,13,43.37,5.65,Dense,336,32,380.3,240,0.42,-101.92,2.62,2,Très bien servies
+Aussillon,81,43.5,2.37,Intermédiaire,156,16,456.46,108,0.0,-86.88,2.41,2,Très bien servies
+Auvers-le-Hamon,72,47.9,-0.35,Rurale,168,16,13.36,120,4.17,-110.06,3.46,1,Bien servies
+Auvers-sur-Oise,95,49.07,2.16,Dense,168,16,112.65,120,9.17,-110.69,2.22,1,Bien servies
+Auxelles-Bas,90,47.73,6.78,Rurale,168,16,56.72,120,2.5,-100.5,2.55,1,Bien servies
+Avançon,08,49.48,4.24,Rurale,168,16,9.65,120,0.0,-108.0,2.64,1,Bien servies
+Avelin,59,50.54,3.08,Dense,168,16,179.03,120,0.0,-95.0,2.05,2,Très bien servies
+Avignon,84,43.94,4.83,Dense,672,64,266.17,480,0.42,-97.94,2.7,2,Très bien servies
+Avord,18,47.03,2.65,Rurale,168,16,314.93,120,0.0,-103.82,2.66,2,Très bien servies
+Baccarat,54,48.45,6.74,Rurale,168,16,128.04,120,0.0,-110.0,2.36,1,Bien servies
+Bagneux,92,48.79,2.31,Dense,168,16,382.68,120,0.83,-104.06,2.52,2,Très bien servies
+Baisieux,59,50.61,3.23,Dense,168,16,41.91,120,4.17,-112.0,2.29,1,Bien servies
+Balazé,35,48.17,-1.19,Rurale,168,16,57.32,120,2.5,-112.04,2.28,1,Bien servies
+Baldersheim,68,47.8,7.38,Intermédiaire,168,16,67.66,120,0.83,-108.33,2.5,1,Bien servies
+Balma,31,43.61,1.49,Dense,167,16,335.6,120,0.0,-95.62,2.21,2,Très bien servies
+Ban-de-Sapt,88,48.34,7.01,Rurale,168,16,7.12,120,6.67,-103.58,2.9,1,Bien servies
+Bannalec,29,47.93,-3.7,Rurale,168,16,107.54,120,0.0,-105.98,2.22,1,Bien servies
+Bapaume,62,50.11,2.85,Rurale,168,16,107.57,120,0.83,-108.0,2.25,1,Bien servies
+Barbezieux-Saint-Hilaire,16,45.47,-0.16,Rurale,168,16,262.95,120,10.0,-104.94,2.08,2,Très bien servies
+Barjac,30,44.31,4.35,Rurale,168,16,0.44,120,60.0,-114.3,10.01,0,Mal servies
+Barjouville,28,48.41,1.46,Intermédiaire,168,16,147.92,120,9.17,-108.3,3.02,1,Bien servies
+Barlin,62,50.45,2.61,Intermédiaire,168,16,250.27,120,0.0,-87.5,2.18,2,Très bien servies
+Basilique Sainte-Madeleine de Vézelay,89,47.47,3.75,Touristique,168,16,9.25,120,0.83,-106.28,2.55,1,Bien servies
+Basse-Goulaine,44,47.22,-1.47,Dense,168,16,0.17,120,58.33,-116.22,10.01,0,Mal servies
+Bateaux-promenades de Strasbourg - Batorama Strasbourg,67,48.58,7.75,Touristique,168,16,126.17,120,0.83,-97.42,2.36,1,Bien servies
+Baugé-en-Anjou,49,47.55,-0.11,Intermédiaire,497,45,53.08,358,31.01,-108.22,4.03,3,Débit limité
+Baume-les-Dames,25,47.35,6.36,Rurale,168,16,172.78,120,0.0,-106.5,2.37,1,Bien servies
+Bayonne,64,43.5,-1.46,Intermédiaire,336,32,292.29,240,7.92,-100.96,2.41,2,Très bien servies
+Bazas,33,44.43,-0.21,Rurale,168,16,14.92,120,23.33,-114.25,2.66,3,Débit limité
+Bazeilles,08,49.69,4.97,Intermédiaire,168,16,10.85,120,4.17,-113.0,2.85,1,Bien servies
+Bazoches-sur-Hoëne,61,48.55,0.47,Rurale,162,14,0.0,120,60.83,-116.77,10.01,0,Mal servies
+Beaucaire,30,43.81,4.63,Intermédiaire,336,32,265.04,240,3.33,-105.16,2.82,2,Très bien servies
+Beauce la Romaine,41,47.91,1.52,Rurale,168,16,166.02,120,0.83,-108.3,2.9,1,Bien servies
+Beaucouzé,49,47.47,-0.63,Intermédiaire,168,16,110.53,120,11.67,-111.28,3.42,1,Bien servies
+Beaugency,45,47.78,1.63,Rurale,164,14,1.01,120,50.0,-114.67,7.72,0,Mal servies
+Beaumont,63,45.75,3.09,Intermédiaire,168,16,264.98,120,0.83,-104.55,2.18,2,Très bien servies
+Beaumont-de-Lomagne,82,43.88,0.99,Rurale,166,15,1.9,120,23.33,-101.68,3.65,3,Débit limité
+Beaumont-du-Gâtinais,77,48.14,2.47,Rurale,168,16,21.86,120,17.5,-114.3,4.03,3,Débit limité
+Beaumontois en Périgord,24,44.77,0.77,Rurale,156,16,5.04,108,33.33,-115.09,4.49,3,Débit limité
+Beaurecueil,13,43.51,5.54,Dense,168,16,345.98,120,0.83,-106.32,2.74,2,Très bien servies
+Beauvilliers,28,48.3,1.66,Rurale,168,16,94.22,120,0.0,-97.68,2.7,1,Bien servies
+Beauzelle,31,43.67,1.38,Dense,168,16,311.87,120,0.0,-102.43,2.18,2,Très bien servies
+Belcaire,11,42.82,1.96,Rurale,168,16,0.95,120,55.0,-116.79,10.01,0,Mal servies
+Bellerive-sur-Allier,03,46.14,3.41,Intermédiaire,168,16,332.36,120,0.0,-101.92,2.0,2,Très bien servies
+Belleville-sur-Meuse,55,49.17,5.39,Intermédiaire,168,16,163.73,120,0.83,-97.72,2.32,2,Très bien servies
+Belmont-de-la-Loire,42,46.16,4.35,Rurale,168,16,88.45,120,0.83,-104.67,2.24,1,Bien servies
+Benet,85,46.37,-0.6,Rurale,168,16,170.66,120,20.83,-96.07,2.28,2,Très bien servies
+Bergerac,24,44.85,0.48,Intermédiaire,336,32,45.59,240,1.25,-105.69,2.5,1,Bien servies
+Bernes,80,49.91,3.1,Rurale,168,16,9.59,120,20.83,-113.7,3.58,3,Débit limité
+Berre-l'Étang,13,43.49,5.17,Dense,144,16,268.15,96,0.0,-88.95,2.64,2,Très bien servies
+Besson,03,46.47,3.26,Rurale,168,16,43.91,120,0.0,-110.69,2.2,1,Bien servies
+Beton-Bazoches,77,48.7,3.24,Rurale,168,16,70.32,120,8.33,-107.14,2.28,1,Bien servies
+Beuvardes,02,49.14,3.49,Rurale,167,15,3.54,120,13.33,-111.0,3.36,3,Débit limité
+Beuvry,62,50.52,2.67,Intermédiaire,168,16,286.53,120,0.0,-93.12,2.02,2,Très bien servies
+Beynost,01,45.84,5.0,Dense,172,16,165.54,120,0.0,-109.0,2.15,1,Bien servies
+Bezannes,51,49.22,3.99,Intermédiaire,336,32,19.76,240,10.0,-106.0,2.45,1,Bien servies
+Biarritz,64,43.48,-1.56,Intermédiaire,168,16,384.47,120,0.0,-98.0,2.27,2,Très bien servies
+Bidart,64,43.44,-1.59,Intermédiaire,167,16,202.13,120,9.17,-105.96,2.46,1,Bien servies
+Bischheim,67,48.62,7.73,Dense,168,16,330.52,120,1.67,-95.72,2.24,2,Très bien servies
+Bischwiller,67,48.77,7.85,Intermédiaire,168,16,187.29,120,0.0,-96.16,2.31,2,Très bien servies
+Bitche,57,49.05,7.43,Rurale,168,16,311.98,120,4.17,-97.0,2.35,2,Très bien servies
+Biviers,38,45.24,5.82,Dense,172,16,59.72,120,1.67,-110.55,2.18,1,Bien servies
+Bièvres,91,48.75,2.21,Dense,168,16,205.93,120,5.0,-109.0,2.77,1,Bien servies
+Blagnac,31,43.63,1.37,Dense,168,16,303.89,120,0.0,-103.66,2.21,2,Très bien servies
+Blancs-Coteaux,51,48.9,4.01,Rurale,166,16,38.39,120,18.33,-102.4,2.54,1,Bien servies
+Blanquefort,33,44.92,-0.61,Dense,336,32,267.67,240,1.25,-107.91,2.28,1,Bien servies
+Blanzy,71,46.71,4.39,Intermédiaire,168,16,40.36,120,0.0,-109.74,2.37,1,Bien servies
+Blasimon,33,44.75,-0.07,Rurale,152,14,0.0,108,61.11,-115.51,10.01,0,Mal servies
+Bligny-sur-Ouche,21,47.11,4.67,Rurale,168,16,53.73,120,5.83,-106.33,2.65,1,Bien servies
+Blond,87,46.05,1.02,Rurale,168,16,13.89,120,10.83,-108.44,2.68,1,Bien servies
+Blâmont,54,48.59,6.84,Rurale,168,16,61.26,120,0.0,-110.9,2.49,1,Bien servies
+Boigny-sur-Bionne,45,47.92,2.01,Intermédiaire,168,16,183.59,120,8.33,-108.84,3.36,1,Bien servies
+Bois-Colombes,92,48.91,2.26,Dense,166,14,377.56,120,9.17,-99.57,2.74,2,Très bien servies
+Bois-Guillaume,76,49.48,1.13,Dense,168,16,269.81,120,0.83,-95.5,2.14,2,Très bien servies
+Boissise-la-Bertrand,77,48.53,2.59,Dense,166,16,80.33,120,34.17,-111.46,3.54,3,Débit limité
+Bolbec,76,49.57,0.47,Intermédiaire,336,32,262.78,240,0.0,-104.0,2.16,2,Très bien servies
+Bollezeele,59,50.87,2.35,Rurale,168,16,3.83,120,15.0,-109.0,3.12,3,Débit limité
+Bologne,52,48.2,5.14,Rurale,168,16,21.66,120,11.67,-111.33,2.76,3,Débit limité
+Bondoufle,91,48.61,2.38,Dense,168,16,363.5,120,5.0,-102.08,2.7,2,Très bien servies
+Bondues,59,50.74,3.14,Dense,168,16,356.34,120,0.0,-97.16,2.0,2,Très bien servies
+Bonneuil-Matours,86,46.68,0.57,Rurale,168,16,340.21,120,0.0,-103.75,2.12,2,Très bien servies
+Bonneuil-en-France,95,48.97,2.43,Dense,168,16,83.74,120,3.33,-106.0,2.22,1,Bien servies
+Bonneval,28,48.18,1.37,Rurale,164,14,76.32,120,3.33,-104.39,3.2,1,Bien servies
+Bonnétable,72,48.17,0.42,Rurale,168,16,0.11,120,68.33,-109.42,10.01,0,Mal servies
+Bord-Saint-Georges,23,46.26,2.3,Rurale,167,16,0.22,120,70.83,-122.19,10.01,0,Mal servies
+Bordeaux,33,44.84,-0.58,Dense,1679,160,307.96,1200,0.5,-99.58,2.2,2,Très bien servies
+Boron,90,47.56,7.01,Rurale,168,16,17.0,120,9.17,-109.22,2.96,1,Bien servies
+Boscamnant,17,45.2,-0.07,Rurale,168,16,14.88,120,10.0,-87.48,2.18,1,Bien servies
+Bouaye,44,47.14,-1.68,Dense,163,16,56.91,119,5.88,-108.58,3.08,1,Bien servies
+Boubers-sur-Canche,62,50.29,2.24,Rurale,168,16,50.92,120,43.33,-103.5,1.86,3,Débit limité
+Bouffémont,95,49.04,2.3,Dense,168,16,16.19,120,8.33,-112.5,2.54,1,Bien servies
+Bouguenais,44,47.18,-1.59,Dense,168,16,284.7,120,0.0,-103.46,2.63,2,Très bien servies
+Bouloc,31,43.78,1.4,Dense,168,16,180.05,120,18.33,-107.16,2.56,1,Bien servies
+Boulogne-sur-Mer,62,50.72,1.61,Intermédiaire,336,32,142.14,240,0.0,-96.0,2.1,2,Très bien servies
+Bourberain,21,47.5,5.3,Rurale,160,12,73.49,120,18.33,-110.5,2.76,3,Débit limité
+Bourbon-l'Archambault,03,46.58,3.06,Rurale,168,16,163.49,120,0.0,-91.63,2.14,2,Très bien servies
+Bourbonne-les-Bains,52,47.95,5.75,Rurale,168,16,62.03,120,13.33,-103.0,2.55,1,Bien servies
+Bourbriac,22,48.47,-3.19,Rurale,164,14,23.21,120,0.0,-100.34,2.3,1,Bien servies
+Bourg-Lastic,63,45.65,2.57,Rurale,157,11,0.0,120,67.5,-111.98,10.01,0,Mal servies
+Boursault,51,49.06,3.84,Rurale,168,16,27.82,120,2.5,-107.2,2.34,1,Bien servies
+Bout-du-Pont-de-Larn,81,43.5,2.4,Intermédiaire,156,16,289.47,108,0.0,-103.93,2.38,2,Très bien servies
+Bouxwiller,67,48.83,7.49,Rurale,168,16,38.78,120,9.17,-105.5,2.7,1,Bien servies
+Bouzonville,57,49.29,6.54,Rurale,168,16,92.33,120,6.67,-106.16,2.22,1,Bien servies
+Braslou,37,47.0,0.39,Rurale,168,16,10.5,120,3.33,-91.93,3.38,1,Bien servies
+Bray-et-Lû,95,49.14,1.66,Rurale,168,16,65.07,120,25.83,-105.62,2.74,3,Débit limité
+Brest,29,48.39,-4.48,Intermédiaire,672,64,277.77,480,3.33,-99.92,2.25,2,Très bien servies
+Breteuil,60,49.63,2.29,Rurale,168,16,208.4,120,0.0,-107.97,2.16,1,Bien servies
+Bretignolles-sur-Mer,85,46.63,-1.86,Rurale,168,16,301.8,120,0.0,-101.83,2.66,2,Très bien servies
+Bretteville-sur-Ay,50,49.26,-1.63,Rurale,167,15,14.89,120,25.0,-114.99,5.33,3,Débit limité
+Bretteville-sur-Odon,14,49.16,-0.42,Intermédiaire,168,16,438.28,120,0.0,-91.5,2.1,2,Très bien servies
+Breuillet,91,48.57,2.17,Dense,168,16,458.03,120,0.0,-91.56,2.58,2,Très bien servies
+Briançon,05,44.9,6.63,Intermédiaire,335,32,155.09,240,12.08,-103.95,2.75,1,Bien servies
+Bricquebec-en-Cotentin,50,49.48,-1.62,Rurale,168,16,88.74,120,15.0,-112.89,2.59,3,Débit limité
+Briec,29,48.1,-4.0,Rurale,168,16,103.87,120,3.33,-108.53,2.64,1,Bien servies
+Brienne-le-Château,10,48.39,4.53,Rurale,168,16,2.34,120,26.67,-119.6,5.11,3,Débit limité
+Briis-sous-Forges,91,48.62,2.12,Rurale,168,16,14.17,120,15.0,-110.18,3.74,3,Débit limité
+Brindas,69,45.72,4.69,Dense,172,16,131.58,120,1.67,-113.55,2.42,1,Bien servies
+Brinon-sur-Sauldre,18,47.57,2.26,Rurale,168,16,55.41,120,16.67,-100.46,3.36,1,Bien servies
+Brionne,27,49.2,0.72,Rurale,168,16,136.44,120,0.0,-99.78,2.17,1,Bien servies
+Brioude,43,45.29,3.39,Rurale,168,16,82.15,120,3.33,-101.5,2.46,1,Bien servies
+Bron,69,45.73,4.92,Dense,168,16,352.12,120,0.0,-91.33,2.1,2,Très bien servies
+Broons,22,48.32,-2.26,Rurale,167,16,128.09,119,0.84,-111.75,2.42,1,Bien servies
+Brou,28,48.21,1.17,Rurale,168,16,16.27,120,20.0,-110.38,4.12,3,Débit limité
+Brou-sur-Chantereine,77,48.88,2.63,Dense,168,16,185.92,120,0.0,-105.42,2.08,1,Bien servies
+Bruges,33,44.89,-0.62,Dense,168,16,391.27,120,0.0,-99.4,2.15,2,Très bien servies
+Bruniquel,82,44.06,1.66,Rurale,156,16,82.47,108,24.07,-104.36,2.78,3,Débit limité
+Bruyères,88,48.21,6.72,Rurale,168,16,149.73,120,0.0,-99.0,2.24,1,Bien servies
+Bruyères-le-Châtel,91,48.59,2.19,Dense,168,16,5.36,120,29.17,-113.64,4.03,3,Débit limité
+Bruz,35,48.02,-1.75,Intermédiaire,168,16,378.9,120,0.0,-97.9,2.64,2,Très bien servies
+Bry-sur-Marne,94,48.84,2.52,Dense,168,16,126.55,120,0.83,-105.16,2.11,1,Bien servies
+Bréhan,56,48.06,-2.69,Rurale,168,16,97.45,120,0.0,-108.02,2.38,1,Bien servies
+Brûlon,72,47.97,-0.23,Rurale,168,16,6.42,120,17.5,-108.76,3.81,3,Débit limité
+Buchy,76,49.58,1.36,Rurale,168,16,99.48,120,0.0,-102.0,2.28,1,Bien servies
+Buchères,10,48.25,4.1,Intermédiaire,168,16,207.62,120,0.0,-104.0,2.28,1,Bien servies
+Buhl-Lorraine,57,48.73,7.08,Intermédiaire,168,16,126.77,120,5.83,-107.0,2.34,1,Bien servies
+Bures-sur-Yvette,91,48.7,2.15,Dense,168,16,278.55,120,2.5,-108.94,2.95,1,Bien servies
+Bussy-Saint-Georges,77,48.84,2.71,Dense,160,12,217.64,120,15.83,-111.33,2.34,1,Bien servies
+Bussy-le-Repos,89,48.06,3.23,Rurale,167,16,0.0,120,69.17,-124.37,10.01,0,Mal servies
+Buzancy,08,49.43,4.96,Rurale,168,16,58.35,120,25.83,-108.93,2.83,3,Débit limité
+Bègles,33,44.79,-0.53,Dense,168,16,376.78,120,0.0,-94.11,2.12,2,Très bien servies
+Bédarrides,84,44.04,4.89,Dense,168,16,229.13,120,5.0,-108.72,2.78,1,Bien servies
+Bégard,22,48.62,-3.3,Rurale,160,12,429.66,120,0.0,-86.02,2.18,2,Très bien servies
+Bénodet,29,47.88,-4.11,Intermédiaire,168,16,448.61,120,5.0,-90.25,2.2,2,Très bien servies
+Béthune,62,50.53,2.64,Intermédiaire,504,48,283.87,360,0.28,-96.33,2.08,2,Très bien servies
+Béziers,34,43.35,3.23,Intermédiaire,670,64,90.12,478,6.28,-106.03,2.49,1,Bien servies
+Cabanac-et-Villagrains,33,44.61,-0.55,Rurale,168,16,145.34,120,0.0,-92.2,2.36,2,Très bien servies
+Cabriès,13,43.46,5.35,Dense,144,16,285.09,96,10.42,-102.81,2.56,2,Très bien servies
+Caderousse,84,44.1,4.76,Dense,168,16,115.42,120,19.17,-111.36,3.04,3,Débit limité
+Caen,14,49.18,-0.35,Intermédiaire,336,32,95.04,240,5.83,-103.53,2.39,1,Bien servies
+Caix,80,49.82,2.65,Rurale,168,16,110.01,120,20.0,-107.0,2.73,1,Bien servies
+Calais,62,50.95,1.85,Intermédiaire,672,64,275.42,480,0.0,-97.5,2.08,2,Très bien servies
+Caluire-et-Cuire,69,45.8,4.86,Dense,172,16,401.22,120,0.0,-93.0,2.12,2,Très bien servies
+Cambo-les-Bains,64,43.36,-1.4,Intermédiaire,168,16,336.77,120,0.0,-104.07,2.37,2,Très bien servies
+Cambremer,14,49.15,0.05,Rurale,168,16,37.72,120,24.17,-114.64,3.07,3,Débit limité
+Cambron,80,50.11,1.77,Rurale,168,16,34.01,120,5.83,-110.18,2.55,1,Bien servies
+Campagne-lès-Hesdin,62,50.4,1.88,Rurale,168,16,1.92,120,21.67,-114.75,4.16,3,Débit limité
+Cancon,47,44.54,0.62,Rurale,156,16,20.86,108,22.22,-115.47,3.54,3,Débit limité
+Caniac-du-Causse,46,44.62,1.64,Rurale,168,16,0.0,120,72.5,-118.25,10.01,0,Mal servies
+Canteleu,76,49.44,1.03,Dense,168,16,198.3,120,0.0,-105.67,2.16,1,Bien servies
+Canéjan,33,44.76,-0.65,Dense,168,16,319.52,120,7.5,-96.79,2.16,2,Très bien servies
+Capdenac-Gare,12,44.58,2.08,Rurale,148,13,36.52,108,12.96,-111.4,2.83,3,Débit limité
+Capinghem,59,50.64,2.97,Dense,168,16,324.47,120,0.0,-99.0,2.08,2,Très bien servies
+Cappelle-la-Grande,59,50.99,2.36,Intermédiaire,168,16,40.96,120,0.83,-107.33,2.44,1,Bien servies
+Carbonne,31,43.3,1.22,Rurale,168,16,97.86,120,0.0,-105.41,2.4,1,Bien servies
+Carhaix-Plouguer,29,48.28,-3.56,Rurale,168,16,427.42,120,1.67,-92.9,2.2,2,Très bien servies
+Carnetin,77,48.9,2.71,Dense,168,16,313.51,120,1.67,-103.33,2.13,2,Très bien servies
+Carrières de lumière des Baux-de-Provence Les Baux-de-Provence,13,43.75,4.8,Touristique,168,16,2.34,120,40.0,-112.89,4.67,3,Débit limité
+Carrières-sur-Seine,78,48.91,2.18,Dense,164,14,16.66,120,24.17,-109.12,4.05,3,Débit limité
+Carrouges,61,48.57,-0.14,Rurale,167,15,3.8,120,21.67,-113.54,3.99,3,Débit limité
+Carvin,62,50.48,2.96,Dense,164,14,102.19,120,13.33,-110.42,2.66,1,Bien servies
+Casino d'Amnéville Amnéville-les-Thermes,57,49.24,6.13,Touristique,168,16,468.02,120,0.0,-84.0,2.21,2,Très bien servies
+Casino de Blotzheim,68,47.59,7.5,Touristique,167,16,11.27,120,9.17,-113.5,3.28,3,Débit limité
+Casino de Ribeauvillé,68,48.19,7.35,Touristique,168,16,42.58,120,2.5,-106.29,2.66,1,Bien servies
+Casino théatre Barrière Toulouse,31,43.57,1.43,Touristique,168,16,332.39,120,0.0,-100.56,2.2,2,Très bien servies
+Castanet-Tolosan,31,43.52,1.5,Dense,168,16,21.16,120,20.83,-105.24,2.52,3,Débit limité
+Castellane,04,43.85,6.51,Rurale,168,16,19.12,120,15.83,-108.26,3.52,3,Débit limité
+Castelnau-Montratier-Sainte-Alauzie,46,44.27,1.35,Rurale,155,15,0.0,108,83.33,-108.31,10.01,0,Mal servies
+Castets,40,43.88,-1.14,Rurale,168,16,62.83,120,0.83,-102.52,2.48,1,Bien servies
+Catacombes Paris,75,48.83,2.33,Touristique,168,16,222.72,120,0.0,-103.72,2.64,1,Bien servies
+Cathédrale Saint-Just et Saint Pasteur Narbonne,11,43.19,3.0,Touristique,167,16,116.37,119,0.0,-103.57,2.3,1,Bien servies
+Cathédrale de Reims Reims,51,49.25,4.04,Touristique,168,16,282.34,120,0.0,-93.0,2.08,2,Très bien servies
+Cathédrale de Rodez,12,44.35,2.57,Touristique,155,16,54.65,108,0.0,-108.98,2.6,1,Bien servies
+Caudebec-lès-Elbeuf,76,49.29,1.04,Dense,168,16,269.07,120,5.0,-100.93,2.84,2,Très bien servies
+Cavaillon,84,43.86,5.02,Dense,168,16,156.7,120,5.83,-112.5,3.04,1,Bien servies
+Caverne du Pont-d'Arc Vallon Pont-d'Arc,07,44.41,4.43,Touristique,166,16,0.69,120,50.83,-102.18,10.0,0,Mal servies
+Cenon,33,44.85,-0.54,Dense,168,16,270.37,120,0.0,-99.07,2.26,2,Très bien servies
+Centre Interprétation de l'Art pariétal - Lascaux IV Montignac,65,45.06,1.16,Touristique,168,16,196.9,120,0.83,-107.2,2.25,1,Bien servies
+Centre Pompidou Paris,75,48.87,2.36,Touristique,168,16,276.5,120,3.33,-96.75,2.69,2,Très bien servies
+Centre Pompidou-Metz,57,49.11,6.18,Touristique,168,16,226.44,120,0.0,-92.71,2.28,2,Très bien servies
+Centre aqualudique les Atlantides au Mans Le Mans,72,47.99,0.23,Touristique,168,16,381.7,120,0.0,-97.88,2.84,2,Très bien servies
+Centre national de la mer - Nausicaa Boulogne-sur-Mer,62,50.73,1.59,Touristique,168,16,226.92,120,0.0,-102.84,2.09,2,Très bien servies
+Cercy-la-Tour,58,46.87,3.64,Rurale,168,16,103.65,120,0.0,-105.5,2.16,1,Bien servies
+Cerisiers,89,48.13,3.49,Rurale,168,16,21.65,120,2.5,-87.65,2.2,2,Très bien servies
+Cernay-la-Ville,78,48.67,1.97,Rurale,168,16,32.78,120,46.67,-107.26,5.56,3,Débit limité
+Cesson,77,48.56,2.6,Dense,165,15,47.11,119,30.25,-113.32,3.2,3,Débit limité
+Cesson-Sévigné,35,48.11,-1.59,Intermédiaire,168,16,384.13,120,0.0,-101.31,2.6,2,Très bien servies
+Cessy,01,46.31,6.07,Intermédiaire,168,16,117.49,120,0.0,-99.67,2.18,1,Bien servies
+Cestas,33,44.74,-0.66,Dense,168,16,416.47,120,10.0,-93.56,2.22,2,Très bien servies
+Chalifert,77,48.91,2.77,Dense,168,16,1.96,120,28.33,-116.0,4.33,3,Débit limité
+Challuy,58,46.96,3.16,Intermédiaire,167,15,260.52,120,10.0,-110.89,2.23,1,Bien servies
+Chalonnes-sur-Loire,49,47.35,-0.76,Rurale,168,16,138.13,120,16.67,-112.72,3.37,3,Débit limité
+Chamberet,19,45.58,1.72,Rurale,166,15,7.03,120,35.83,-109.42,2.67,3,Débit limité
+Chambors,60,49.26,1.82,Rurale,168,16,16.29,120,25.0,-117.0,2.97,3,Débit limité
+Chambray-lès-Tours,37,47.34,0.7,Intermédiaire,168,16,366.63,120,0.83,-90.72,2.55,2,Très bien servies
+Chambéry,73,45.57,5.92,Intermédiaire,336,32,185.32,240,0.83,-97.52,2.25,2,Très bien servies
+Champ-sur-Drac,38,45.08,5.74,Dense,172,16,359.45,120,1.67,-99.0,2.15,2,Très bien servies
+Champhol,28,48.47,1.51,Intermédiaire,168,16,64.28,120,3.33,-109.9,3.0,1,Bien servies
+Champigneulles,54,48.74,6.16,Intermédiaire,168,16,23.41,120,0.0,-101.4,2.82,1,Bien servies
+Champigny,51,49.26,3.96,Intermédiaire,168,16,32.15,120,5.83,-104.34,2.34,1,Bien servies
+Champigny-sur-Marne,94,48.81,2.51,Dense,168,16,321.9,120,1.67,-93.74,2.64,2,Très bien servies
+Champlan,91,48.71,2.28,Dense,168,16,184.06,120,2.5,-106.9,2.74,1,Bien servies
+Champs-sur-Marne,77,48.85,2.6,Dense,168,16,255.9,120,0.0,-95.67,2.14,2,Très bien servies
+Chancelade,24,45.2,0.66,Intermédiaire,168,16,170.44,120,0.0,-96.97,2.3,2,Très bien servies
+Chancenay,52,48.67,4.99,Intermédiaire,168,16,301.32,120,0.0,-104.94,2.28,2,Très bien servies
+Changé,72,47.99,0.28,Intermédiaire,168,16,312.34,120,0.83,-98.3,2.62,2,Très bien servies
+Chantepie,35,48.08,-1.63,Intermédiaire,168,16,373.6,120,0.0,-99.64,2.64,2,Très bien servies
+Chantilly,60,49.19,2.46,Intermédiaire,336,32,220.89,240,0.83,-105.12,2.11,1,Bien servies
+Chantonnay,85,46.68,-1.05,Rurale,168,16,166.92,120,0.0,-99.46,2.25,1,Bien servies
+Chaource,10,48.06,4.14,Rurale,161,12,35.41,120,12.5,-107.74,2.43,1,Bien servies
+Chaptelat,87,45.91,1.26,Intermédiaire,163,12,33.37,120,19.17,-111.76,3.16,3,Débit limité
+Charbonnières-les-Bains,69,45.78,4.74,Dense,172,16,271.43,120,0.0,-103.84,2.16,2,Très bien servies
+Charnay-lès-Mâcon,71,46.31,4.81,Intermédiaire,168,16,124.18,120,0.0,-109.33,2.27,1,Bien servies
+Charny Orée de Puisaye,89,47.89,3.1,Rurale,168,16,42.46,120,2.5,-105.47,2.38,1,Bien servies
+Charroux,86,46.14,0.41,Rurale,168,16,13.52,120,4.17,-109.97,2.65,1,Bien servies
+Chartres,28,48.45,1.49,Intermédiaire,504,48,213.9,360,5.83,-97.63,2.68,2,Très bien servies
+Chartres-de-Bretagne,35,48.05,-1.71,Intermédiaire,168,16,394.6,120,0.0,-92.81,2.56,2,Très bien servies
+Chasselay,69,45.87,4.77,Dense,172,16,106.54,120,3.33,-113.22,2.34,1,Bien servies
+Chassieu,69,45.74,4.96,Dense,172,16,223.36,120,0.0,-107.0,2.15,1,Bien servies
+Chastel-Nouvel,48,44.56,3.5,Rurale,167,16,26.28,119,36.13,-117.5,5.04,3,Débit limité
+Chaumes-en-Brie,77,48.66,2.84,Rurale,164,14,145.89,120,4.17,-105.74,2.15,1,Bien servies
+Chaumontel,95,49.13,2.43,Intermédiaire,168,16,343.83,120,0.0,-92.0,2.0,2,Très bien servies
+Chavelot,88,48.23,6.43,Intermédiaire,168,16,31.88,120,0.83,-96.0,2.42,1,Bien servies
+Chaville,92,48.81,2.19,Dense,168,16,369.87,120,1.67,-98.4,2.55,2,Très bien servies
+Chemazé,53,47.79,-0.77,Rurale,168,16,167.09,120,0.83,-105.62,2.84,1,Bien servies
+Chemin de fer du Montenvers-Mer de Glace4 Chamonix-Mont-Blanc,74,45.92,6.88,Touristique,168,16,141.77,120,1.67,-100.5,2.3,1,Bien servies
+Chenôve,21,47.29,5.02,Intermédiaire,168,16,408.41,120,0.83,-87.91,2.14,2,Très bien servies
+Cherbourg-en-Cotentin,50,49.64,-1.62,Intermédiaire,504,48,360.96,360,0.0,-87.53,2.18,2,Très bien servies
+Chevreuse,78,48.7,2.03,Dense,168,16,141.08,120,15.0,-110.44,3.0,1,Bien servies
+Chilleurs-aux-Bois,45,48.07,2.13,Rurale,168,16,41.1,120,12.5,-108.5,3.36,3,Débit limité
+Chocques,62,50.54,2.57,Intermédiaire,168,16,284.84,120,0.0,-103.54,2.15,2,Très bien servies
+Choisy-au-Bac,60,49.44,2.88,Intermédiaire,168,16,350.11,120,16.67,-103.0,2.16,2,Très bien servies
+Cholet,49,47.07,-0.87,Intermédiaire,837,78,292.7,600,0.17,-97.67,2.2,2,Très bien servies
+Châlus,87,45.65,0.98,Rurale,168,16,49.08,120,15.0,-112.85,2.78,3,Débit limité
+Château de Chambord Chambord,27,47.62,1.51,Touristique,168,16,205.07,120,0.0,-89.29,2.78,2,Très bien servies
+Château de Chenonceau Chenonceau,37,47.33,1.07,Touristique,166,16,307.33,120,2.5,-110.96,2.98,1,Bien servies
+Château de Fontainebleau Fontainebleau,77,48.4,2.7,Touristique,168,16,52.51,120,0.0,-105.75,2.22,1,Bien servies
+Château des Ducs de Bretagne Nantes,44,47.22,-1.55,Touristique,168,16,157.96,120,21.67,-106.84,3.16,1,Bien servies
+Château du Haut-Koenigsbourg Orschwiller,67,48.25,7.35,Touristique,167,15,3.18,120,40.83,-114.8,6.66,3,Débit limité
+Château-Renard,45,47.93,2.93,Rurale,168,16,120.17,120,0.0,-99.3,2.28,1,Bien servies
+Châteaubernard,16,45.68,-0.31,Intermédiaire,168,16,50.48,120,10.83,-111.44,2.41,1,Bien servies
+Châteaulin,29,48.2,-4.08,Rurale,168,16,227.01,120,2.5,-103.66,2.2,1,Bien servies
+Châteaumeillant,18,46.56,2.2,Rurale,161,12,130.88,120,2.5,-97.71,2.16,1,Bien servies
+Châteauroux,36,46.81,1.7,Intermédiaire,504,48,341.87,360,0.0,-101.12,3.1,2,Très bien servies
+Châteauvillain,52,48.03,4.92,Rurale,168,16,24.12,120,18.33,-109.95,2.9,3,Débit limité
+Châtenay-Malabry,92,48.77,2.27,Dense,168,16,331.76,120,1.67,-109.78,2.71,2,Très bien servies
+Châtillon-sur-Indre,36,46.99,1.17,Rurale,168,16,125.87,120,0.83,-100.8,3.09,1,Bien servies
+Cimetière américain d'Omaha Colleville-sur-Mer,14,49.36,-0.85,Touristique,168,16,0.0,120,64.17,-120.02,10.01,0,Mal servies
+Cinémathèque française Paris,75,48.84,2.38,Touristique,168,16,312.32,120,1.67,-103.58,2.64,2,Très bien servies
+Circuit - compétitions nationales et internationales Nevers,58,46.86,3.16,Touristique,166,14,121.47,120,6.67,-105.07,2.18,1,Bien servies
+Citadelle de Blaye,33,45.13,-0.67,Touristique,168,16,22.19,120,0.83,-112.9,2.42,1,Bien servies
+Cité de l'espace Toulouse,31,43.59,1.49,Touristique,168,16,381.34,120,0.83,-96.28,2.2,2,Très bien servies
+Cité des sciences et de l'industrie de La Villette Paris,75,48.9,2.39,Touristique,168,16,381.05,120,0.0,-92.9,2.76,2,Très bien servies
+Cité du Vin Bordeaux ,33,44.86,-0.56,Touristique,167,16,165.14,120,10.0,-106.9,2.46,1,Bien servies
+Cité médiévale (rempart + château) Carcassonne,11,43.21,2.37,Touristique,168,16,2.35,120,34.17,-112.71,3.62,3,Débit limité
+Civens,42,45.75,4.22,Rurale,168,16,162.87,120,0.0,-110.58,2.24,1,Bien servies
+Clairoix,60,49.44,2.85,Intermédiaire,168,16,338.04,120,0.0,-97.67,2.04,2,Très bien servies
+Claix,38,45.12,5.67,Dense,172,16,130.42,120,2.5,-103.36,2.27,1,Bien servies
+Clelles,38,44.83,5.62,Rurale,172,16,36.23,120,0.0,-92.0,2.21,1,Bien servies
+Clermont-Ferrand,63,45.78,3.11,Intermédiaire,672,64,290.67,480,0.21,-98.68,2.17,2,Très bien servies
+Clichy-la-Garenne,92,48.9,2.3,Dense,168,16,325.71,120,0.0,-88.94,1.95,2,Très bien servies
+Cluis,36,46.54,1.75,Rurale,168,16,8.33,120,29.17,-112.22,3.49,3,Débit limité
+Cléguérec,56,48.12,-3.07,Rurale,167,16,174.66,119,0.84,-96.46,2.19,2,Très bien servies
+Coarraze,64,43.18,-0.24,Intermédiaire,168,16,224.99,120,10.83,-112.4,2.41,1,Bien servies
+Cognac,16,45.69,-0.33,Intermédiaire,503,48,83.84,360,21.39,-111.86,2.5,3,Débit limité
+Coisy,80,49.96,2.33,Rurale,168,16,32.41,120,0.0,-87.45,2.22,2,Très bien servies
+Colembert,62,50.75,1.84,Rurale,168,16,21.4,120,25.83,-118.87,2.96,3,Débit limité
+Collonges,01,46.14,5.9,Rurale,172,16,9.99,120,31.67,-113.96,3.53,3,Débit limité
+Collonges-au-Mont-d'Or,69,45.82,4.84,Dense,172,16,212.37,120,0.0,-105.67,2.25,1,Bien servies
+Colmars,04,44.18,6.63,Rurale,167,16,56.21,120,1.67,-112.85,3.01,1,Bien servies
+Colombey-les-Belles,54,48.53,5.9,Rurale,168,16,72.34,120,8.33,-109.0,2.52,1,Bien servies
+Colombey-les-Deux-Églises,52,48.22,4.89,Rurale,161,13,3.22,120,42.5,-113.9,4.88,3,Débit limité
+Combs-la-Ville,77,48.65,2.56,Dense,167,16,438.78,120,1.67,-93.11,2.62,2,Très bien servies
+Comines,59,50.76,3.01,Dense,168,16,294.21,120,0.0,-104.0,2.13,2,Très bien servies
+Commercy,55,48.76,5.59,Rurale,168,16,123.93,120,12.5,-109.53,2.51,1,Bien servies
+Compiègne,60,49.41,2.81,Intermédiaire,336,32,259.12,240,0.0,-90.0,2.18,2,Très bien servies
+Concarneau,29,47.9,-3.91,Intermédiaire,168,16,206.07,120,0.83,-92.86,2.2,2,Très bien servies
+Conciergerie Paris,75,48.86,2.35,Touristique,168,16,355.49,120,0.0,-93.08,2.62,2,Très bien servies
+Condat-en-Combraille,63,45.85,2.57,Rurale,168,16,0.0,120,71.67,-110.01,10.01,0,Mal servies
+Condom,32,43.95,0.37,Rurale,168,16,207.49,120,24.17,-92.52,2.52,2,Très bien servies
+Condé-en-Normandie,14,48.85,-0.55,Rurale,168,16,29.13,120,5.83,-109.5,2.58,1,Bien servies
+Condé-sur-Marne,51,49.04,4.18,Rurale,163,14,0.17,120,62.5,-117.5,4.93,3,Débit limité
+Confolens,16,46.02,0.67,Rurale,160,12,57.24,120,1.67,-108.68,2.26,1,Bien servies
+Conlie,72,48.12,-0.01,Rurale,168,16,116.77,120,2.5,-105.88,2.86,1,Bien servies
+Contes,06,43.81,7.32,Dense,168,16,274.24,120,1.67,-102.87,2.72,2,Très bien servies
+Conty,80,49.74,2.15,Rurale,168,16,80.49,120,4.17,-107.5,2.3,1,Bien servies
+Coquelles,62,50.94,1.82,Intermédiaire,168,16,83.17,120,1.67,-111.67,2.49,1,Bien servies
+Coray,29,48.06,-3.83,Rurale,168,16,175.07,120,3.33,-107.88,2.26,1,Bien servies
+Corbarieu,82,43.94,1.37,Intermédiaire,153,14,20.37,108,39.81,-117.04,4.06,3,Débit limité
+Corbas,69,45.67,4.91,Dense,172,16,296.24,120,0.0,-102.0,2.06,2,Très bien servies
+Corbigny,58,47.26,3.68,Rurale,167,16,29.11,119,20.17,-115.4,3.21,3,Débit limité
+Corbières-en-Provence,04,43.76,5.75,Intermédiaire,166,16,3.05,120,40.83,-114.29,7.76,0,Mal servies
+Corignac,17,45.25,-0.39,Rurale,168,16,32.06,120,2.5,-79.33,2.08,2,Très bien servies
+Corlay,22,48.32,-3.06,Rurale,132,12,0.97,94,53.19,-116.86,10.01,0,Mal servies
+Cormont,62,50.57,1.74,Rurale,167,16,0.0,120,68.33,-125.4,10.02,0,Mal servies
+Corneilla-del-Vercol,66,42.63,2.95,Intermédiaire,168,16,324.75,120,12.5,-105.13,2.41,2,Très bien servies
+Corte,2B,42.31,9.15,Rurale,168,16,286.26,120,5.83,-107.54,2.88,1,Bien servies
+Coulanges-lès-Nevers,58,47.01,3.18,Intermédiaire,168,16,192.28,120,0.83,-104.44,2.04,1,Bien servies
+Coulommiers,77,48.81,3.08,Intermédiaire,500,46,13.51,360,12.22,-104.0,2.73,1,Bien servies
+Courcôme,16,45.99,0.13,Rurale,168,16,34.29,120,6.67,-108.04,2.33,1,Bien servies
+Courdimanche,95,49.05,2.0,Dense,168,16,308.42,120,0.0,-104.76,2.8,2,Très bien servies
+Cournon-d'Auvergne,63,45.73,3.18,Intermédiaire,168,16,340.79,120,0.0,-85.67,2.22,2,Très bien servies
+Courson-les-Carrières,89,47.61,3.5,Rurale,168,16,87.55,120,0.0,-108.78,2.16,1,Bien servies
+Courthézon,84,44.09,4.88,Dense,167,16,224.9,119,16.81,-108.49,3.01,1,Bien servies
+Courtisols,51,48.99,4.5,Rurale,168,16,276.35,120,0.0,-86.0,2.23,2,Très bien servies
+Courtry,77,48.92,2.6,Dense,168,16,171.62,120,0.0,-108.1,2.24,1,Bien servies
+Coutances,50,49.05,-1.44,Rurale,168,16,42.51,120,0.0,-111.28,2.57,1,Bien servies
+Coux,07,44.73,4.62,Intermédiaire,168,16,129.7,120,23.33,-106.61,3.5,3,Débit limité
+Couzeix,87,45.88,1.24,Intermédiaire,168,16,156.82,120,4.17,-112.84,2.42,1,Bien servies
+Coye-la-Forêt,60,49.14,2.47,Intermédiaire,167,16,190.62,120,0.0,-109.25,2.18,1,Bien servies
+Craponne,69,45.75,4.72,Dense,172,16,321.15,120,0.0,-106.67,2.3,2,Très bien servies
+Craponne-sur-Arzon,43,45.33,3.85,Rurale,168,16,45.34,120,3.33,-107.0,2.4,1,Bien servies
+Cravent,78,48.99,1.48,Rurale,160,12,8.19,120,7.5,-111.17,3.26,3,Débit limité
+Cressat,23,46.14,2.11,Rurale,161,12,6.44,120,0.83,-103.02,2.63,1,Bien servies
+Crest,26,44.73,5.02,Intermédiaire,172,16,352.65,120,0.0,-101.25,2.23,2,Très bien servies
+Croissy-sur-Seine,78,48.88,2.14,Dense,168,16,113.08,120,13.33,-112.89,3.32,3,Débit limité
+Croix,59,50.68,3.15,Dense,166,16,346.41,118,0.0,-94.0,2.0,2,Très bien servies
+Crossac,44,47.41,-2.17,Rurale,168,16,176.04,120,0.0,-98.92,2.78,2,Très bien servies
+Crouttes,61,48.92,0.14,Rurale,168,16,5.54,120,10.83,-105.8,2.94,1,Bien servies
+Crouy-sur-Ourcq,77,49.09,3.08,Rurale,168,16,66.7,120,4.17,-103.33,2.22,1,Bien servies
+Crozant,23,46.39,1.62,Rurale,168,16,26.01,120,0.0,-102.27,2.26,1,Bien servies
+Crozes-Hermitage,26,45.09,4.85,Intermédiaire,168,16,4.21,120,52.5,-125.0,10.01,0,Mal servies
+Crucey-Villages,28,48.67,1.08,Rurale,167,16,29.67,119,25.21,-111.92,4.07,3,Débit limité
+Crégy-lès-Meaux,77,48.98,2.87,Intermédiaire,168,16,372.17,120,0.83,-83.0,1.96,2,Très bien servies
+Crêches-sur-Saône,71,46.25,4.79,Intermédiaire,168,16,285.14,120,0.0,-101.84,2.14,2,Très bien servies
+Cuers,83,43.24,6.08,Dense,153,14,114.24,107,20.56,-112.09,3.54,3,Débit limité
+Cugnaux,31,43.53,1.36,Dense,168,16,506.93,120,0.0,-93.95,2.16,2,Très bien servies
+Cuinchy,62,50.52,2.75,Intermédiaire,168,16,245.43,120,1.67,-108.0,2.3,1,Bien servies
+Cuincy,59,50.37,3.04,Dense,168,16,436.14,120,0.0,-82.5,1.94,2,Très bien servies
+Cuts,60,49.53,3.1,Rurale,168,16,7.32,120,18.33,-110.12,2.74,3,Débit limité
+Cénac,33,44.78,-0.46,Dense,168,16,220.55,120,11.67,-107.35,2.39,1,Bien servies
+Dammarie-les-Lys,77,48.52,2.62,Dense,504,48,316.37,360,3.06,-96.51,2.7,2,Très bien servies
+Dammartin-en-Goële,77,49.05,2.68,Intermédiaire,335,32,49.31,240,8.75,-109.88,2.34,1,Bien servies
+Dampierre,10,48.55,4.37,Rurale,168,16,0.39,120,70.0,-115.65,10.02,0,Mal servies
+Dampmart,77,48.89,2.73,Dense,168,16,55.15,120,0.83,-111.0,2.26,1,Bien servies
+Daoulas,29,48.36,-4.26,Rurale,168,16,17.25,120,8.33,-105.52,2.46,1,Bien servies
+Dardilly,69,45.81,4.77,Dense,172,16,165.27,120,6.67,-103.38,2.12,1,Bien servies
+Darvault,77,48.27,2.73,Intermédiaire,168,16,2.32,120,22.5,-110.19,4.03,3,Débit limité
+Daumazan-sur-Arize,09,43.14,1.31,Rurale,168,16,0.0,120,50.83,-104.8,10.0,0,Mal servies
+Daux,31,43.69,1.27,Dense,168,16,26.69,120,1.67,-111.82,2.62,1,Bien servies
+Dax,40,43.72,-1.05,Intermédiaire,166,16,200.71,120,0.0,-109.72,2.4,1,Bien servies
+Dechy,59,50.35,3.13,Dense,168,16,434.52,120,0.83,-90.5,2.02,2,Très bien servies
+Delme,57,48.89,6.38,Rurale,160,12,13.83,120,25.83,-104.14,2.87,3,Débit limité
+Denain,59,50.32,3.39,Intermédiaire,168,16,279.07,120,0.83,-92.84,2.2,2,Très bien servies
+Deuil-la-Barre,95,48.97,2.32,Dense,168,16,303.73,120,0.0,-96.15,2.04,2,Très bien servies
+Diarville,54,48.4,6.14,Rurale,168,16,69.88,120,4.17,-100.0,2.53,1,Bien servies
+Digoin,71,46.48,3.98,Rurale,168,16,379.59,120,0.0,-106.0,2.13,2,Très bien servies
+Dijon,21,47.33,5.05,Intermédiaire,672,64,278.03,480,0.62,-94.33,2.26,2,Très bien servies
+Disneyland Marne-la-Vallée,69,48.87,2.78,Touristique,168,16,320.24,120,0.0,-77.0,2.08,2,Très bien servies
+Domaine de Chantilly Chantilly,60,49.19,2.48,Touristique,168,16,90.03,120,0.83,-112.0,2.21,1,Bien servies
+Domaine de Versailles,78,48.8,2.12,Touristique,168,16,59.34,120,5.0,-103.68,2.98,1,Bien servies
+Domaine régional de Chaumont-sur-Loire,41,47.48,1.18,Touristique,168,16,4.48,120,8.33,-106.83,3.84,1,Bien servies
+Domart-en-Ponthieu,80,50.07,2.13,Rurale,168,16,72.95,120,2.5,-104.47,2.34,1,Bien servies
+Domessin,73,45.54,5.71,Intermédiaire,168,16,18.04,120,10.0,-116.0,3.04,3,Débit limité
+Domfront en Poiraie,61,48.58,-0.64,Rurale,168,16,237.29,120,0.83,-105.16,2.15,1,Bien servies
+Dommartin,25,46.92,6.31,Intermédiaire,168,16,60.28,120,10.0,-108.0,2.83,1,Bien servies
+Domont,95,49.03,2.34,Dense,168,16,267.0,120,5.83,-104.58,2.1,2,Très bien servies
+Dompierre-sur-Besbre,03,46.52,3.68,Rurale,168,16,182.88,120,0.0,-106.2,2.24,1,Bien servies
+Domène,38,45.2,5.84,Dense,168,16,301.12,120,1.67,-101.5,2.21,2,Très bien servies
+Douai,59,50.37,3.09,Dense,168,16,321.76,120,0.0,-85.62,2.02,2,Très bien servies
+Doubs,25,46.92,6.34,Intermédiaire,168,16,59.74,120,0.83,-101.28,2.5,1,Bien servies
+Doullens,80,50.16,2.34,Rurale,168,16,330.27,120,1.67,-99.84,2.08,2,Très bien servies
+Doussard,74,45.78,6.22,Intermédiaire,168,16,4.07,120,7.5,-108.9,3.41,1,Bien servies
+Douvaine,74,46.3,6.31,Rurale,168,16,144.57,120,0.0,-84.0,2.15,2,Très bien servies
+Drancy,93,48.92,2.42,Dense,168,16,203.84,120,0.0,-85.42,2.01,2,Très bien servies
+Drap,06,43.76,7.32,Dense,168,16,326.92,120,1.67,-102.68,2.73,2,Très bien servies
+Draveil,92,48.68,2.41,Dense,168,16,213.49,120,4.17,-106.39,2.72,1,Bien servies
+Droué,41,48.04,1.08,Rurale,167,15,76.13,120,27.5,-102.78,3.54,3,Débit limité
+Drumettaz-Clarafond,73,45.66,5.91,Intermédiaire,168,16,367.13,120,0.0,-94.18,2.12,2,Très bien servies
+Duingt,74,45.83,6.2,Intermédiaire,167,16,45.91,119,3.36,-107.58,2.33,1,Bien servies
+Dune du Pilat La Teste-de-Buch,33,44.6,-1.2,Touristique,168,16,107.61,120,5.0,-105.13,2.36,1,Bien servies
+Dunkerque,59,51.03,2.37,Intermédiaire,840,80,213.5,600,0.0,-97.33,2.16,2,Très bien servies
+Duran,32,43.67,0.56,Intermédiaire,168,16,150.4,120,6.67,-109.78,2.46,1,Bien servies
+Duras,47,44.68,0.19,Rurale,156,16,156.26,108,0.0,-103.69,2.53,1,Bien servies
+Décines-Charpieu,69,45.76,4.95,Dense,172,16,348.65,120,0.0,-100.0,2.07,2,Très bien servies
+Désertines,53,48.47,-0.87,Rurale,168,16,178.29,120,0.0,-92.4,2.08,2,Très bien servies
+Déville-lès-Rouen,76,49.46,1.05,Dense,168,16,268.26,120,0.0,-100.48,2.01,2,Très bien servies
+Eaunes,31,43.43,1.36,Dense,168,16,184.48,120,5.83,-108.4,2.42,1,Bien servies
+Eauze,32,43.86,0.1,Rurale,168,16,47.46,120,16.67,-111.36,2.68,3,Débit limité
+Ecques,62,50.67,2.29,Rurale,167,15,5.35,120,30.83,-115.34,4.97,3,Débit limité
+Elne,66,42.6,2.97,Intermédiaire,168,16,431.07,120,0.0,-84.9,2.28,2,Très bien servies
+Embrun,05,44.55,6.49,Rurale,165,16,89.62,120,9.17,-103.48,2.97,1,Bien servies
+Emmerin,59,50.59,3.0,Dense,168,16,73.58,120,7.5,-112.5,2.27,1,Bien servies
+Envermeu,76,49.9,1.26,Rurale,168,16,29.7,120,0.83,-112.76,2.4,1,Bien servies
+Erdre-en-Anjou,49,47.6,-0.84,Rurale,168,16,7.76,120,11.67,-111.32,3.98,3,Débit limité
+Ergué-Gabéric,29,48.0,-4.05,Intermédiaire,168,16,314.1,120,0.0,-96.59,2.26,2,Très bien servies
+Ernée,53,48.29,-0.93,Rurale,168,16,40.47,120,0.83,-111.84,2.68,1,Bien servies
+Escalquens,31,43.52,1.56,Dense,168,16,222.97,120,3.33,-102.3,2.31,2,Très bien servies
+Escaudain,59,50.33,3.34,Intermédiaire,168,16,298.56,120,0.0,-107.6,2.22,2,Très bien servies
+Eschau,67,48.49,7.72,Dense,168,16,34.13,120,1.67,-113.58,2.55,1,Bien servies
+Esmans,77,48.35,2.98,Rurale,168,16,0.0,120,70.83,-110.4,10.01,0,Mal servies
+Espéraza,11,42.93,2.22,Rurale,167,16,8.92,120,27.5,-109.26,2.76,3,Débit limité
+Essarts-en-Bocage,85,46.77,-1.24,Rurale,168,16,448.59,120,4.17,-94.39,2.18,2,Très bien servies
+Essey,21,47.2,4.52,Rurale,166,15,11.51,119,15.13,-113.85,3.74,3,Débit limité
+Essey-lès-Nancy,54,48.71,6.25,Intermédiaire,168,16,362.83,120,0.0,-89.33,2.26,2,Très bien servies
+Essigny-le-Petit,02,49.9,3.37,Rurale,168,16,1.23,120,35.83,-110.33,5.0,3,Débit limité
+Eu,76,50.05,1.42,Intermédiaire,168,16,159.76,120,0.83,-104.8,2.2,1,Bien servies
+Exincourt,25,47.5,6.84,Intermédiaire,168,16,133.34,120,0.0,-108.33,2.45,1,Bien servies
+Eygalières,13,43.76,4.95,Dense,165,13,0.0,120,80.0,-110.9,10.01,0,Mal servies
+Eysines,33,44.89,-0.67,Dense,168,16,432.35,120,9.17,-94.51,2.29,2,Très bien servies
+Eyzin-Pinet,38,45.47,5.0,Rurale,172,16,113.87,120,0.0,-107.67,2.18,1,Bien servies
+Fabrezan,11,43.14,2.7,Rurale,168,16,46.58,120,10.0,-107.95,2.7,1,Bien servies
+Famars,59,50.32,3.52,Intermédiaire,168,16,292.7,120,0.0,-96.0,2.07,2,Très bien servies
+Fanjeaux,11,43.18,2.03,Rurale,166,16,4.3,118,21.19,-105.82,3.26,3,Débit limité
+Fareins,01,46.02,4.76,Dense,172,16,148.76,120,0.0,-109.12,2.17,1,Bien servies
+Faremoutiers,77,48.8,2.99,Intermédiaire,168,16,72.88,120,0.83,-109.0,2.34,1,Bien servies
+Fauquembergues,62,50.6,2.1,Rurale,168,16,88.12,120,0.0,-101.0,2.26,1,Bien servies
+Fay-de-Bretagne,44,47.42,-1.79,Rurale,168,16,100.58,120,3.33,-106.6,2.93,1,Bien servies
+Fegersheim,67,48.5,7.69,Dense,168,16,351.64,120,0.0,-91.0,2.16,2,Très bien servies
+Feigneux,60,49.26,2.93,Rurale,164,13,1.41,120,60.83,-118.7,10.02,0,Mal servies
+Feignies,59,50.3,3.92,Intermédiaire,168,16,78.35,120,0.0,-105.0,2.18,1,Bien servies
+Fellering,68,47.89,6.99,Rurale,168,16,48.36,120,0.0,-111.67,2.45,1,Bien servies
+Fenouillet,31,43.69,1.4,Dense,168,16,320.43,120,0.0,-99.4,2.16,2,Très bien servies
+Ferrière-la-Grande,59,50.25,3.99,Intermédiaire,168,16,108.17,120,3.33,-102.0,2.46,1,Bien servies
+Ferrières-en-Bray,76,49.48,1.73,Rurale,168,16,218.18,120,0.0,-106.5,2.3,1,Bien servies
+Ferrières-en-Brie,77,48.82,2.7,Dense,168,16,72.61,120,12.5,-114.0,2.58,3,Débit limité
+Feytiat,87,45.81,1.32,Intermédiaire,164,14,0.0,120,33.33,-105.36,2.59,3,Débit limité
+Figanières,83,43.57,6.5,Rurale,168,16,74.16,120,11.67,-104.62,2.87,1,Bien servies
+Firminy,42,45.39,4.29,Intermédiaire,168,16,244.46,120,0.0,-100.0,2.12,2,Très bien servies
+Flayat,23,45.78,2.38,Rurale,166,15,0.0,120,76.67,-116.48,10.01,0,Mal servies
+Fleurance,32,43.85,0.66,Rurale,156,16,51.75,108,12.96,-108.08,2.46,1,Bien servies
+Flocques,76,50.04,1.36,Intermédiaire,168,16,94.57,120,0.83,-102.0,2.31,1,Bien servies
+Floirac,33,44.84,-0.51,Dense,168,16,347.8,120,0.0,-101.14,2.18,2,Très bien servies
+Florac Trois Rivières,48,44.33,3.59,Rurale,167,16,32.1,119,22.69,-110.29,3.95,3,Débit limité
+Fléac,16,45.66,0.09,Intermédiaire,152,8,339.6,120,0.0,-93.67,2.14,2,Très bien servies
+Follainville-Dennemont,78,49.02,1.71,Dense,168,16,236.51,120,0.0,-107.99,2.8,1,Bien servies
+Fonbeauzard,31,43.68,1.42,Dense,168,16,353.04,120,0.0,-102.3,2.24,2,Très bien servies
+Fondation Louis Vuitton Paris,75,48.88,2.26,Touristique,167,16,16.32,119,42.02,-109.09,5.01,3,Débit limité
+Fondettes,37,47.4,0.61,Intermédiaire,167,16,140.81,120,0.83,-111.45,3.15,1,Bien servies
+Fontaines,71,46.85,4.77,Rurale,168,16,15.64,120,24.17,-116.33,3.23,3,Débit limité
+Fontaines-sur-Saône,69,45.82,4.86,Dense,172,16,245.57,120,0.83,-95.36,2.07,2,Très bien servies
+Fontenay-aux-Roses,92,48.79,2.29,Dense,168,16,179.95,120,0.83,-103.43,2.87,1,Bien servies
+Fontenay-le-Comte,85,46.46,-0.8,Intermédiaire,504,48,112.71,360,7.22,-109.95,2.6,1,Bien servies
+Fontenay-le-Vicomte,91,48.55,2.41,Dense,167,16,87.1,120,4.17,-110.67,2.76,1,Bien servies
+Formerie,60,49.65,1.73,Rurale,168,16,107.98,120,18.33,-109.58,2.66,3,Débit limité
+Fouesnant,29,47.88,-4.0,Intermédiaire,336,32,274.53,240,10.0,-106.77,2.41,1,Bien servies
+Fouquières-lès-Lens,62,50.43,2.91,Dense,168,16,312.72,120,0.0,-102.25,2.07,2,Très bien servies
+Fourmies,59,50.02,4.05,Intermédiaire,320,24,229.36,240,6.25,-99.5,2.12,2,Très bien servies
+Francheville,69,45.74,4.75,Dense,172,16,216.75,120,4.17,-107.72,2.29,1,Bien servies
+Fresnes,94,48.75,2.33,Dense,166,15,342.11,119,8.4,-97.92,2.82,2,Très bien servies
+Fresnes-sur-Escaut,59,50.43,3.58,Intermédiaire,164,14,196.5,120,1.67,-99.12,2.19,2,Très bien servies
+Fresnoy-Folny,76,49.91,1.49,Rurale,168,16,15.04,120,0.0,-93.05,2.48,1,Bien servies
+Frouzins,31,43.52,1.32,Dense,168,16,116.97,120,0.83,-110.85,2.4,1,Bien servies
+Fruges,62,50.51,2.13,Rurale,168,16,21.7,120,40.0,-113.0,4.1,3,Débit limité
+Fréjus,83,43.42,6.74,Intermédiaire,453,46,245.2,314,12.42,-104.03,2.87,1,Bien servies
+Gajan,09,43.02,1.12,Rurale,168,16,0.0,120,57.5,-113.58,10.01,0,Mal servies
+Galeries nationales du Grand Palais Paris,75,48.87,2.31,Touristique,167,16,90.58,119,1.68,-101.49,2.74,1,Bien servies
+Ganges,34,43.94,3.71,Rurale,168,16,39.98,120,3.33,-107.95,3.09,1,Bien servies
+Gannat,03,46.1,3.2,Rurale,164,14,289.98,120,0.0,-101.5,2.21,2,Très bien servies
+Gardanne,13,43.46,5.48,Dense,335,32,307.05,239,0.42,-103.56,2.73,2,Très bien servies
+Gardonne,24,44.84,0.33,Intermédiaire,168,16,127.91,120,3.33,-109.29,2.46,1,Bien servies
+Gardères,65,43.28,-0.11,Rurale,168,16,3.92,120,15.0,-99.96,3.58,1,Bien servies
+Gargenville,78,48.99,1.81,Dense,168,16,409.37,120,1.67,-100.04,2.86,2,Très bien servies
+Gelles,63,45.77,2.76,Rurale,152,8,7.63,120,75.0,-111.42,2.0,3,Débit limité
+Gennevilliers,92,48.94,2.3,Dense,168,16,372.98,120,0.0,-97.0,2.02,2,Très bien servies
+Genouillac,23,46.35,1.99,Rurale,164,14,11.76,120,1.67,-99.54,2.37,1,Bien servies
+Gentilly,94,48.81,2.35,Dense,167,15,312.08,120,0.0,-99.35,2.58,2,Très bien servies
+Gerbéviller,54,48.5,6.51,Rurale,166,15,32.89,120,9.17,-112.6,3.08,3,Débit limité
+Gex,01,46.33,6.06,Intermédiaire,336,32,360.04,240,0.83,-92.0,2.12,2,Très bien servies
+Gien,45,47.71,2.64,Intermédiaire,335,32,139.91,240,8.33,-110.42,3.24,1,Bien servies
+Gizay,86,46.44,0.42,Rurale,157,10,0.0,120,81.67,-119.39,10.01,0,Mal servies
+Gières,38,45.18,5.79,Dense,168,16,123.29,120,0.0,-112.0,2.29,1,Bien servies
+Gièvres,41,47.28,1.67,Rurale,168,16,193.73,120,5.0,-97.2,2.84,2,Très bien servies
+Glaire,08,49.71,4.91,Intermédiaire,168,16,89.77,120,0.0,-100.2,2.26,1,Bien servies
+Gleizé,69,46.01,4.71,Dense,172,16,411.21,120,0.83,-94.0,2.06,2,Très bien servies
+Golbey,88,48.19,6.42,Intermédiaire,168,16,105.05,120,0.0,-99.33,2.33,1,Bien servies
+Gondrecourt-le-Château,55,48.51,5.51,Rurale,168,16,26.84,120,31.67,-110.33,3.54,3,Débit limité
+Gonesse,95,48.99,2.43,Dense,168,16,399.57,120,0.83,-96.67,2.08,2,Très bien servies
+Gotein-Libarrenx,64,43.19,-0.9,Rurale,167,16,99.56,120,12.5,-111.4,2.82,1,Bien servies
+Gouesnach,29,47.91,-4.12,Intermédiaire,168,16,245.01,120,12.5,-111.04,2.69,1,Bien servies
+Gouffre de Padirac Padirac,46,44.86,1.75,Touristique,168,16,5.02,120,25.0,-117.67,3.49,3,Débit limité
+Gourdon,71,46.64,4.45,Intermédiaire,168,16,7.0,120,10.0,-115.33,3.04,3,Débit limité
+Gourhel,56,47.94,-2.36,Intermédiaire,168,16,100.01,120,10.83,-108.83,2.63,1,Bien servies
+Goussainville,95,49.03,2.47,Dense,336,32,149.66,240,1.67,-104.76,2.21,1,Bien servies
+Gouvieux,60,49.19,2.41,Intermédiaire,167,16,62.86,120,0.83,-107.23,2.21,1,Bien servies
+Gouzeaucourt,59,50.06,3.14,Rurale,168,16,12.61,120,25.0,-108.7,2.61,3,Débit limité
+Gradignan,33,44.78,-0.62,Dense,327,28,222.25,240,1.67,-106.85,2.34,1,Bien servies
+Gramat,46,44.78,1.73,Rurale,168,16,93.18,120,0.0,-105.32,2.2,1,Bien servies
+Grand-Champ,56,47.75,-2.84,Rurale,168,16,103.54,120,15.83,-101.85,2.4,1,Bien servies
+Grande-Synthe,59,51.01,2.28,Intermédiaire,168,16,124.07,120,4.17,-105.71,2.24,1,Bien servies
+Grandfontaine,67,48.51,7.14,Rurale,168,16,42.75,120,4.17,-102.5,2.52,1,Bien servies
+Grandvilliers,60,49.66,1.94,Rurale,168,16,118.12,120,2.5,-108.5,2.4,1,Bien servies
+Granzay-Gript,79,46.21,-0.47,Rurale,168,16,140.1,120,0.83,-98.26,2.24,1,Bien servies
+Grasse,06,43.65,6.94,Dense,336,32,133.13,240,7.08,-104.7,2.86,1,Bien servies
+Gravelines,59,51.0,2.12,Intermédiaire,168,16,77.54,120,10.83,-95.16,2.25,1,Bien servies
+Gray,70,47.45,5.59,Rurale,168,16,204.95,120,2.5,-103.33,2.52,1,Bien servies
+Grenoble,38,45.18,5.71,Dense,1028,96,328.45,720,0.28,-93.0,2.09,2,Très bien servies
+Grigny,69,45.6,4.78,Dense,172,16,49.47,120,0.83,-109.72,2.26,1,Bien servies
+Groslay,95,48.98,2.36,Dense,168,16,220.55,120,0.0,-102.0,2.03,2,Très bien servies
+Gruchet-le-Valasse,76,49.55,0.49,Intermédiaire,168,16,91.9,120,0.0,-85.84,2.26,2,Très bien servies
+Gruny,80,49.73,2.82,Rurale,167,15,2.55,120,32.5,-115.29,5.83,3,Débit limité
+Gruson,59,50.6,3.21,Dense,168,16,223.01,120,2.5,-101.0,2.21,2,Très bien servies
+Grésy-sur-Isère,73,45.6,6.26,Rurale,168,16,65.89,120,0.83,-105.0,2.34,1,Bien servies
+Grézieu-la-Varenne,69,45.74,4.69,Dense,172,16,178.23,120,0.0,-108.0,2.26,1,Bien servies
+Guerlédan,22,48.2,-2.99,Rurale,160,12,90.34,120,1.67,-99.61,2.34,1,Bien servies
+Guerting,57,49.19,6.62,Rurale,168,16,106.1,120,3.33,-104.33,2.2,1,Bien servies
+Guidel,56,47.79,-3.49,Intermédiaire,168,16,425.92,120,0.0,-96.72,2.18,2,Très bien servies
+Guignen,35,47.92,-1.86,Rurale,168,16,116.85,120,3.33,-106.28,2.72,1,Bien servies
+Guillonville,28,48.1,1.65,Rurale,168,16,20.89,120,12.5,-109.29,3.3,3,Débit limité
+Guipavas,29,48.42,-4.44,Intermédiaire,168,16,326.46,120,1.67,-104.63,2.26,2,Très bien servies
+Guipry-Messac,35,47.82,-1.84,Rurale,168,16,310.92,120,0.0,-100.71,2.57,2,Très bien servies
+Guiscriff,56,48.05,-3.65,Rurale,166,16,35.28,120,7.5,-104.29,2.39,1,Bien servies
+Guise,02,49.9,3.63,Rurale,168,16,3.37,120,20.83,-115.0,3.4,3,Débit limité
+Guédelon chantier médiéval Treigny,89,47.58,3.16,Touristique,168,16,54.81,120,0.83,-70.46,2.0,2,Très bien servies
+Guémar,68,48.19,7.4,Rurale,167,15,4.97,120,20.83,-111.0,3.38,3,Débit limité
+Gyé-sur-Seine,10,48.03,4.43,Rurale,161,12,60.3,120,1.67,-108.72,2.23,1,Bien servies
+Gémenos,13,43.28,5.63,Dense,168,16,259.23,120,0.0,-100.89,2.72,2,Très bien servies
+Gémozac,17,45.58,-0.68,Rurale,164,14,0.0,120,33.33,-114.11,2.96,3,Débit limité
+Hagetmau,40,43.65,-0.59,Rurale,168,16,0.0,120,68.33,-113.76,10.01,0,Mal servies
+Haguenau,67,48.82,7.77,Intermédiaire,336,32,71.71,240,1.67,-105.0,2.51,1,Bien servies
+Hallennes-lez-Haubourdin,59,50.61,2.97,Dense,168,16,135.21,120,1.67,-103.0,2.12,1,Bien servies
+Harquency,27,49.25,1.48,Rurale,168,16,17.8,120,21.67,-116.79,3.35,3,Débit limité
+Hauterives,26,45.25,5.02,Rurale,172,16,34.0,120,0.0,-108.32,2.26,1,Bien servies
+Hautmont,59,50.25,3.92,Intermédiaire,168,16,85.01,120,0.0,-100.0,2.2,1,Bien servies
+Hazebrouck,59,50.73,2.54,Intermédiaire,671,64,282.06,480,4.58,-98.0,2.04,2,Très bien servies
+Hennezel,88,48.05,6.12,Rurale,168,16,12.15,120,4.17,-91.33,2.62,1,Bien servies
+Hesdin,62,50.37,2.04,Rurale,168,16,53.07,120,0.83,-107.0,2.36,1,Bien servies
+Hettenschlag,68,48.0,7.46,Rurale,164,14,1.38,120,47.5,-116.38,6.82,0,Mal servies
+Houdan,78,48.79,1.6,Rurale,167,16,131.62,119,0.84,-106.61,3.47,1,Bien servies
+Houeillès,47,44.2,0.03,Rurale,168,16,7.0,120,30.0,-110.18,4.5,3,Débit limité
+Houilles,78,48.93,2.19,Dense,168,16,321.16,120,15.83,-106.12,3.06,2,Très bien servies
+Hucqueliers,62,50.57,1.91,Rurale,168,16,5.56,120,0.83,-99.0,2.8,1,Bien servies
+Hultehouse,57,48.72,7.26,Rurale,167,16,5.47,120,34.17,-114.0,4.16,3,Débit limité
+Hundsbach,68,47.6,7.33,Rurale,160,12,2.04,120,42.5,-106.24,5.56,3,Débit limité
+Huriel,03,46.37,2.48,Rurale,167,16,47.61,120,5.0,-111.78,2.64,1,Bien servies
+Hyères,83,43.09,6.16,Dense,168,16,438.46,120,2.5,-92.89,2.72,2,Très bien servies
+Hénin-Beaumont,62,50.4,2.97,Dense,168,16,226.74,120,3.33,-108.44,2.19,1,Bien servies
+Héric,44,47.41,-1.66,Rurale,168,16,129.26,120,14.17,-106.83,3.34,1,Bien servies
+Hérimoncourt,25,47.44,6.88,Intermédiaire,168,16,338.25,120,0.0,-100.33,2.3,2,Très bien servies
+Hérouville-Saint-Clair,14,49.21,-0.33,Intermédiaire,168,16,140.66,120,0.0,-105.14,2.3,1,Bien servies
+Igny,91,48.74,2.23,Dense,168,16,230.91,120,4.17,-108.79,3.14,1,Bien servies
+Illkirch-Graffenstaden,67,48.51,7.71,Dense,168,16,464.79,120,0.0,-90.0,2.17,2,Très bien servies
+Illzach,68,47.77,7.39,Intermédiaire,168,16,125.01,120,0.0,-86.04,2.35,2,Très bien servies
+Incarville,27,49.24,1.18,Intermédiaire,168,16,231.0,120,0.0,-108.84,2.72,1,Bien servies
+Ingré,45,47.9,1.86,Intermédiaire,167,16,260.25,119,0.84,-94.62,2.61,2,Très bien servies
+Inguiniel,56,47.98,-3.28,Rurale,168,16,63.72,120,6.67,-110.24,2.38,1,Bien servies
+Irigny,69,45.67,4.82,Dense,172,16,292.57,120,0.0,-103.0,2.08,2,Très bien servies
+Isigny-le-Buat,50,48.62,-1.17,Rurale,168,16,48.35,120,10.83,-109.18,2.71,1,Bien servies
+Isle,87,45.81,1.23,Intermédiaire,168,16,291.63,120,0.0,-93.92,2.04,2,Très bien servies
+Isques,62,50.67,1.65,Intermédiaire,168,16,85.48,120,0.0,-110.0,2.27,1,Bien servies
+Issy-les-Moulineaux,92,48.82,2.25,Dense,168,16,356.06,120,2.5,-98.88,2.62,2,Très bien servies
+Jacobins de Toulouse,31,43.6,1.44,Touristique,168,16,215.01,120,0.83,-99.39,2.2,2,Très bien servies
+Javrezac,16,45.7,-0.36,Intermédiaire,168,16,166.04,120,10.83,-110.08,2.42,1,Bien servies
+Jazeneuil,86,46.46,0.07,Rurale,168,16,61.44,120,9.17,-111.78,2.54,1,Bien servies
+Jeumont,59,50.3,4.1,Intermédiaire,168,16,111.41,120,0.83,-101.0,2.2,1,Bien servies
+Joinville,52,48.45,5.16,Rurale,167,16,59.27,120,18.33,-99.0,2.73,1,Bien servies
+Joinville-le-Pont,94,48.82,2.48,Dense,168,16,338.15,120,0.83,-101.22,2.6,2,Très bien servies
+Jouars-Pontchartrain,78,48.81,1.89,Dense,168,16,302.7,120,4.17,-99.08,2.64,2,Très bien servies
+Joux,69,45.89,4.37,Rurale,156,10,16.24,120,50.0,-100.0,2.16,3,Débit limité
+Jouy-en-Josas,78,48.76,2.16,Dense,168,16,100.74,120,0.83,-105.15,2.71,1,Bien servies
+Joué-lès-Tours,37,47.34,0.64,Intermédiaire,168,16,416.7,120,0.0,-95.61,2.54,2,Très bien servies
+Juliénas,69,46.23,4.71,Intermédiaire,168,16,41.66,120,0.0,-108.09,2.26,1,Bien servies
+Juvignac,34,43.62,3.79,Dense,336,32,28.32,240,32.08,-109.71,3.9,3,Débit limité
+Kaltenhouse,67,48.79,7.83,Intermédiaire,168,16,309.4,120,0.0,-105.5,2.31,2,Très bien servies
+L'Aigle,61,48.76,0.62,Intermédiaire,168,16,429.47,120,0.0,-92.55,2.1,2,Très bien servies
+L'Ile bulle La Flèche,72,47.7,-0.05,Touristique,164,16,184.99,120,3.33,-106.58,3.02,1,Bien servies
+L'Isle-Adam,95,49.11,2.23,Dense,168,16,97.36,120,3.33,-106.84,2.16,1,Bien servies
+L'Isle-sur-la-Sorgue,84,43.92,5.05,Dense,167,16,190.68,119,4.2,-108.73,2.95,1,Bien servies
+L'Orbrie,85,46.49,-0.79,Intermédiaire,168,16,16.86,120,8.33,-112.63,2.62,1,Bien servies
+La Barre-de-Monts,85,46.89,-2.12,Intermédiaire,168,16,206.05,120,7.5,-110.56,2.72,1,Bien servies
+La Bassée,59,50.53,2.81,Intermédiaire,160,12,193.74,120,3.33,-97.82,2.36,2,Très bien servies
+La Boissière-École,78,48.68,1.65,Rurale,168,16,24.07,120,52.5,-102.2,10.0,0,Mal servies
+La Bouilladisse,13,43.4,5.59,Dense,168,16,178.04,120,12.5,-108.54,2.98,1,Bien servies
+La Bourboule,63,45.59,2.74,Rurale,168,16,158.84,120,0.0,-105.82,2.39,1,Bien servies
+La Bâtie-Neuve,05,44.57,6.2,Rurale,166,16,27.48,120,5.0,-109.48,3.36,1,Bien servies
+La Cadière-d'Azur,83,43.19,5.76,Dense,168,16,136.38,120,7.5,-111.66,3.05,1,Bien servies
+La Celle-sur-Morin,77,48.81,2.97,Intermédiaire,164,14,73.54,120,15.0,-110.5,2.5,1,Bien servies
+La Chapelle-Saint-Luc,10,48.31,4.03,Intermédiaire,168,16,223.86,120,3.33,-101.5,2.24,2,Très bien servies
+La Chapelle-Thècle,71,46.56,5.12,Rurale,165,14,4.45,120,63.33,-120.85,10.01,0,Mal servies
+La Chapelle-Vendômoise,41,47.67,1.24,Rurale,166,15,0.0,120,60.0,-117.54,6.72,0,Mal servies
+La Chapelle-sur-Erdre,44,47.3,-1.55,Dense,165,14,74.06,120,20.0,-111.68,3.45,3,Débit limité
+La Chaux-du-Dombief,39,46.6,5.9,Rurale,168,16,100.71,120,0.83,-89.5,2.25,2,Très bien servies
+La Châtaigneraie,85,46.65,-0.75,Rurale,168,16,27.85,120,8.33,-107.16,2.68,1,Bien servies
+La Ciotat,13,43.19,5.6,Dense,168,16,227.44,120,0.0,-100.0,2.76,2,Très bien servies
+La Courneuve,93,48.93,2.4,Dense,168,16,393.83,120,0.0,-86.67,1.98,2,Très bien servies
+La Couronne,16,45.62,0.1,Intermédiaire,168,16,366.11,120,0.0,-93.0,2.05,2,Très bien servies
+La Crau,83,43.12,6.07,Dense,168,16,293.11,120,2.5,-107.94,2.78,1,Bien servies
+La Côte-Saint-André,38,45.39,5.26,Rurale,172,16,80.3,120,0.0,-111.42,2.33,1,Bien servies
+La Farlède,83,43.16,6.04,Dense,168,16,418.21,120,1.67,-92.15,2.75,2,Très bien servies
+La Faurie,05,44.57,5.74,Rurale,172,16,199.36,120,0.0,-104.0,2.24,1,Bien servies
+La Ferté-Gaucher,77,48.78,3.3,Rurale,165,14,61.37,120,11.67,-104.67,2.32,1,Bien servies
+La Feuillée,29,48.39,-3.86,Rurale,168,16,77.34,120,12.5,-113.03,2.66,3,Débit limité
+La Forge,88,48.06,6.72,Intermédiaire,168,16,165.03,120,0.0,-103.42,2.32,1,Bien servies
+La Forêt-Fouesnant,29,47.91,-3.98,Intermédiaire,168,16,74.26,120,21.67,-113.31,2.65,3,Débit limité
+La Gacilly,56,47.77,-2.13,Rurale,168,16,32.31,120,8.33,-111.26,3.4,3,Débit limité
+La Garenne-Colombes,92,48.91,2.24,Dense,168,16,407.27,120,0.0,-98.42,2.77,2,Très bien servies
+La Gorgue,59,50.64,2.72,Intermédiaire,168,16,201.75,120,0.0,-108.5,2.2,1,Bien servies
+La Grand-Combe,30,44.21,4.03,Rurale,168,16,107.34,120,0.83,-110.94,2.8,1,Bien servies
+La Grande-Verrière,71,46.97,4.14,Rurale,168,16,19.86,120,0.0,-94.84,2.22,1,Bien servies
+La Londe,76,49.31,0.95,Dense,168,16,258.74,120,4.17,-107.26,3.02,1,Bien servies
+La Meilleraye-de-Bretagne,44,47.56,-1.4,Rurale,165,15,122.63,120,7.5,-99.24,2.87,1,Bien servies
+La Mulatière,69,45.73,4.81,Dense,168,16,36.25,120,5.0,-108.0,2.58,1,Bien servies
+La Penne-sur-Huveaune,13,43.28,5.52,Dense,168,16,233.23,120,0.83,-104.78,2.76,1,Bien servies
+La Queue-en-Brie,94,48.78,2.58,Dense,168,16,235.06,120,0.83,-110.09,2.92,1,Bien servies
+La Roche-en-Brenil,21,47.38,4.18,Rurale,168,16,54.32,120,16.67,-109.87,2.39,3,Débit limité
+La Rochette,77,48.52,2.66,Dense,168,16,300.08,120,5.0,-105.08,2.74,2,Très bien servies
+La Salvetat-Saint-Gilles,31,43.58,1.27,Dense,168,16,500.43,120,0.0,-87.0,2.18,2,Très bien servies
+La Sauvetat-de-Savères,47,44.23,0.8,Rurale,154,16,4.11,106,10.38,-105.04,3.14,1,Bien servies
+La Sentinelle,59,50.35,3.49,Intermédiaire,168,16,151.54,120,2.5,-109.44,2.3,1,Bien servies
+La Seyne-sur-Mer,83,43.11,5.86,Dense,335,32,265.04,239,10.88,-93.78,2.59,2,Très bien servies
+La Sommette,25,47.2,6.51,Rurale,168,16,24.96,120,25.0,-117.0,3.64,3,Débit limité
+La Souterraine,23,46.23,1.48,Rurale,168,16,76.82,120,3.33,-108.02,2.35,1,Bien servies
+La Trinité,06,43.73,7.31,Dense,168,16,181.12,120,0.83,-101.91,2.65,1,Bien servies
+La Valette-du-Var,83,43.14,6.02,Dense,168,16,204.08,120,0.0,-93.85,2.85,2,Très bien servies
+La Vallée des Saints Carnoet,22,48.37,-3.54,Touristique,168,16,6.66,120,25.0,-105.57,3.8,3,Débit limité
+La Vôge-les-Bains,88,48.0,6.26,Rurale,168,16,82.23,120,9.17,-104.5,2.36,1,Bien servies
+Labarthe-sur-Lèze,31,43.46,1.4,Dense,167,15,252.36,120,0.0,-99.63,2.31,2,Très bien servies
+Labrit,40,44.11,-0.55,Rurale,164,14,9.71,120,26.67,-99.15,2.99,3,Débit limité
+Labruguière,81,43.54,2.26,Rurale,156,16,32.52,108,25.93,-111.96,2.97,3,Débit limité
+Lacapelle-Marival,46,44.73,1.93,Rurale,156,16,3.08,108,26.85,-113.24,3.17,3,Débit limité
+Lacaune,81,43.71,2.69,Rurale,168,16,72.77,120,0.0,-105.63,2.46,1,Bien servies
+Lagnieu,01,45.9,5.35,Rurale,168,16,271.3,120,0.83,-94.5,2.12,2,Très bien servies
+Lagny-sur-Marne,77,48.88,2.7,Dense,168,16,244.44,120,0.0,-107.95,2.16,1,Bien servies
+Laguiole,12,44.69,2.85,Rurale,154,14,49.55,108,13.89,-110.24,2.82,3,Débit limité
+Lallaing,59,50.39,3.17,Dense,168,16,332.51,120,2.5,-104.0,2.21,2,Très bien servies
+Lambres-lez-Douai,59,50.35,3.04,Dense,168,16,296.52,120,0.0,-104.0,2.14,2,Très bien servies
+Lamorlaye,60,49.15,2.43,Intermédiaire,166,16,110.07,120,4.17,-99.0,2.22,1,Bien servies
+Landeleau,29,48.23,-3.73,Rurale,168,16,17.05,120,35.0,-115.23,4.08,3,Débit limité
+Landujan,35,48.25,-2.0,Rurale,166,16,13.56,120,38.33,-120.9,7.82,0,Mal servies
+Langogne,48,44.72,3.86,Rurale,168,16,173.06,120,4.17,-103.66,2.77,1,Bien servies
+Langonnet,56,48.1,-3.49,Rurale,168,16,96.22,120,1.67,-110.72,2.47,1,Bien servies
+Langres,52,47.86,5.33,Rurale,168,16,94.23,120,20.83,-96.33,2.14,1,Bien servies
+Langueux,22,48.5,-2.73,Intermédiaire,168,16,294.58,120,0.0,-87.44,2.13,2,Très bien servies
+Lannemezan,65,43.12,0.38,Rurale,168,16,287.13,120,16.67,-99.47,2.6,2,Très bien servies
+Lanouaille,24,45.39,1.14,Rurale,168,16,101.89,120,0.0,-105.33,2.4,1,Bien servies
+Lantriac,43,45.0,4.01,Rurale,168,16,85.86,120,0.83,-106.71,2.19,1,Bien servies
+Lapeyrouse-Fossat,31,43.69,1.52,Dense,167,16,217.86,120,10.83,-105.37,2.4,1,Bien servies
+Laragne-Montéglin,05,44.31,5.82,Rurale,168,16,123.39,120,4.17,-110.78,3.05,1,Bien servies
+Largitzen,68,47.56,7.19,Rurale,168,16,65.84,120,0.0,-111.0,2.41,1,Bien servies
+Lassay-les-Châteaux,53,48.44,-0.48,Rurale,168,16,80.03,120,4.17,-106.38,2.23,1,Bien servies
+Latillé,86,46.62,0.07,Rurale,168,16,97.91,120,4.17,-107.56,2.31,1,Bien servies
+Lattes,34,43.57,3.9,Dense,168,16,150.41,120,6.67,-113.46,3.07,1,Bien servies
+Lauwin-Planque,59,50.39,3.05,Dense,168,16,73.87,120,3.33,-108.43,2.32,1,Bien servies
+Lauzun,47,44.63,0.46,Rurale,156,16,0.99,108,40.74,-108.38,3.42,3,Débit limité
+Laval,53,48.07,-0.78,Intermédiaire,840,80,308.66,600,2.33,-97.45,2.15,2,Très bien servies
+Laventie,62,50.63,2.77,Intermédiaire,168,16,301.24,120,5.83,-93.0,2.2,2,Très bien servies
+Lay-Saint-Christophe,54,48.75,6.2,Intermédiaire,168,16,47.29,120,0.83,-104.34,2.77,1,Bien servies
+Le Beausset,83,43.21,5.81,Dense,168,16,148.18,120,1.67,-104.91,2.86,1,Bien servies
+Le Bignon,44,47.1,-1.49,Dense,168,16,106.31,120,0.0,-112.6,3.08,1,Bien servies
+Le Blanc,36,46.63,1.06,Rurale,160,12,68.73,120,0.0,-107.18,2.23,1,Bien servies
+Le Bousquet-d'Orb,34,43.69,3.17,Rurale,167,16,1.66,119,33.61,-114.64,5.76,3,Débit limité
+Le Cannet,06,43.57,7.0,Dense,168,16,471.14,120,0.0,-92.55,2.54,2,Très bien servies
+Le Castellet,83,43.18,5.77,Dense,168,16,326.84,120,0.0,-101.07,2.75,2,Très bien servies
+Le Chambon-Feugerolles,42,45.4,4.32,Intermédiaire,168,16,452.06,120,0.0,-101.5,2.13,2,Très bien servies
+Le Champ-près-Froges,38,45.28,5.94,Dense,172,16,176.47,120,2.5,-107.12,2.3,1,Bien servies
+Le Chesnay-Rocquencourt,78,48.83,2.12,Dense,165,14,142.69,120,10.0,-109.41,2.72,1,Bien servies
+Le Controis-en-Sologne,41,47.43,1.44,Rurale,168,16,149.14,120,10.83,-105.1,3.32,1,Bien servies
+Le Coudray-Saint-Germer,60,49.41,1.84,Rurale,167,16,0.09,120,75.0,-119.75,10.02,0,Mal servies
+Le Crès,34,43.65,3.94,Dense,336,32,402.27,240,0.42,-95.72,2.55,2,Très bien servies
+Le Fresne-Poret,50,48.71,-0.83,Rurale,168,16,7.23,120,3.33,-106.82,2.6,1,Bien servies
+Le Grand-Lucé,72,47.87,0.47,Rurale,168,16,167.59,120,0.0,-92.96,2.73,2,Très bien servies
+Le Haillan,33,44.87,-0.67,Dense,168,16,433.87,120,0.0,-98.39,2.2,2,Très bien servies
+Le Havre,76,49.5,0.11,Intermédiaire,672,64,249.22,480,0.21,-103.92,2.14,2,Très bien servies
+Le Malesherbois,45,48.3,2.39,Rurale,168,16,173.56,120,0.0,-98.62,2.86,2,Très bien servies
+Le Mans,72,48.0,0.21,Intermédiaire,672,64,258.56,480,6.87,-100.98,2.99,2,Très bien servies
+Le Mené,22,48.3,-2.52,Rurale,168,16,28.9,120,9.17,-113.91,2.55,3,Débit limité
+Le Mesnil-Esnard,76,49.42,1.13,Dense,168,16,325.59,120,0.0,-100.05,2.14,2,Très bien servies
+Le Mesnil-Saint-Denis,78,48.74,1.96,Dense,168,16,416.67,120,5.0,-104.08,2.57,2,Très bien servies
+Le Monastère,12,44.34,2.58,Intermédiaire,154,15,383.39,108,7.41,-97.3,2.42,2,Très bien servies
+Le Mée-sur-Seine,77,48.54,2.64,Dense,168,16,407.61,120,0.0,-101.0,2.71,2,Très bien servies
+Le Nouvion-en-Thiérache,02,50.01,3.78,Rurale,135,8,51.46,104,4.81,-104.0,2.26,1,Bien servies
+Le Perréon,69,46.06,4.6,Rurale,160,12,194.35,120,29.17,-112.0,1.95,3,Débit limité
+Le Petit-Quevilly,76,49.43,1.05,Dense,168,16,399.51,120,0.0,-93.0,2.08,2,Très bien servies
+Le Plessis-Pâté,91,48.61,2.32,Dense,167,16,279.24,120,7.5,-106.76,2.8,1,Bien servies
+Le Poiré-sur-Vie,85,46.77,-1.51,Rurale,167,16,175.79,119,1.68,-103.02,2.66,1,Bien servies
+Le Pont-de-Beauvoisin,73,45.53,5.68,Intermédiaire,168,16,50.06,120,2.5,-108.0,2.5,1,Bien servies
+Le Port-Marly,78,48.88,2.11,Dense,168,16,12.29,120,27.5,-110.96,3.29,3,Débit limité
+Le Portel,62,50.71,1.58,Intermédiaire,168,16,64.4,120,0.83,-99.0,2.19,1,Bien servies
+Le Pradet,83,43.11,6.04,Dense,168,16,213.98,120,3.33,-103.29,2.72,1,Bien servies
+Le Puy du Fou (grand Parc + Cinéscénie) Les Épesses,85,46.9,-0.93,Touristique,168,16,265.3,120,0.0,-100.6,2.17,2,Très bien servies
+Le Péage-de-Roussillon,38,45.37,4.8,Intermédiaire,172,16,244.16,120,0.0,-98.42,2.08,2,Très bien servies
+Le Relecq-Kerhuon,29,48.4,-4.41,Intermédiaire,168,16,447.19,120,3.33,-89.78,2.13,2,Très bien servies
+Le Theil-en-Auge,14,49.35,0.25,Rurale,166,16,0.78,118,49.15,-117.44,10.0,0,Mal servies
+Le Touvet,38,45.36,5.96,Rurale,172,16,205.62,120,0.0,-99.84,2.13,2,Très bien servies
+Le Tréport,76,50.06,1.37,Intermédiaire,168,16,308.86,120,0.0,-93.0,2.08,2,Très bien servies
+Le Val-d'Esnoms,52,47.69,5.21,Rurale,168,16,13.61,120,0.83,-100.67,2.44,1,Bien servies
+Le Vast,50,49.62,-1.35,Rurale,168,16,14.48,120,1.67,-88.92,2.26,1,Bien servies
+Le Vaudreuil,27,49.26,1.21,Intermédiaire,167,16,393.77,119,0.0,-102.99,3.07,2,Très bien servies
+Le Vigan,46,44.74,1.44,Rurale,168,16,0.0,120,52.5,-106.12,10.01,0,Mal servies
+Le Vignon-en-Quercy,46,45.0,1.64,Rurale,168,16,3.82,120,15.83,-108.22,3.45,3,Débit limité
+Leffonds,52,47.97,5.17,Rurale,168,16,10.32,120,5.0,-100.68,2.82,1,Bien servies
+Leffrinckoucke,59,51.05,2.43,Intermédiaire,168,16,143.5,120,0.83,-103.0,2.22,1,Bien servies
+Lempdes,63,45.78,3.2,Intermédiaire,168,16,225.15,120,0.0,-104.96,2.22,1,Bien servies
+Lens,62,50.43,2.83,Dense,336,32,354.59,240,0.0,-86.08,2.0,2,Très bien servies
+Les Angles,30,43.96,4.75,Dense,168,16,328.24,120,0.0,-92.07,2.66,2,Très bien servies
+Les Antilles à Jonzac,17,45.44,-0.43,Touristique,165,14,261.1,120,8.33,-103.01,2.28,2,Très bien servies
+Les Avenières Veyrins-Thuellin,38,45.63,5.58,Rurale,165,14,56.88,120,11.67,-112.0,2.42,1,Bien servies
+Les Billaux,33,44.95,-0.23,Intermédiaire,168,16,104.26,120,2.5,-109.97,2.88,1,Bien servies
+Les Bouchoux,39,46.3,5.82,Rurale,167,15,0.0,120,64.17,-115.4,10.02,0,Mal servies
+Les Estables,43,44.9,4.16,Rurale,168,16,22.43,120,0.0,-89.33,2.26,1,Bien servies
+Les Herbiers,85,46.87,-1.01,Intermédiaire,504,48,138.78,360,2.22,-104.88,2.3,1,Bien servies
+"Les Machines de l'Île (Galerie, Eléphant, Carrousels mondes marins) Nantes",44,47.21,-1.56,Touristique,168,16,212.1,120,0.0,-86.12,2.62,2,Très bien servies
+Les Maillys,21,47.14,5.34,Rurale,164,14,0.0,120,60.0,-118.0,10.02,0,Mal servies
+Les Mureaux,78,48.99,1.91,Dense,168,16,375.81,120,1.67,-98.06,2.62,2,Très bien servies
+Les Ponts-de-Cé,49,47.43,-0.5,Intermédiaire,168,16,380.02,120,2.5,-94.54,2.68,2,Très bien servies
+Les Sorinières,44,47.15,-1.53,Dense,168,16,138.54,120,0.83,-110.42,2.94,1,Bien servies
+Lescar,64,43.34,-0.43,Intermédiaire,168,16,70.92,120,1.67,-110.56,2.7,1,Bien servies
+Lesquin,59,50.57,3.11,Dense,168,16,292.37,120,0.0,-99.25,2.08,2,Très bien servies
+Leugny,86,46.91,0.7,Rurale,166,16,4.35,118,10.17,-100.22,4.19,1,Bien servies
+Lewarde,59,50.34,3.17,Dense,168,16,190.67,120,4.17,-105.89,2.16,1,Bien servies
+Lexy,54,49.51,5.74,Intermédiaire,168,16,281.93,120,0.0,-94.0,2.28,2,Très bien servies
+Lezennes,59,50.62,3.12,Dense,168,16,33.29,120,2.5,-109.0,2.28,1,Bien servies
+Libourne,33,44.92,-0.24,Intermédiaire,840,80,159.3,600,7.5,-107.52,2.42,1,Bien servies
+Licques,62,50.79,1.94,Rurale,168,16,85.94,120,2.5,-103.33,2.15,1,Bien servies
+Lieusaint,77,48.63,2.55,Dense,167,16,10.73,119,19.33,-112.18,3.55,3,Débit limité
+Ligueil,37,47.04,0.82,Rurale,167,16,34.37,120,2.5,-103.39,3.25,1,Bien servies
+Lille (partie française),59,50.63,3.06,Dense,1511,144,248.92,1079,1.11,-98.39,2.11,2,Très bien servies
+Limay,78,48.99,1.74,Dense,504,48,225.39,360,25.0,-108.75,3.16,3,Débit limité
+Limeil-Brévannes,94,48.75,2.49,Dense,168,16,286.9,120,0.83,-107.87,2.6,1,Bien servies
+Limoges,87,45.83,1.26,Intermédiaire,1338,126,270.08,960,2.4,-97.23,2.14,2,Très bien servies
+Linselles,59,50.74,3.08,Dense,168,16,310.57,120,0.0,-103.85,2.13,2,Très bien servies
+Lisses,91,48.59,2.43,Dense,168,16,411.61,120,3.33,-95.57,2.67,2,Très bien servies
+Litz,60,49.42,2.33,Rurale,168,16,61.8,120,0.0,-107.1,2.32,1,Bien servies
+Livry-Gargan,93,48.93,2.55,Dense,168,16,112.35,120,0.0,-105.45,2.2,1,Bien servies
+Locminé,56,47.89,-2.84,Rurale,168,16,214.95,120,0.83,-106.26,2.31,1,Bien servies
+Locquignol,59,50.2,3.72,Rurale,168,16,25.21,120,25.0,-98.5,2.21,1,Bien servies
+Loguivy-Plougras,22,48.52,-3.49,Rurale,160,12,16.89,120,24.17,-107.2,2.24,3,Débit limité
+Loir en Vallée,72,47.75,0.62,Rurale,167,16,0.0,120,62.5,-112.44,10.01,0,Mal servies
+Longnes,78,48.92,1.59,Rurale,168,16,60.74,120,0.83,-105.43,3.04,1,Bien servies
+Longny les Villages,61,48.53,0.75,Rurale,168,16,37.62,120,13.33,-114.24,3.18,3,Débit limité
+Longperrier,77,49.05,2.66,Intermédiaire,168,16,176.81,120,0.0,-88.16,2.07,2,Très bien servies
+Longpont-sur-Orge,91,48.63,2.29,Dense,162,14,0.12,119,45.38,-112.89,8.02,0,Mal servies
+Longuyon,54,49.43,5.62,Rurale,168,16,219.93,120,0.0,-101.0,2.29,2,Très bien servies
+Longvic,21,47.29,5.06,Intermédiaire,168,16,184.84,120,1.67,-105.0,2.37,1,Bien servies
+Longwy,54,49.52,5.77,Intermédiaire,168,16,161.99,120,0.0,-99.58,2.34,1,Bien servies
+Lons,64,43.31,-0.42,Intermédiaire,168,16,324.21,120,0.0,-100.09,2.33,2,Très bien servies
+Loon-Plage,59,51.0,2.22,Intermédiaire,168,16,136.48,120,4.17,-90.0,2.22,2,Très bien servies
+Loos,59,50.61,3.01,Dense,168,16,238.7,120,0.0,-99.0,1.96,2,Très bien servies
+Loos-en-Gohelle,62,50.46,2.79,Dense,168,16,317.54,120,0.0,-102.84,2.03,2,Très bien servies
+Lormont,33,44.88,-0.51,Dense,168,16,355.5,120,0.0,-98.35,2.17,2,Très bien servies
+Lorris,45,47.89,2.51,Rurale,168,16,102.89,120,12.5,-113.3,2.93,3,Débit limité
+Loudun,86,47.01,0.09,Rurale,167,16,33.67,119,5.04,-111.14,4.13,3,Débit limité
+Lourmais,35,48.45,-1.73,Rurale,167,15,0.0,120,97.5,-120.68,10.01,0,Mal servies
+Louviers,27,49.21,1.17,Intermédiaire,502,47,184.17,359,4.74,-100.6,2.87,1,Bien servies
+Louvigné-du-Désert,35,48.49,-1.12,Rurale,168,16,39.19,120,2.5,-110.62,2.32,1,Bien servies
+Louvroil,59,50.25,3.94,Intermédiaire,168,16,193.51,120,0.0,-96.98,2.12,2,Très bien servies
+Luc-la-Primaube,12,44.29,2.56,Intermédiaire,156,16,112.85,108,11.11,-96.01,2.73,1,Bien servies
+Lucé,28,48.44,1.44,Intermédiaire,168,16,379.77,120,0.83,-92.12,2.51,2,Très bien servies
+Lupiac,32,43.68,0.18,Rurale,165,13,0.18,120,81.67,-116.07,10.01,0,Mal servies
+Lurcy-Lévis,03,46.73,2.94,Rurale,168,16,87.23,120,1.67,-108.07,2.26,1,Bien servies
+Lussac-les-Églises,87,46.35,1.17,Rurale,167,16,1.55,120,31.67,-104.24,4.63,3,Débit limité
+Luzillé,37,47.26,1.06,Rurale,168,16,0.0,120,80.83,-109.7,10.01,0,Mal servies
+Luçon,85,46.46,-1.17,Rurale,164,14,114.85,120,18.33,-113.8,2.95,3,Débit limité
+Lyon,69,45.75,4.83,Dense,3375,320,202.64,2399,1.38,-97.0,2.13,2,Très bien servies
+Lys-Haut-Layon,49,47.15,-0.54,Rurale,168,16,33.19,120,9.17,-109.49,2.63,1,Bien servies
+Lys-lez-Lannoy,59,50.68,3.22,Dense,168,16,134.25,120,0.0,-102.0,2.09,1,Bien servies
+Léognan,33,44.75,-0.59,Dense,168,16,172.54,120,20.83,-103.23,2.41,1,Bien servies
+Lépin-le-Lac,73,45.54,5.77,Intermédiaire,168,16,24.7,120,7.5,-113.0,2.43,1,Bien servies
+Léry,27,49.29,1.21,Intermédiaire,167,16,24.15,119,17.65,-113.64,4.19,3,Débit limité
+Lésigny,77,48.75,2.62,Dense,168,16,174.21,120,2.5,-108.17,2.75,1,Bien servies
+Lézigneux,42,45.57,4.06,Intermédiaire,161,12,28.09,120,35.83,-104.85,3.16,3,Débit limité
+Machecoul-Saint-Même,44,47.0,-1.82,Rurale,168,16,187.59,120,0.0,-110.77,2.82,1,Bien servies
+Madiran,65,43.55,-0.06,Rurale,168,16,0.0,120,56.67,-96.61,1.86,3,Débit limité
+Magnac-Laval,87,46.21,1.16,Rurale,164,14,60.45,120,0.83,-111.74,2.41,1,Bien servies
+Magnanville,78,48.97,1.68,Dense,168,16,272.77,120,2.5,-107.37,2.68,1,Bien servies
+Magny-en-Vexin,95,49.15,1.79,Rurale,167,16,110.28,119,5.88,-108.35,3.22,1,Bien servies
+Magny-les-Hameaux,78,48.72,2.08,Dense,168,16,388.68,120,26.67,-107.3,2.98,2,Très bien servies
+Maillane,13,43.83,4.78,Dense,165,14,38.9,120,35.83,-115.1,4.03,3,Débit limité
+Mainvilliers,28,48.45,1.45,Intermédiaire,168,16,303.81,120,0.83,-95.75,2.62,2,Très bien servies
+Maisons-Laffitte,78,48.95,2.14,Dense,168,16,276.52,120,5.83,-105.54,2.92,2,Très bien servies
+Maisonsgoutte,67,48.35,7.26,Rurale,168,16,45.51,120,10.83,-99.86,2.54,1,Bien servies
+Malaucène,84,44.17,5.13,Rurale,168,16,194.19,120,5.83,-105.71,2.92,1,Bien servies
+Malaunay,76,49.53,1.04,Dense,168,16,150.84,120,0.0,-112.5,2.22,1,Bien servies
+Malicorne-sur-Sarthe,72,47.81,-0.08,Rurale,168,16,46.48,120,50.83,-103.01,2.66,3,Débit limité
+Mamirolle,25,47.2,6.16,Rurale,168,16,88.29,120,5.83,-104.1,2.54,1,Bien servies
+Mandelieu-la-Napoule,06,43.53,6.93,Dense,168,16,134.16,120,0.0,-108.91,2.62,1,Bien servies
+Manneville-la-Goupil,76,49.61,0.36,Rurale,168,16,93.0,120,23.33,-93.77,2.3,1,Bien servies
+Manosque,04,43.82,5.79,Intermédiaire,667,62,120.3,480,14.58,-106.36,2.72,1,Bien servies
+Mansonville,82,44.02,0.84,Rurale,156,16,1.62,108,45.37,-99.1,6.36,3,Débit limité
+Mantes-la-Jolie,78,48.99,1.71,Dense,335,32,233.13,239,1.26,-104.3,2.78,1,Bien servies
+Mantes-la-Ville,78,48.98,1.71,Dense,336,32,469.73,240,2.92,-94.14,2.72,2,Très bien servies
+Marcillat-en-Combraille,03,46.17,2.63,Rurale,168,16,14.92,120,0.0,-102.5,2.38,1,Bien servies
+Marcilly-le-Hayer,10,48.35,3.63,Rurale,168,16,4.44,120,13.33,-102.9,2.97,1,Bien servies
+Marck,62,50.96,1.96,Intermédiaire,168,16,251.69,120,0.0,-99.42,2.16,2,Très bien servies
+Marcoussis,91,48.64,2.23,Dense,168,16,188.91,120,17.5,-109.63,3.02,1,Bien servies
+Marcoux,04,44.13,6.29,Rurale,168,16,51.75,120,0.0,-84.7,2.56,2,Très bien servies
+Marcq-en-Barul,59,50.68,3.09,Dense,168,16,185.45,120,6.67,-104.5,2.25,1,Bien servies
+Mareil-sur-Mauldre,78,48.89,1.87,Rurale,166,15,135.93,119,6.72,-107.96,3.3,1,Bien servies
+Mareuil en Périgord,24,45.45,0.45,Rurale,168,16,12.77,120,1.67,-101.61,2.5,1,Bien servies
+Mareuil-lès-Meaux,77,48.94,2.88,Intermédiaire,168,16,137.65,120,0.0,-104.0,2.08,1,Bien servies
+Margny-lès-Compiègne,60,49.42,2.82,Intermédiaire,168,16,50.29,120,0.0,-109.35,2.33,1,Bien servies
+Marguerittes,30,43.86,4.44,Intermédiaire,168,16,328.06,120,0.0,-102.5,2.66,2,Très bien servies
+Marignane,13,43.42,5.21,Dense,288,32,150.65,192,3.12,-100.35,2.75,1,Bien servies
+Marines,95,49.15,1.97,Rurale,168,16,114.74,120,0.83,-86.48,2.13,2,Très bien servies
+Marly,57,49.07,6.14,Intermédiaire,168,16,253.9,120,0.0,-102.06,2.24,2,Très bien servies
+Marminiac,46,44.67,1.19,Rurale,154,16,3.78,106,8.49,-106.18,3.33,1,Bien servies
+Marolles-en-Brie,94,48.74,2.55,Dense,168,16,162.17,120,0.83,-103.16,2.76,1,Bien servies
+Marseille,13,43.3,5.39,Dense,6068,592,210.56,4294,3.61,-100.89,2.81,2,Très bien servies
+Marssac-sur-Tarn,81,43.92,2.03,Rurale,156,16,185.88,108,4.63,-108.29,2.58,1,Bien servies
+Martigné-sur-Mayenne,53,48.19,-0.66,Rurale,168,16,11.14,120,14.17,-115.63,3.0,3,Débit limité
+Martizay,36,46.81,1.04,Rurale,168,16,11.92,120,21.67,-100.22,4.3,3,Débit limité
+Massangis,89,47.62,3.97,Rurale,168,16,37.1,120,0.0,-87.8,2.07,2,Très bien servies
+Massegros Causses Gorges,48,44.31,3.17,Rurale,168,16,6.57,120,5.0,-91.95,3.81,1,Bien servies
+Maubeuge,59,50.28,3.97,Intermédiaire,336,32,270.43,240,0.0,-87.0,2.07,2,Très bien servies
+Mauron,56,48.08,-2.29,Rurale,168,16,189.52,120,4.17,-106.74,2.4,1,Bien servies
+Maussane-les-Alpilles,13,43.72,4.81,Rurale,168,16,133.57,120,6.67,-107.74,3.18,1,Bien servies
+Maxéville,54,48.71,6.17,Intermédiaire,168,16,19.04,120,0.0,-97.05,2.62,1,Bien servies
+Mazamet,81,43.5,2.38,Intermédiaire,311,32,267.17,215,1.86,-101.78,2.47,2,Très bien servies
+Mazan,84,44.05,5.13,Dense,167,16,261.35,119,11.76,-101.08,2.91,2,Très bien servies
+Mazingarbe,62,50.47,2.71,Dense,168,16,309.09,120,0.0,-101.0,2.05,2,Très bien servies
+Meaulne-Vitray,03,46.6,2.61,Rurale,168,16,0.0,120,100.0,-123.8,10.01,0,Mal servies
+Meaux,77,48.96,2.9,Intermédiaire,336,32,102.85,240,0.83,-99.33,2.09,1,Bien servies
+Melle,79,46.22,-0.14,Rurale,168,16,35.84,120,22.5,-110.94,2.56,3,Débit limité
+Melun,77,48.54,2.66,Dense,1005,95,382.69,718,4.18,-99.74,2.7,2,Très bien servies
+Mennecy,91,48.57,2.45,Dense,168,16,338.11,120,0.83,-92.16,2.5,2,Très bien servies
+Mens,38,44.82,5.75,Rurale,165,12,0.0,120,93.33,-130.55,0.11,3,Débit limité
+Mercurol-Veaunes,26,45.08,4.89,Intermédiaire,168,16,4.56,120,18.33,-117.45,3.32,3,Débit limité
+Merlevenez,56,47.74,-3.23,Rurale,168,16,55.2,120,7.5,-110.96,2.48,1,Bien servies
+Mesnil-Roc'h,35,48.44,-1.91,Rurale,168,16,113.09,120,19.17,-102.84,2.86,1,Bien servies
+Mesnil-en-Ouche,27,48.95,0.66,Rurale,168,16,78.27,120,0.0,-110.97,2.32,1,Bien servies
+Metz,57,49.11,6.18,Intermédiaire,671,64,216.09,480,3.96,-95.0,2.3,2,Très bien servies
+Mexy,54,49.5,5.78,Intermédiaire,168,16,7.62,120,19.17,-114.98,3.45,3,Débit limité
+Meymac,19,45.54,2.15,Rurale,168,16,26.4,120,28.33,-112.79,2.84,3,Débit limité
+Meyzieu,69,45.77,4.99,Dense,172,16,307.51,120,0.0,-92.5,2.04,2,Très bien servies
+Milhaud,30,43.78,4.3,Intermédiaire,168,16,234.59,120,0.0,-104.39,2.65,1,Bien servies
+Millery,69,45.63,4.78,Dense,172,16,122.86,120,2.5,-107.67,2.26,1,Bien servies
+Mirambeau,17,45.38,-0.57,Rurale,166,14,19.91,120,26.67,-115.35,2.68,3,Débit limité
+Miramont-de-Comminges,31,43.09,0.74,Intermédiaire,168,16,94.07,120,26.67,-111.75,2.41,3,Débit limité
+Mirande,32,43.52,0.41,Rurale,167,16,59.49,120,1.67,-104.21,2.38,1,Bien servies
+Mitry-Mory,77,48.98,2.61,Dense,168,16,163.09,120,1.67,-104.0,2.22,1,Bien servies
+Modane,73,45.2,6.67,Rurale,172,16,196.52,120,3.33,-107.5,2.22,1,Bien servies
+Moirans,38,45.32,5.57,Intermédiaire,172,16,257.25,120,0.0,-106.0,2.17,1,Bien servies
+Moissy-Cramayel,77,48.63,2.59,Dense,168,16,325.71,120,5.0,-105.3,2.68,2,Très bien servies
+Moncontour,22,48.36,-2.63,Rurale,164,14,23.67,120,46.67,-117.9,6.05,3,Débit limité
+Moncoutant-sur-Sèvre,79,46.72,-0.59,Rurale,168,16,10.17,120,6.67,-114.2,3.01,3,Débit limité
+Mondeville,14,49.16,-0.29,Intermédiaire,168,16,442.45,120,0.0,-83.7,2.11,2,Très bien servies
+Mondonville,31,43.67,1.29,Dense,168,16,380.89,120,0.0,-88.73,2.2,2,Très bien servies
+Mondouzil,31,43.63,1.56,Dense,168,16,183.27,120,1.67,-108.9,2.33,1,Bien servies
+Monein,64,43.32,-0.58,Intermédiaire,168,16,38.74,120,24.17,-112.32,2.88,3,Débit limité
+Monlet,43,45.22,3.71,Rurale,168,16,27.56,120,0.0,-89.84,2.17,1,Bien servies
+Monneren,57,49.34,6.41,Rurale,168,16,15.61,120,0.0,-89.0,2.32,1,Bien servies
+Mons-en-Barul,59,50.64,3.11,Dense,168,16,357.04,120,0.83,-87.75,2.08,2,Très bien servies
+Mont-Saint-Martin,54,49.55,5.8,Intermédiaire,167,16,43.51,120,15.0,-105.0,2.78,1,Bien servies
+Montagne des singes Kintzheim,67,48.26,7.38,Touristique,168,16,74.77,120,50.0,-66.5,7.05,2,Très bien servies
+Montanay,69,45.88,4.86,Dense,172,16,49.92,120,5.0,-115.82,2.34,1,Bien servies
+Montaner,64,43.35,-0.01,Rurale,159,11,0.0,120,64.17,-103.3,1.8,3,Débit limité
+Montauban,82,44.02,1.35,Intermédiaire,624,64,145.44,432,20.14,-103.66,2.62,1,Bien servies
+Montbard,21,47.62,4.34,Rurale,168,16,21.47,120,2.5,-111.26,2.41,1,Bien servies
+Montbazon,37,47.29,0.71,Intermédiaire,166,16,35.22,118,24.58,-114.72,4.38,3,Débit limité
+Montbeton,82,44.01,1.29,Intermédiaire,156,16,173.65,108,15.74,-107.52,2.62,1,Bien servies
+Montbrison,42,45.61,4.07,Intermédiaire,504,48,278.13,360,0.56,-103.0,2.09,2,Très bien servies
+Montbrun-les-Bains,26,44.17,5.44,Rurale,168,16,63.89,120,10.83,-109.69,3.41,1,Bien servies
+Montbéliard,25,47.5,6.81,Intermédiaire,336,32,237.05,240,0.0,-100.0,2.42,2,Très bien servies
+Montceau-les-Mines,71,46.68,4.36,Intermédiaire,504,48,241.14,360,0.0,-103.5,2.17,2,Très bien servies
+Montcornet,02,49.7,4.02,Rurale,167,15,60.74,120,10.83,-108.0,2.5,1,Bien servies
+Montdidier,80,49.65,2.58,Rurale,168,16,204.82,120,0.0,-94.0,2.14,2,Très bien servies
+Montfort-l'Amaury,78,48.78,1.81,Rurale,168,16,12.54,120,32.5,-112.4,4.54,3,Débit limité
+Montgeron,91,48.7,2.46,Dense,161,13,135.5,120,1.67,-106.49,2.86,1,Bien servies
+Monthou-sur-Cher,41,47.35,1.29,Rurale,167,16,7.65,120,7.5,-96.56,3.55,1,Bien servies
+Monthureux-sur-Saône,88,48.03,5.97,Rurale,168,16,76.84,120,0.0,-96.5,2.45,1,Bien servies
+Montigny-le-Bretonneux,78,48.78,2.04,Dense,168,16,311.61,120,0.0,-96.68,2.52,2,Très bien servies
+Montigny-lès-Cormeilles,95,48.99,2.2,Dense,168,16,336.11,120,1.67,-92.26,2.92,2,Très bien servies
+Montigny-lès-Metz,57,49.1,6.15,Intermédiaire,168,16,273.34,120,11.67,-102.0,2.36,2,Très bien servies
+Montigné-lès-Rairies,49,47.62,-0.2,Rurale,166,15,0.0,120,82.5,-119.37,10.01,0,Mal servies
+Montlouis-sur-Loire,37,47.39,0.83,Intermédiaire,166,16,148.3,120,12.5,-111.2,3.2,1,Bien servies
+Montmeyran,26,44.83,4.97,Intermédiaire,172,16,80.56,120,0.0,-107.21,2.33,1,Bien servies
+Montmirail,51,48.87,3.54,Rurale,168,16,68.18,120,0.0,-106.84,2.2,1,Bien servies
+Montmoreau,16,45.4,0.13,Rurale,168,16,13.75,120,20.0,-111.5,2.63,3,Débit limité
+Montmorillon,86,46.42,0.87,Rurale,168,16,37.81,120,5.83,-110.85,2.27,1,Bien servies
+Montpellier,34,43.61,3.87,Dense,1842,174,282.44,1318,4.55,-98.88,2.7,2,Très bien servies
+Montpeyroux,34,43.7,3.51,Rurale,162,14,1.59,118,39.83,-115.0,5.05,3,Débit limité
+Montravers,79,46.83,-0.72,Rurale,168,16,57.51,120,15.83,-113.43,2.97,3,Débit limité
+Montredon-Labessonnié,81,43.72,2.33,Rurale,156,16,33.85,108,15.74,-110.38,2.81,3,Débit limité
+Montreuil,93,48.87,2.47,Dense,168,16,275.04,120,0.0,-101.42,2.12,2,Très bien servies
+Montévrain,77,48.87,2.76,Dense,160,12,25.12,120,9.17,-114.8,2.68,3,Débit limité
+Morbecque,59,50.69,2.51,Intermédiaire,168,16,130.36,120,0.0,-109.33,2.22,1,Bien servies
+Morgny,27,49.38,1.59,Rurale,168,16,5.03,120,0.83,-106.0,3.09,1,Bien servies
+Morhange,57,48.93,6.65,Rurale,168,16,162.34,120,1.67,-100.5,2.28,1,Bien servies
+Morières-lès-Avignon,84,43.94,4.91,Dense,167,16,159.87,119,4.2,-105.26,2.88,1,Bien servies
+Morsang-sur-Seine,91,48.57,2.49,Dense,168,16,252.34,120,8.33,-111.35,2.96,1,Bien servies
+Morzine,74,46.18,6.7,Rurale,168,16,245.72,120,0.0,-100.0,2.12,2,Très bien servies
+Mouais,44,47.7,-1.64,Rurale,158,11,1.19,120,72.5,-120.56,10.01,0,Mal servies
+Mourenx,64,43.37,-0.62,Intermédiaire,168,16,212.69,120,0.0,-103.06,2.4,1,Bien servies
+Mouroux,77,48.82,3.04,Intermédiaire,168,16,267.01,120,0.0,-107.36,2.15,1,Bien servies
+Moûtiers,73,45.49,6.53,Rurale,168,16,275.31,120,3.33,-100.96,2.14,2,Très bien servies
+Muille-Villette,80,49.73,3.07,Rurale,167,16,95.97,120,2.5,-107.0,2.36,1,Bien servies
+Mulhouse,68,47.75,7.32,Intermédiaire,504,48,191.12,360,0.28,-94.0,2.35,2,Très bien servies
+Mundolsheim,67,48.64,7.72,Dense,168,16,147.7,120,3.33,-104.78,2.33,1,Bien servies
+Mur-de-Barrez,12,44.84,2.66,Rurale,156,16,28.48,108,20.37,-114.18,2.92,3,Débit limité
+Museum d'histoire naturelle Paris,75,48.84,2.41,Touristique,168,16,376.66,120,0.0,-94.96,2.55,2,Très bien servies
+Musée Claude Monet de Giverny,27,49.08,1.53,Touristique,162,14,23.75,118,32.2,-113.2,5.2,3,Débit limité
+Musée Grévin Paris,75,48.87,2.34,Touristique,160,12,67.95,120,35.83,-101.62,2.73,3,Débit limité
+Musée Jacquemart-André Paris,75,48.88,2.31,Touristique,168,16,269.34,120,11.67,-100.43,2.8,2,Très bien servies
+Musée Picasso Paris,75,48.86,2.36,Touristique,168,16,249.22,120,5.0,-99.2,2.76,2,Très bien servies
+Musée d'Orsay Paris,75,48.86,2.32,Touristique,168,16,193.11,120,1.67,-101.6,2.62,1,Bien servies
+Musée d'art moderne de la ville de Paris,75,48.86,2.3,Touristique,168,16,171.09,120,1.67,-102.85,2.72,1,Bien servies
+Musée de l'Hôtel-Dieu - Hospices de Beaune,21,47.02,4.84,Touristique,168,16,14.19,120,1.67,-114.0,2.67,1,Bien servies
+Musée de l'Orangerie Paris,75,48.86,2.33,Touristique,168,16,96.52,120,0.83,-99.97,2.64,1,Bien servies
+Musée de l'armée Paris,75,48.85,2.31,Touristique,168,16,272.75,120,0.83,-97.9,2.75,2,Très bien servies
+Musée des arts décoratifs de Paris,75,48.86,2.33,Touristique,166,14,116.08,120,4.17,-100.29,2.66,1,Bien servies
+Musée des beaux-arts Lyon,69,45.77,4.84,Touristique,168,16,281.15,120,0.0,-86.21,2.02,2,Très bien servies
+Musée des confluences Lyon,69,45.73,4.82,Touristique,168,16,232.27,120,0.0,-89.33,2.12,2,Très bien servies
+Musée du Louvre Lens,62,50.43,2.81,Touristique,163,13,364.72,120,25.83,-103.0,1.92,2,Très bien servies
+Musée du Louvre Paris,75,48.86,2.34,Touristique,164,14,131.33,120,8.33,-101.48,2.78,1,Bien servies
+Musée du Mucem Marseille,13,43.3,5.36,Touristique,168,16,194.09,120,0.0,-79.35,2.75,2,Très bien servies
+Musée du quai Branly Paris,75,48.86,2.3,Touristique,168,16,232.54,120,1.67,-98.2,2.76,2,Très bien servies
+Muzillac,56,47.56,-2.5,Rurale,168,16,124.61,120,0.0,-104.93,2.95,1,Bien servies
+Mâcon,71,46.3,4.83,Intermédiaire,168,16,180.28,120,0.0,-95.55,2.09,2,Très bien servies
+Mémorial de la paix Caen,14,49.2,-0.38,Touristique,168,16,314.89,120,12.5,-104.33,2.2,2,Très bien servies
+Méricourt,62,50.4,2.87,Dense,168,16,210.08,120,0.0,-103.5,2.05,1,Bien servies
+Mérignac,33,44.83,-0.67,Dense,336,32,224.54,240,1.25,-95.56,2.19,2,Très bien servies
+Mésanger,44,47.43,-1.23,Rurale,165,16,41.85,117,3.42,-110.44,3.16,1,Bien servies
+Mésangueville,76,49.55,1.56,Rurale,168,16,3.68,120,13.33,-116.1,3.42,3,Débit limité
+Mézos,40,44.08,-1.17,Rurale,168,16,255.72,120,0.0,-104.72,2.28,2,Très bien servies
+Mézériat,01,46.23,5.05,Rurale,168,16,98.91,120,0.0,-101.88,2.16,1,Bien servies
+Nagel-Séez-Mesnil,27,48.92,0.94,Rurale,168,16,6.64,120,12.5,-103.77,4.25,3,Débit limité
+Naives-Rosières,55,48.8,5.22,Rurale,168,16,94.21,120,0.0,-100.68,2.41,1,Bien servies
+Nancy,54,48.69,6.18,Intermédiaire,504,48,228.45,360,0.0,-95.0,2.24,2,Très bien servies
+Nancy-sur-Cluses,74,46.04,6.58,Rurale,168,16,29.32,120,0.0,-112.0,2.48,1,Bien servies
+Nandy,77,48.58,2.56,Dense,168,16,128.96,120,26.67,-111.44,3.59,3,Débit limité
+Nangis,77,48.56,3.01,Rurale,168,16,95.14,120,25.0,-112.28,2.4,3,Débit limité
+Nant,12,44.02,3.3,Rurale,168,16,36.12,120,35.0,-106.24,3.38,3,Débit limité
+Nantes,44,47.24,-1.54,Dense,2007,188,257.73,1440,3.33,-100.42,2.76,2,Très bien servies
+Nantua,01,46.15,5.61,Rurale,168,16,53.17,120,2.5,-105.0,2.38,1,Bien servies
+Narrosse,40,43.69,-1.01,Intermédiaire,168,16,78.41,120,0.0,-90.02,2.46,2,Très bien servies
+Naucelle,12,44.2,2.34,Rurale,156,16,2.1,108,45.37,-116.35,7.49,0,Mal servies
+Naveil,41,47.79,1.03,Intermédiaire,168,16,97.38,120,4.17,-112.59,2.88,1,Bien servies
+Neauphle-le-Vieux,78,48.81,1.86,Dense,165,16,114.85,117,20.51,-111.07,3.24,3,Débit limité
+Nemours,77,48.27,2.7,Intermédiaire,671,63,193.18,480,0.42,-99.8,2.32,2,Très bien servies
+Nersac,16,45.62,0.05,Intermédiaire,168,16,156.59,120,0.83,-101.26,2.13,1,Bien servies
+Neufchâteau,88,48.36,5.69,Rurale,168,16,110.64,120,6.67,-108.67,2.52,1,Bien servies
+Neufchâtel-en-Bray,76,49.73,1.43,Rurale,168,16,229.3,120,0.0,-100.0,2.28,2,Très bien servies
+Neuilly-l'Évêque,52,47.92,5.44,Rurale,168,16,48.38,120,5.0,-98.55,2.37,1,Bien servies
+Neuilly-sur-Marne,93,48.86,2.54,Dense,168,16,218.23,120,0.83,-103.71,2.12,1,Bien servies
+Neung-sur-Beuvron,41,47.52,1.81,Rurale,166,15,2.25,120,56.67,-119.43,10.01,0,Mal servies
+Neuville-Coppegueule,80,49.85,1.75,Rurale,168,16,25.25,120,42.5,-108.38,3.47,3,Débit limité
+Neuville-sur-Ain,01,46.07,5.38,Rurale,168,16,6.58,120,14.17,-117.0,3.6,3,Débit limité
+Neuville-sur-Brenne,37,47.62,0.91,Rurale,168,16,0.0,120,62.5,-114.82,10.01,0,Mal servies
+Neuvy-sur-Barangeon,18,47.31,2.26,Rurale,168,16,34.35,120,16.67,-100.16,3.49,1,Bien servies
+Neuvéglise-sur-Truyère,15,44.93,2.98,Rurale,152,14,0.0,108,50.0,-105.84,9.28,0,Mal servies
+Nevers,58,46.99,3.15,Intermédiaire,167,16,243.31,120,0.0,-104.03,2.07,2,Très bien servies
+Nevoy,45,47.71,2.58,Intermédiaire,167,16,55.51,119,22.69,-117.65,5.33,3,Débit limité
+Nice,06,43.71,7.26,Dense,3188,302,207.19,2279,9.08,-101.02,2.61,2,Très bien servies
+Niederrdern,67,48.91,8.05,Rurale,168,16,97.39,120,0.0,-102.0,2.33,1,Bien servies
+Nielles-lès-Bléquin,62,50.67,2.03,Rurale,168,16,5.18,120,0.0,-106.64,2.54,1,Bien servies
+Nogent-sur-Seine,10,48.49,3.5,Rurale,168,16,82.87,120,4.17,-105.26,2.16,1,Bien servies
+Nohanent,63,45.81,3.06,Intermédiaire,168,16,248.64,120,0.83,-107.25,2.23,1,Bien servies
+Nointot,76,49.6,0.48,Intermédiaire,168,16,32.61,120,5.0,-113.33,2.6,1,Bien servies
+Noiseau,94,48.78,2.55,Dense,168,16,224.1,120,1.67,-105.98,2.85,1,Bien servies
+Noisy-le-Sec,93,48.89,2.46,Dense,168,16,285.73,120,0.0,-100.5,2.04,2,Très bien servies
+Nommay,25,47.54,6.85,Intermédiaire,168,16,38.93,120,3.33,-110.9,2.66,1,Bien servies
+Nontron,24,45.54,0.67,Rurale,167,16,151.24,120,4.17,-101.23,2.28,1,Bien servies
+Nordheim,67,48.64,7.51,Rurale,168,16,22.67,120,6.67,-115.68,3.3,3,Débit limité
+Notre-Dame-de-Bondeville,76,49.48,1.06,Dense,168,16,248.64,120,0.0,-97.0,2.09,2,Très bien servies
+Notre-Dame-de-Riez,85,46.75,-1.91,Intermédiaire,168,16,316.63,120,12.5,-106.74,2.88,2,Très bien servies
+Noues de Sienne,14,48.84,-1.05,Rurale,167,16,32.11,119,10.92,-115.19,3.48,3,Débit limité
+Noves,13,43.88,4.9,Dense,168,16,397.74,120,1.67,-97.34,2.8,2,Très bien servies
+Noyal-Pontivy,56,48.07,-2.87,Rurale,168,16,124.27,120,7.5,-90.5,2.24,2,Très bien servies
+Noyant-Villages,49,47.51,0.11,Rurale,160,12,63.79,120,25.0,-107.75,3.38,3,Débit limité
+Nyons,26,44.36,5.14,Rurale,164,14,4.38,120,48.33,-110.12,9.98,0,Mal servies
+Nérigean,33,44.84,-0.29,Dense,168,16,35.41,120,35.0,-116.7,4.86,3,Débit limité
+Néré,17,45.97,-0.24,Rurale,168,16,21.03,120,3.33,-111.0,2.42,1,Bien servies
+Nîmes,30,43.83,4.36,Intermédiaire,1344,128,309.54,960,0.83,-97.66,2.67,2,Très bien servies
+Oberhausbergen,67,48.61,7.69,Dense,168,16,246.27,120,0.0,-99.29,2.28,2,Très bien servies
+Oberschaeffolsheim,67,48.59,7.65,Dense,168,16,73.85,120,1.67,-110.42,2.37,1,Bien servies
+Objat,19,45.26,1.41,Rurale,168,16,167.12,120,0.0,-99.62,2.1,1,Bien servies
+Octeville-sur-Mer,76,49.56,0.12,Intermédiaire,168,16,343.15,120,0.0,-98.88,2.16,2,Très bien servies
+Océanopolis Brest,29,48.39,-4.44,Touristique,168,16,180.39,120,2.5,-103.01,2.34,1,Bien servies
+Oeyreluy,40,43.67,-1.08,Intermédiaire,168,16,165.91,120,0.0,-100.88,2.28,1,Bien servies
+Olivet,45,47.84,1.92,Intermédiaire,168,16,462.36,120,0.0,-86.54,2.62,2,Très bien servies
+Ollainville,91,48.59,2.22,Dense,167,16,156.28,119,2.52,-110.98,2.94,1,Bien servies
+Onnaing,59,50.39,3.6,Intermédiaire,168,16,280.03,120,0.0,-101.16,2.0,2,Très bien servies
+Orange,84,44.15,4.8,Dense,167,15,415.28,120,9.17,-91.98,2.78,2,Très bien servies
+Orbec,14,49.02,0.4,Rurale,168,16,51.87,120,3.33,-108.88,2.55,1,Bien servies
+Orchies,59,50.47,3.25,Intermédiaire,504,48,115.42,360,3.33,-103.0,2.2,1,Bien servies
+Orgeval,78,48.93,1.99,Dense,168,16,318.81,120,5.83,-103.95,2.9,2,Très bien servies
+Origny-le-Roux,61,48.34,0.42,Rurale,167,16,29.38,120,10.0,-115.88,3.15,3,Débit limité
+Orly,94,48.73,2.36,Dense,168,16,224.0,120,2.5,-87.92,2.71,2,Très bien servies
+Orléans,45,47.91,1.91,Intermédiaire,498,47,162.32,359,25.35,-103.03,3.1,1,Bien servies
+Orvault,44,47.27,-1.63,Dense,168,16,173.78,120,1.67,-95.32,2.92,2,Très bien servies
+Osny,95,49.08,2.08,Dense,168,16,459.89,120,0.0,-97.32,2.86,2,Très bien servies
+Ossuaire de Douaumont Douaumont,55,49.21,5.42,Touristique,168,16,9.72,120,19.17,-113.5,3.25,3,Débit limité
+Ostricourt,59,50.46,3.03,Dense,168,16,322.25,120,0.0,-101.31,2.15,2,Très bien servies
+Ostwald,67,48.55,7.71,Dense,168,16,315.32,120,0.0,-100.0,2.2,2,Très bien servies
+Oullins,69,45.72,4.81,Dense,168,16,311.33,120,0.0,-101.0,2.02,2,Très bien servies
+Ousse,64,43.28,-0.27,Intermédiaire,168,16,277.54,120,0.0,-108.93,2.28,1,Bien servies
+Ozoir-la-Ferrière,77,48.76,2.7,Dense,168,16,442.96,120,0.0,-87.33,2.01,2,Très bien servies
+Pacé,35,48.14,-1.77,Intermédiaire,168,16,302.84,120,4.17,-104.2,2.64,2,Très bien servies
+Palais Garnier et musée de l'Opéra de Paris,75,48.87,2.33,Touristique,168,16,169.71,120,1.67,-100.81,2.7,1,Bien servies
+Palais de Tokyo Paris,75,48.87,2.3,Touristique,168,16,351.41,120,1.67,-90.14,2.48,2,Très bien servies
+Palais de la Découverte Paris,75,48.87,2.31,Touristique,168,16,340.18,120,0.0,-89.59,2.58,2,Très bien servies
+Palais de la Porte Dorée Paris,75,48.84,2.41,Touristique,168,16,380.67,120,0.0,-98.66,2.62,2,Très bien servies
+Palais des Papes Avignon,84,43.95,4.81,Touristique,164,14,247.47,120,16.67,-98.25,2.98,2,Très bien servies
+Pamiers,09,43.12,1.62,Intermédiaire,500,46,211.09,360,7.5,-107.66,2.4,1,Bien servies
+Pampelonne,81,44.12,2.25,Rurale,154,16,5.27,108,12.96,-102.18,3.36,1,Bien servies
+Panjas,32,43.82,-0.09,Rurale,166,15,0.0,120,92.5,-122.28,10.01,0,Mal servies
+Panoramique des Dômes Orcines,63,45.77,2.99,Touristique,164,14,15.85,120,32.5,-108.0,2.84,3,Débit limité
+Panthéon Paris,75,48.85,2.35,Touristique,168,16,269.04,120,1.67,-101.91,2.68,2,Très bien servies
+Pantin,93,48.9,2.4,Dense,168,16,230.35,120,0.0,-97.75,2.06,2,Très bien servies
+Parc Astérix Plailly,60,49.14,2.57,Touristique,168,16,281.19,120,0.0,-100.88,2.0,2,Très bien servies
+Parc Marineland Antibes,06,43.61,7.13,Touristique,168,16,101.77,120,1.67,-107.78,2.93,1,Bien servies
+Parc Phoenix Nice,06,43.67,7.22,Touristique,168,16,300.21,120,0.0,-89.8,2.58,2,Très bien servies
+Parc Saint-Paul,60,49.42,1.98,Touristique,168,16,512.8,120,0.0,-85.0,2.02,2,Très bien servies
+Parc animalier Réserve africaine de Sigean,11,43.06,2.95,Touristique,167,15,17.72,120,18.33,-114.46,2.7,3,Débit limité
+Parc animalier de Sainte-Croix Rhodes,57,48.77,6.9,Touristique,168,16,15.36,120,3.33,-97.66,2.38,1,Bien servies
+Parc d'attractions Le Pal Saint-Pourçain sur Besbre,03,46.51,3.62,Touristique,168,16,597.65,120,0.0,-93.0,2.09,2,Très bien servies
+Parc d'attractions Nigloland Dolancourt,10,48.26,4.61,Touristique,168,16,226.61,120,3.33,-111.0,2.43,1,Bien servies
+Parc de Champagne Reims,51,49.24,4.06,Touristique,167,15,428.87,120,0.83,-88.93,2.08,2,Très bien servies
+Parc de la mer de sable Ermenonville,60,49.15,2.68,Touristique,168,16,98.59,120,12.5,-94.16,2.2,1,Bien servies
+Parc du Futuroscope Chasseneuil-du-Poitou,86,46.66,0.36,Touristique,160,12,341.28,120,0.0,-86.46,2.15,2,Très bien servies
+Parc du Héron Villeneuve d'Ascq,59,50.64,3.15,Touristique,168,16,181.22,120,0.0,-99.64,2.05,2,Très bien servies
+Parc zoologique de La Flèche,72,47.68,-0.05,Touristique,168,16,0.48,120,66.67,-113.07,10.01,0,Mal servies
+Parc zoologique de Paris Paris,75,48.83,2.41,Touristique,168,16,208.03,120,0.0,-107.49,2.84,1,Bien servies
+Parc zoologique de Thoiry,73,48.87,1.8,Touristique,165,14,9.43,119,21.01,-111.8,3.45,3,Débit limité
+Parc zoologique de la Palmyre Les Mathes,17,45.69,-1.17,Touristique,168,16,81.97,120,5.83,-110.88,2.46,1,Bien servies
+Parc zoologique du bois de Boulogne Lille,59,50.64,3.05,Touristique,168,16,256.0,120,0.0,-94.74,2.05,2,Très bien servies
+Parc zoologique et botanique Mulhouse,68,47.73,7.35,Touristique,168,16,234.12,120,0.83,-102.75,2.38,2,Très bien servies
+Pardies,64,43.36,-0.58,Intermédiaire,168,16,78.09,120,10.83,-105.72,2.47,1,Bien servies
+Parempuyre,33,44.95,-0.6,Dense,168,16,439.89,120,5.0,-103.22,2.22,2,Très bien servies
+Parentis-en-Born,40,44.35,-1.07,Rurale,168,16,298.56,120,0.83,-104.08,2.27,2,Très bien servies
+Paris,75,48.86,2.35,Dense,5035,480,295.17,3596,2.95,-96.5,2.67,2,Très bien servies
+Parmain,95,49.11,2.21,Dense,336,32,169.86,240,3.75,-105.33,2.25,1,Bien servies
+Parçay-Meslay,37,47.44,0.75,Intermédiaire,168,16,100.94,120,20.83,-107.93,3.53,3,Débit limité
+Pau,64,43.31,-0.36,Intermédiaire,336,32,226.85,240,0.0,-105.07,2.37,1,Bien servies
+Pavie,32,43.61,0.59,Intermédiaire,168,16,57.94,120,20.83,-115.34,2.86,3,Débit limité
+Payrin-Augmontel,81,43.52,2.35,Intermédiaire,156,16,268.25,108,0.0,-104.67,2.72,2,Très bien servies
+Pergain-Taillac,32,44.06,0.59,Rurale,154,16,0.0,108,84.26,-124.75,10.01,0,Mal servies
+Perpignan,66,42.7,2.89,Intermédiaire,503,48,149.59,359,1.11,-103.44,2.4,1,Bien servies
+Perriers-sur-Andelle,27,49.41,1.37,Rurale,168,16,147.82,120,0.0,-102.2,2.98,1,Bien servies
+Perthes,77,48.48,2.56,Rurale,168,16,86.37,120,0.83,-106.36,2.91,1,Bien servies
+Pessac,33,44.8,-0.67,Dense,168,16,284.7,120,9.17,-108.42,2.24,1,Bien servies
+Petit Palais Paris,75,48.87,2.31,Touristique,168,16,117.9,120,5.83,-99.34,2.88,1,Bien servies
+Petit train de la Rhune Sare,64,43.32,-1.6,Touristique,166,15,0.0,120,47.5,-96.68,2.5,3,Débit limité
+Petit-Couronne,76,49.39,1.02,Dense,168,16,254.87,120,0.0,-100.25,2.09,2,Très bien servies
+Petite-Forêt,59,50.38,3.48,Intermédiaire,168,16,280.3,120,0.0,-99.34,2.08,2,Très bien servies
+Petreto-Bicchisano,2A,41.79,8.98,Rurale,166,16,11.15,120,16.67,-108.85,4.27,3,Débit limité
+Peymeinade,06,43.64,6.88,Dense,335,32,294.78,240,5.42,-106.1,2.63,2,Très bien servies
+Peynier,13,43.45,5.64,Dense,168,16,244.58,120,12.5,-103.8,2.91,1,Bien servies
+Peypin,13,43.38,5.58,Dense,168,16,268.54,120,0.83,-104.61,2.71,2,Très bien servies
+Peyre en Aubrac,48,44.72,3.28,Rurale,168,16,127.13,120,1.67,-105.34,2.82,1,Bien servies
+Peyrelevade,19,45.71,2.05,Rurale,168,16,3.14,120,35.83,-107.44,5.3,3,Débit limité
+Philippsbourg,57,48.98,7.56,Rurale,161,12,20.13,120,27.5,-96.0,3.71,3,Débit limité
+Pia,66,42.74,2.92,Intermédiaire,168,16,0.03,120,53.33,-113.66,9.81,0,Mal servies
+Picauville,50,49.38,-1.42,Rurale,166,16,85.72,118,10.17,-114.86,2.8,3,Débit limité
+Pierrelatte,26,44.38,4.7,Intermédiaire,327,28,212.7,239,13.39,-106.44,3.06,1,Bien servies
+Pierrelaye,95,49.02,2.15,Dense,168,16,317.91,120,1.67,-99.99,2.74,2,Très bien servies
+Pierrevert,04,43.81,5.75,Intermédiaire,166,14,282.25,120,3.33,-111.4,2.76,1,Bien servies
+Pinon,02,49.5,3.45,Rurale,168,16,2.32,120,8.33,-113.94,3.5,3,Débit limité
+Piré-Chancé,35,48.01,-1.43,Rurale,168,16,97.3,120,21.67,-111.67,2.94,3,Débit limité
+Pissos,40,44.31,-0.78,Rurale,168,16,69.37,120,7.5,-106.35,2.45,1,Bien servies
+Plaimpied-Givaudins,18,47.0,2.45,Rurale,168,16,144.92,120,0.0,-98.58,2.93,1,Bien servies
+Plaisance-du-Touch,31,43.56,1.28,Dense,168,16,220.17,120,0.0,-100.0,2.23,2,Très bien servies
+Plan-de-Cuques,13,43.36,5.47,Dense,168,16,245.78,120,0.83,-104.74,2.82,1,Bien servies
+Plancy-l'Abbaye,10,48.57,3.97,Rurale,167,16,51.71,120,13.33,-111.43,2.3,1,Bien servies
+Plessé,44,47.54,-1.89,Rurale,168,16,131.31,120,0.0,-101.56,2.88,1,Bien servies
+Plestin-les-Grèves,22,48.66,-3.63,Rurale,168,16,271.16,120,14.17,-106.84,2.21,1,Bien servies
+Plobsheim,67,48.48,7.73,Dense,168,16,168.04,120,0.0,-99.53,2.26,1,Bien servies
+Plogonnec,29,48.08,-4.19,Rurale,168,16,185.55,120,0.83,-102.18,2.36,1,Bien servies
+Plombières-lès-Dijon,21,47.34,4.98,Intermédiaire,168,16,35.83,120,22.5,-110.08,2.75,3,Débit limité
+Plouarzel,29,48.43,-4.72,Rurale,171,16,290.32,120,9.17,-86.66,2.24,2,Très bien servies
+Ploudaniel,29,48.54,-4.31,Rurale,168,16,79.4,120,27.5,-108.18,2.6,3,Débit limité
+Plougonven,29,48.52,-3.71,Rurale,168,16,50.14,120,9.17,-108.69,2.55,1,Bien servies
+Plouha,22,48.68,-2.93,Rurale,166,15,344.36,120,23.33,-96.9,2.04,2,Très bien servies
+Plozévet,29,47.99,-4.42,Rurale,168,16,350.27,120,1.67,-96.24,2.22,2,Très bien servies
+Ploërmel,56,47.93,-2.4,Intermédiaire,336,32,168.41,240,4.17,-102.88,2.33,1,Bien servies
+Pluguffan,29,47.97,-4.18,Intermédiaire,168,16,172.37,120,2.5,-109.13,2.46,1,Bien servies
+Plumelec,56,47.84,-2.64,Rurale,168,16,19.89,120,2.5,-105.91,2.49,1,Bien servies
+Pluméliau-Bieuzy,56,47.96,-2.97,Rurale,168,16,34.0,120,2.5,-113.74,2.66,1,Bien servies
+Pluvigner,56,47.77,-3.0,Rurale,168,16,142.04,120,9.17,-111.77,2.55,1,Bien servies
+Plélan-le-Grand,35,48.01,-2.09,Rurale,168,16,148.36,120,4.17,-102.74,2.77,1,Bien servies
+Plémet,22,48.17,-2.6,Rurale,168,16,38.0,120,18.33,-105.97,3.18,3,Débit limité
+Plérin,22,48.54,-2.76,Intermédiaire,168,16,228.12,120,0.0,-88.11,2.26,2,Très bien servies
+Poisat,38,45.16,5.76,Dense,168,16,222.16,120,0.0,-108.0,2.21,1,Bien servies
+Poissy,78,48.92,2.03,Dense,168,16,283.8,120,10.83,-109.87,3.12,1,Bien servies
+Poix-Terron,08,49.65,4.64,Rurale,166,14,64.99,120,19.17,-109.85,3.0,3,Débit limité
+Pons,17,45.58,-0.55,Rurale,168,16,31.2,120,14.17,-111.1,2.6,3,Débit limité
+Pont Saint Benezet d'Avignon,84,43.95,4.81,Touristique,167,16,134.26,119,11.76,-99.94,3.03,1,Bien servies
+Pont-Salomon,43,45.34,4.25,Intermédiaire,168,16,257.51,120,0.0,-106.75,2.17,1,Bien servies
+Pont-de-Labeaume,07,44.67,4.29,Rurale,168,16,249.02,120,10.0,-107.36,3.0,1,Bien servies
+Pont-de-Poitte,39,46.59,5.7,Rurale,160,12,0.2,120,45.83,-102.45,10.0,0,Mal servies
+Pont-de-l'Isère,26,45.0,4.87,Intermédiaire,168,16,52.3,120,0.83,-112.0,2.62,1,Bien servies
+Pont-l'Abbé-d'Arnoult,17,45.83,-0.87,Rurale,168,16,41.0,120,5.83,-112.18,2.5,1,Bien servies
+Pontarlier,25,46.9,6.34,Intermédiaire,504,48,111.8,360,0.0,-99.82,2.49,1,Bien servies
+Pontault-Combault,77,48.8,2.61,Dense,168,16,450.24,120,0.83,-94.9,2.6,2,Très bien servies
+Pontfaverger-Moronvilliers,51,49.3,4.32,Rurale,168,16,15.88,120,25.0,-112.0,2.8,3,Débit limité
+Pontvallain,72,47.75,0.19,Rurale,167,16,4.25,120,15.83,-102.05,3.59,3,Débit limité
+Port-sur-Saône,70,47.69,6.05,Rurale,168,16,16.84,120,21.67,-111.88,3.42,3,Débit limité
+Porte des Pierres Dorées,69,45.97,4.67,Dense,172,16,245.93,120,0.0,-108.0,2.17,1,Bien servies
+Porto-Vecchio,2A,41.59,9.28,Intermédiaire,165,16,118.64,120,11.67,-109.86,3.27,1,Bien servies
+Pouilley-les-Vignes,25,47.26,5.93,Rurale,168,16,357.21,120,3.33,-93.0,2.43,2,Très bien servies
+Pourrières,83,43.5,5.74,Rurale,168,16,210.84,120,3.33,-96.83,2.72,2,Très bien servies
+Prades,66,42.62,2.43,Rurale,168,16,87.37,120,0.0,-106.2,2.58,1,Bien servies
+Prigonrieux,24,44.85,0.4,Intermédiaire,168,16,19.71,120,29.17,-111.1,2.98,3,Débit limité
+Privas,07,44.73,4.6,Intermédiaire,336,32,24.86,240,27.5,-108.33,3.84,3,Débit limité
+Pronleroy,60,49.47,2.55,Rurale,168,16,3.67,120,13.33,-114.8,3.63,3,Débit limité
+Précigné,72,47.77,-0.32,Rurale,168,16,123.67,120,0.0,-103.18,3.0,1,Bien servies
+Publier,74,46.39,6.54,Intermédiaire,168,16,26.9,120,0.0,-106.67,2.4,1,Bien servies
+Puget-Théniers,06,43.96,6.89,Rurale,168,16,142.8,120,0.0,-98.58,2.6,1,Bien servies
+Puget-sur-Argens,83,43.45,6.69,Intermédiaire,156,16,157.55,108,0.0,-110.36,3.0,1,Bien servies
+Puimoisson,04,43.86,6.13,Rurale,165,14,14.63,120,21.67,-112.67,3.94,3,Débit limité
+Putanges-le-Lac,61,48.76,-0.25,Rurale,168,16,60.66,120,0.0,-107.07,2.22,1,Bien servies
+Puy-l'Évêque,46,44.5,1.14,Rurale,156,16,64.14,108,10.19,-107.89,2.9,1,Bien servies
+Puycapel,15,44.72,2.36,Rurale,156,16,124.32,108,0.0,-105.42,2.41,1,Bien servies
+Puylagarde,82,44.3,1.84,Rurale,156,16,21.22,108,11.11,-86.32,2.5,2,Très bien servies
+Pégomas,06,43.59,6.93,Dense,168,16,268.03,120,0.0,-94.76,2.52,2,Très bien servies
+Pélissanne,13,43.63,5.15,Intermédiaire,167,16,98.38,119,5.04,-106.0,2.83,1,Bien servies
+Pérenchies,59,50.67,2.97,Dense,168,16,149.79,120,14.17,-100.0,2.24,1,Bien servies
+Périgueux,24,45.19,0.72,Intermédiaire,336,32,70.66,240,0.42,-98.33,2.34,1,Bien servies
+Pérols,34,43.56,3.95,Dense,336,32,221.63,240,1.25,-103.58,2.78,1,Bien servies
+Péronne,80,49.94,2.93,Rurale,168,16,320.81,120,0.0,-93.71,2.04,2,Très bien servies
+Quesnoy-sur-Deûle,59,50.71,3.0,Dense,168,16,283.03,120,0.0,-83.84,2.05,2,Très bien servies
+Quetigny,21,47.31,5.1,Intermédiaire,168,16,298.22,120,0.0,-91.08,2.31,2,Très bien servies
+Quimper,29,47.99,-4.09,Intermédiaire,504,48,287.11,360,0.28,-92.52,2.21,2,Très bien servies
+Quimperlé,29,47.87,-3.55,Intermédiaire,503,48,201.04,359,2.79,-104.58,2.35,1,Bien servies
+Quincampoix,76,49.52,1.19,Dense,168,16,217.47,120,4.17,-108.0,2.26,1,Bien servies
+Quissac,30,43.91,4.0,Rurale,167,16,118.61,119,2.52,-111.67,2.93,1,Bien servies
+Rai,61,48.75,0.58,Intermédiaire,168,16,189.21,120,1.67,-104.4,2.22,1,Bien servies
+Ramonville-Saint-Agne,31,43.54,1.48,Dense,168,16,281.46,120,0.0,-106.84,2.22,2,Très bien servies
+Recey-sur-Ource,21,47.78,4.86,Rurale,167,16,3.09,120,30.0,-113.4,5.52,3,Débit limité
+Reims,51,49.26,4.02,Intermédiaire,504,48,318.31,360,0.0,-93.0,2.06,2,Très bien servies
+Remiremont,88,48.02,6.59,Intermédiaire,336,32,136.18,240,0.42,-103.74,2.37,1,Bien servies
+Renaison,42,46.05,3.93,Intermédiaire,168,16,218.23,120,1.67,-102.67,2.19,1,Bien servies
+Rennes,35,48.11,-1.67,Intermédiaire,1008,96,305.94,720,4.86,-96.01,2.58,2,Très bien servies
+Retiers,35,47.91,-1.38,Rurale,168,16,221.43,120,0.0,-108.61,2.87,1,Bien servies
+Retournac,43,45.2,4.03,Rurale,168,16,31.1,120,0.83,-112.67,2.46,1,Bien servies
+Revel,31,43.45,1.99,Rurale,168,16,355.17,120,0.0,-100.92,2.3,2,Très bien servies
+Reventin-Vaugris,38,45.46,4.83,Intermédiaire,172,16,328.89,120,0.0,-93.12,2.04,2,Très bien servies
+Revin,08,49.94,4.64,Rurale,168,16,224.88,120,2.5,-96.5,2.31,2,Très bien servies
+Reyrieux,01,45.93,4.82,Dense,172,16,29.68,120,3.33,-116.17,2.42,1,Bien servies
+Rezé,44,47.18,-1.55,Dense,168,16,288.28,120,2.5,-98.88,2.72,2,Très bien servies
+Rians,18,47.18,2.61,Rurale,168,16,84.05,120,10.83,-104.6,3.1,1,Bien servies
+Ribemont,02,49.8,3.47,Rurale,168,16,3.93,120,20.83,-116.0,2.84,3,Débit limité
+Ribérac,24,45.25,0.34,Rurale,168,16,29.89,120,30.0,-109.1,3.44,3,Débit limité
+Rieux-de-Pelleport,09,43.06,1.61,Intermédiaire,168,16,9.77,120,21.67,-108.78,3.46,3,Débit limité
+Rilhac-Xaintrie,19,45.17,2.2,Rurale,163,14,0.0,120,60.83,-108.62,10.01,0,Mal servies
+Riom-ès-Montagnes,15,45.29,2.67,Rurale,168,16,143.13,120,0.83,-101.97,2.27,1,Bien servies
+Riorges,42,46.05,4.06,Intermédiaire,168,16,395.38,120,0.0,-94.5,2.06,2,Très bien servies
+Riotord,43,45.23,4.4,Rurale,168,16,10.23,120,4.17,-103.33,2.77,1,Bien servies
+Rives,38,45.35,5.5,Intermédiaire,172,16,137.82,120,0.83,-112.0,2.26,1,Bien servies
+Rives-de-l'Yon,85,46.6,-1.32,Rurale,168,16,79.58,120,2.5,-108.92,2.48,1,Bien servies
+Roanne,42,46.04,4.07,Intermédiaire,336,32,326.41,240,0.83,-103.33,2.12,2,Très bien servies
+Roche-Saint-Secret-Béconne,26,44.48,5.03,Rurale,168,16,0.54,120,64.17,-109.46,1.02,3,Débit limité
+Rochefort-du-Gard,30,43.97,4.69,Rurale,167,16,72.49,120,17.5,-112.7,3.25,3,Débit limité
+Rodez,12,44.35,2.57,Intermédiaire,156,16,275.18,108,3.7,-102.01,2.34,2,Très bien servies
+Roissy-en-Brie,77,48.78,2.66,Dense,168,16,422.65,120,0.0,-90.47,2.04,2,Très bien servies
+Romain,51,49.33,3.77,Rurale,163,14,1.49,119,46.22,-121.48,6.41,0,Mal servies
+Ronchin,59,50.6,3.08,Dense,168,16,200.89,120,0.83,-105.33,2.06,1,Bien servies
+Roncq,59,50.77,3.12,Dense,168,16,216.59,120,0.0,-106.67,2.12,1,Bien servies
+Roost-Warendin,59,50.42,3.09,Dense,167,15,201.15,120,3.33,-109.33,2.31,1,Bien servies
+Roquefort-les-Pins,06,43.67,7.04,Dense,165,14,99.67,120,15.83,-109.42,2.98,1,Bien servies
+Rostrenen,22,48.24,-3.32,Rurale,168,16,6.66,120,15.83,-106.96,2.88,3,Débit limité
+Rots,14,49.2,-0.46,Intermédiaire,168,16,427.13,120,0.83,-97.12,2.1,2,Très bien servies
+Rouen,76,49.44,1.1,Dense,840,80,118.99,600,0.17,-91.67,2.18,2,Très bien servies
+Rouessé-Vassé,72,48.16,-0.2,Rurale,168,16,24.4,120,20.0,-106.1,3.57,3,Débit limité
+Rougnat,23,46.05,2.5,Rurale,167,15,2.8,120,25.83,-110.07,4.76,3,Débit limité
+Rougé,44,47.78,-1.45,Rurale,167,15,59.57,120,4.17,-109.09,3.06,1,Bien servies
+Rouillac,16,45.78,-0.06,Rurale,168,16,12.29,120,15.0,-101.7,2.6,1,Bien servies
+Roussennac,12,44.45,2.25,Rurale,151,15,0.0,107,56.07,-117.84,4.2,3,Débit limité
+Rousset,13,43.48,5.62,Dense,168,16,280.18,120,0.0,-103.75,2.82,2,Très bien servies
+Roussillon,38,45.37,4.81,Intermédiaire,172,16,57.29,120,21.67,-107.0,2.44,3,Débit limité
+Rouvroy,62,50.39,2.91,Dense,168,16,191.72,120,0.0,-107.33,2.18,1,Bien servies
+Royaumeix,54,48.78,5.87,Rurale,168,16,97.31,120,0.0,-108.75,2.37,1,Bien servies
+Royère-de-Vassivière,23,45.84,1.91,Rurale,164,14,14.04,120,36.67,-107.08,3.62,3,Débit limité
+Rubelles,77,48.55,2.67,Dense,336,32,465.0,240,0.42,-90.89,2.68,2,Très bien servies
+Rue,80,50.27,1.67,Rurale,167,16,20.03,120,10.0,-111.0,3.38,3,Débit limité
+Rungis,94,48.75,2.36,Dense,168,16,289.59,120,0.83,-95.62,2.58,2,Très bien servies
+Rupt-sur-Moselle,88,47.92,6.66,Intermédiaire,168,16,211.01,120,0.0,-99.6,2.38,2,Très bien servies
+Réding,57,48.74,7.1,Intermédiaire,168,16,225.79,120,1.67,-107.18,2.35,1,Bien servies
+Réquista,12,44.04,2.52,Rurale,168,16,0.46,120,40.83,-112.22,4.86,3,Débit limité
+Sacierges-Saint-Martin,36,46.49,1.36,Rurale,160,12,22.17,120,0.0,-92.85,2.28,1,Bien servies
+Safari de Peaugres,07,45.27,4.72,Touristique,172,16,113.05,120,0.0,-108.67,2.21,1,Bien servies
+Sai,61,48.74,0.02,Rurale,168,16,0.65,120,44.17,-119.99,6.52,0,Mal servies
+Saignes,15,45.34,2.48,Rurale,168,16,67.27,120,4.17,-114.8,2.58,1,Bien servies
+Saint Hilaire,91,48.43,2.08,Rurale,165,15,0.14,120,67.5,-84.8,10.01,0,Mal servies
+Saint-Affrique,12,43.96,2.89,Rurale,168,16,172.04,120,0.0,-102.63,2.34,1,Bien servies
+Saint-Agrève,07,45.01,4.4,Rurale,168,16,57.55,120,5.0,-109.9,2.38,1,Bien servies
+Saint-Aignan-sur-Roë,53,47.84,-1.14,Rurale,167,15,59.86,120,32.5,-110.8,5.24,3,Débit limité
+Saint-Alban,22,48.55,-2.54,Rurale,168,16,86.33,120,0.0,-101.69,2.26,1,Bien servies
+Saint-Alban-Leysse,73,45.57,5.96,Intermédiaire,168,16,468.3,120,0.0,-86.08,2.1,2,Très bien servies
+Saint-Alban-de-Montbel,73,45.55,5.78,Intermédiaire,168,16,58.76,120,0.83,-110.42,2.42,1,Bien servies
+Saint-Ambroix,18,46.93,2.12,Rurale,168,16,2.72,120,18.33,-108.73,4.99,3,Débit limité
+Saint-Amour,39,46.44,5.34,Rurale,168,16,20.1,120,4.17,-113.33,2.58,1,Bien servies
+Saint-André-d'Olérargues,30,44.16,4.49,Rurale,167,16,7.56,119,13.45,-107.8,5.52,3,Débit limité
+Saint-André-de-Cubzac,33,44.99,-0.43,Dense,167,15,296.21,120,0.83,-98.73,2.24,2,Très bien servies
+Saint-André-de-l'Eure,27,48.91,1.27,Rurale,166,16,41.73,118,0.0,-108.3,3.18,1,Bien servies
+Saint-André-de-la-Roche,06,43.74,7.29,Dense,168,16,273.98,120,0.0,-103.63,2.72,2,Très bien servies
+Saint-André-les-Vergers,10,48.27,4.05,Intermédiaire,168,16,268.5,120,0.83,-95.0,2.17,2,Très bien servies
+Saint-André-lez-Lille,59,50.67,3.03,Dense,168,16,227.47,120,0.83,-102.67,2.14,2,Très bien servies
+Saint-Antonin-Noble-Val,82,44.15,1.76,Rurale,156,16,6.17,108,35.19,-109.98,3.24,3,Débit limité
+Saint-Aubin,39,47.03,5.33,Rurale,168,16,64.29,120,0.0,-109.0,2.48,1,Bien servies
+Saint-Aubin-des-Préaux,50,48.8,-1.51,Rurale,168,16,43.78,120,16.67,-115.56,3.04,3,Débit limité
+Saint-Berthevin,53,48.07,-0.83,Intermédiaire,168,16,78.47,120,20.0,-105.84,2.54,1,Bien servies
+Saint-Bonnet-les-Oules,42,45.54,4.33,Intermédiaire,168,16,241.62,120,0.0,-101.33,2.2,2,Très bien servies
+Saint-Brieuc,22,48.52,-2.76,Intermédiaire,496,44,250.86,360,0.28,-91.62,2.21,2,Très bien servies
+Saint-Béron,73,45.5,5.73,Intermédiaire,168,16,300.05,120,0.0,-96.0,2.16,2,Très bien servies
+Saint-Calais,72,47.92,0.74,Rurale,167,16,66.31,119,11.76,-110.51,3.9,3,Débit limité
+Saint-Chamond,42,45.48,4.51,Intermédiaire,168,16,352.07,120,0.83,-101.0,2.14,2,Très bien servies
+Saint-Cirgues,46,44.74,2.12,Rurale,156,16,0.0,108,83.33,-112.3,10.01,0,Mal servies
+Saint-Clair-du-Rhône,38,45.44,4.77,Intermédiaire,172,16,437.52,120,0.0,-92.29,2.02,2,Très bien servies
+Saint-Claude,39,46.39,5.86,Rurale,168,16,32.97,120,14.17,-106.55,2.48,1,Bien servies
+Saint-Cyprien,66,42.63,3.03,Intermédiaire,168,16,296.45,120,5.0,-93.86,2.41,2,Très bien servies
+Saint-Cyr-au-Mont-d'Or,69,45.8,4.82,Dense,172,16,92.0,120,0.83,-110.85,2.27,1,Bien servies
+Saint-Cyr-en-Val,45,47.83,1.97,Intermédiaire,168,16,35.73,120,20.83,-112.07,3.79,3,Débit limité
+Saint-Cyr-l'École,78,48.8,2.06,Dense,168,16,226.34,120,7.5,-109.9,2.63,1,Bien servies
+Saint-Cyr-sur-Mer,83,43.19,5.7,Dense,168,16,116.49,120,5.0,-108.52,3.14,1,Bien servies
+Saint-Denis,93,48.93,2.36,Dense,168,16,23.6,120,20.83,-97.08,2.37,1,Bien servies
+Saint-Denis-de-Pile,33,44.99,-0.2,Intermédiaire,168,16,37.86,120,22.5,-108.49,2.93,3,Débit limité
+Saint-Denis-en-Val,45,47.88,1.95,Intermédiaire,168,16,198.09,120,2.5,-96.86,2.8,2,Très bien servies
+Saint-Didier-au-Mont-d'Or,69,45.8,4.8,Dense,172,16,17.78,120,0.0,-112.56,2.49,1,Bien servies
+Saint-Dizier,52,48.64,4.96,Intermédiaire,672,64,136.85,480,0.62,-98.5,2.34,1,Bien servies
+Saint-Erme-Outre-et-Ramecourt,02,49.53,3.86,Rurale,168,16,15.86,120,0.83,-110.0,2.4,1,Bien servies
+Saint-Fargeau,89,47.64,3.07,Rurale,164,14,41.47,120,13.33,-110.19,2.22,1,Bien servies
+Saint-Fargeau-Ponthierry,77,48.54,2.53,Dense,168,16,235.12,120,0.83,-107.49,2.8,1,Bien servies
+Saint-Fons,69,45.71,4.84,Dense,168,16,343.9,120,0.0,-89.0,1.98,2,Très bien servies
+Saint-Féliu-d'Avall,66,42.68,2.73,Intermédiaire,167,16,114.42,120,28.33,-112.78,3.19,3,Débit limité
+Saint-Gaudens,31,43.11,0.74,Intermédiaire,336,32,269.57,240,0.42,-102.14,2.47,2,Très bien servies
+Saint-Genis-Laval,69,45.7,4.8,Dense,172,16,205.61,120,0.0,-84.5,2.2,2,Très bien servies
+Saint-Genis-les-Ollières,69,45.76,4.73,Dense,172,16,36.08,120,17.5,-110.8,2.54,3,Débit limité
+Saint-Germain-de-la-Grange,78,48.83,1.91,Dense,160,12,182.25,120,0.0,-100.89,2.9,1,Bien servies
+Saint-Germain-du-Bois,71,46.76,5.24,Rurale,168,16,189.74,120,0.0,-96.42,2.18,2,Très bien servies
+Saint-Germain-du-Teil,48,44.48,3.17,Rurale,168,16,0.71,120,73.33,-117.55,10.01,0,Mal servies
+Saint-Germain-en-Laye,78,48.89,2.06,Dense,168,16,287.65,120,6.67,-105.59,2.71,2,Très bien servies
+Saint-Gilles-Croix-de-Vie,85,46.7,-1.93,Intermédiaire,502,46,235.97,360,5.0,-106.56,2.98,1,Bien servies
+Saint-Gor,40,44.05,-0.24,Rurale,167,16,0.0,120,78.33,-120.56,10.01,0,Mal servies
+Saint-Gratien,95,48.97,2.28,Dense,168,16,81.26,120,1.67,-94.15,2.14,1,Bien servies
+Saint-Géry-Vers,46,44.49,1.55,Rurale,167,16,39.36,120,2.5,-97.33,2.26,1,Bien servies
+Saint-Haon-le-Châtel,42,46.07,3.91,Intermédiaire,168,16,396.53,120,0.83,-101.0,2.15,2,Très bien servies
+Saint-Herblain,44,47.22,-1.64,Dense,336,32,222.43,240,1.25,-100.36,2.76,2,Très bien servies
+Saint-Hilaire-de-Riez,85,46.72,-1.95,Intermédiaire,336,32,302.64,240,1.67,-103.75,2.78,2,Très bien servies
+Saint-Jean,31,43.66,1.5,Dense,168,16,248.77,120,7.5,-108.56,2.44,1,Bien servies
+Saint-Jean-Ligoure,87,45.69,1.31,Rurale,168,16,25.17,120,0.0,-87.34,2.22,2,Très bien servies
+Saint-Jean-Pied-de-Port,64,43.16,-1.24,Rurale,167,16,96.32,120,7.5,-106.74,2.54,1,Bien servies
+Saint-Jean-Rohrbach,57,49.03,6.88,Rurale,167,16,0.36,120,62.5,-123.5,10.02,0,Mal servies
+Saint-Jean-d'Angély,17,45.94,-0.52,Rurale,168,16,363.26,120,0.83,-94.32,2.18,2,Très bien servies
+Saint-Jean-d'Illac,33,44.81,-0.78,Dense,168,16,468.45,120,0.0,-94.81,2.14,2,Très bien servies
+Saint-Jean-de-Boiseau,44,47.2,-1.72,Dense,167,16,104.52,119,28.57,-116.46,3.47,3,Débit limité
+Saint-Jean-de-Daye,50,49.23,-1.14,Rurale,166,16,0.27,118,73.73,-118.51,10.01,0,Mal servies
+Saint-Jean-de-Maurienne,73,45.27,6.37,Rurale,172,16,129.6,120,0.0,-103.0,2.25,1,Bien servies
+Saint-Jean-de-Monts,85,46.79,-2.06,Intermédiaire,161,13,272.36,120,0.0,-100.22,2.86,2,Très bien servies
+Saint-Jean-de-Muzols,07,45.08,4.82,Intermédiaire,168,16,108.43,120,0.0,-106.5,2.29,1,Bien servies
+Saint-Jean-des-Vignes,69,45.88,4.68,Dense,172,16,37.42,120,1.67,-109.25,2.34,1,Bien servies
+Saint-Jean-du-Falga,09,43.1,1.62,Intermédiaire,168,16,237.67,120,0.0,-101.23,2.33,2,Très bien servies
+Saint-Jean-en-Royans,26,45.02,5.29,Rurale,172,16,186.04,120,1.67,-108.0,2.23,1,Bien servies
+Saint-Julien-de-Vouvantes,44,47.64,-1.24,Rurale,168,16,4.22,120,17.5,-111.78,5.26,3,Débit limité
+Saint-Julien-les-Villas,10,48.27,4.09,Intermédiaire,168,16,205.86,120,0.0,-101.0,2.3,2,Très bien servies
+Saint-Julien-lès-Metz,57,49.13,6.2,Intermédiaire,166,16,291.63,118,5.08,-99.67,2.37,2,Très bien servies
+Saint-Just-Saint-Rambert,42,45.5,4.26,Intermédiaire,336,32,208.53,240,0.0,-108.0,2.25,1,Bien servies
+Saint-Just-d'Avray,69,46.0,4.45,Rurale,168,16,0.2,120,49.17,-103.02,3.12,3,Débit limité
+Saint-Laurent-de-Chamousset,69,45.74,4.46,Rurale,168,16,83.13,120,0.0,-108.67,2.19,1,Bien servies
+Saint-Laurent-de-Condel,14,49.04,-0.42,Rurale,167,16,9.66,120,35.83,-115.94,4.74,3,Débit limité
+Saint-Loubès,33,44.92,-0.42,Dense,168,16,260.87,120,0.83,-108.4,2.27,1,Bien servies
+Saint-Léger-la-Montagne,87,46.03,1.42,Rurale,168,16,15.35,120,0.0,-100.26,2.42,1,Bien servies
+Saint-Léonard,62,50.69,1.63,Intermédiaire,168,16,4.77,120,26.67,-119.57,5.42,3,Débit limité
+Saint-Malo,35,48.65,-1.99,Intermédiaire,1344,128,189.44,960,2.19,-101.65,2.84,1,Bien servies
+Saint-Mard,77,49.04,2.69,Intermédiaire,166,15,265.13,120,1.67,-101.82,2.06,2,Très bien servies
+Saint-Martial-d'Artenset,24,45.02,0.2,Rurale,168,16,28.65,120,13.33,-116.64,3.14,3,Débit limité
+Saint-Martin-Boulogne,62,50.73,1.64,Intermédiaire,168,16,183.89,120,0.0,-96.5,2.08,2,Très bien servies
+Saint-Martin-en-Haut,69,45.66,4.56,Rurale,172,16,129.77,120,0.0,-103.0,2.15,1,Bien servies
+Saint-Martin-le-Vinoux,38,45.21,5.71,Dense,168,16,222.68,120,0.0,-106.2,2.22,1,Bien servies
+Saint-Martin-sur-Nohain,58,47.36,2.98,Rurale,162,13,0.48,120,75.0,-114.32,10.01,0,Mal servies
+Saint-Maur,36,46.78,1.65,Intermédiaire,167,16,118.12,119,0.84,-91.94,3.22,2,Très bien servies
+Saint-Maurice-de-Cazevieille,30,44.03,4.23,Rurale,168,16,164.23,120,0.83,-98.27,2.82,1,Bien servies
+Saint-Méard,87,45.67,1.55,Rurale,168,16,12.55,120,5.83,-94.14,2.24,1,Bien servies
+Saint-Médard-d'Eyrans,33,44.72,-0.51,Dense,168,16,265.46,120,0.83,-106.1,2.25,1,Bien servies
+Saint-Médard-en-Jalles,33,44.89,-0.73,Dense,336,32,399.12,240,2.5,-100.3,2.2,2,Très bien servies
+Saint-Nabord,88,48.03,6.58,Intermédiaire,168,16,41.01,120,0.83,-104.33,2.34,1,Bien servies
+Saint-Nazaire-le-Désert,26,44.57,5.28,Rurale,168,16,12.89,120,4.17,-103.38,3.4,1,Bien servies
+Saint-Nicolas-de-Bourgueil,37,47.28,0.13,Rurale,168,16,138.1,120,5.83,-107.21,2.95,1,Bien servies
+Saint-Pardoux-Soutiers,79,46.57,-0.31,Rurale,168,16,92.65,120,5.0,-107.98,2.49,1,Bien servies
+Saint-Parres-aux-Tertres,10,48.29,4.13,Intermédiaire,168,16,115.17,120,0.0,-101.0,2.28,1,Bien servies
+Saint-Paterne-Racan,37,47.6,0.48,Rurale,160,12,40.79,120,0.0,-99.66,3.06,1,Bien servies
+Saint-Paul-de-Varax,01,46.1,5.13,Rurale,168,16,64.63,120,0.83,-98.5,2.22,1,Bien servies
+Saint-Paul-lès-Dax,40,43.73,-1.04,Intermédiaire,168,16,185.86,120,9.17,-108.74,2.44,1,Bien servies
+Saint-Paulien,43,45.13,3.81,Rurale,168,16,17.53,120,3.33,-108.46,2.75,1,Bien servies
+Saint-Philbert-de-Bouaine,85,46.99,-1.52,Rurale,168,16,166.78,120,0.0,-91.26,2.8,2,Très bien servies
+Saint-Philbert-sur-Risle,27,49.3,0.65,Rurale,168,16,20.15,120,5.0,-111.42,2.46,1,Bien servies
+Saint-Pierre-de-Chartreuse,38,45.34,5.81,Rurale,171,16,32.82,120,10.0,-105.95,2.59,1,Bien servies
+Saint-Pierre-des-Corps,37,47.39,0.72,Intermédiaire,167,16,351.06,120,0.0,-100.02,2.68,2,Très bien servies
+Saint-Pierre-du-Perray,91,48.61,2.5,Dense,167,16,382.04,119,6.72,-106.66,2.8,2,Très bien servies
+Saint-Pierre-en-Auge,14,49.02,-0.04,Rurale,168,16,87.98,120,0.0,-103.9,2.22,1,Bien servies
+Saint-Pierre-lès-Elbeuf,76,49.29,1.04,Dense,168,16,150.38,120,13.33,-109.12,3.16,1,Bien servies
+Saint-Priest,69,45.69,4.95,Dense,172,16,239.3,120,0.0,-106.58,2.15,1,Bien servies
+Saint-Prix,95,49.02,2.24,Dense,168,16,58.71,120,25.0,-111.84,2.38,3,Débit limité
+Saint-Père-en-Retz,44,47.2,-2.05,Rurale,168,16,19.19,120,18.33,-115.01,3.46,3,Débit limité
+Saint-Raphaël,83,43.42,6.81,Intermédiaire,429,44,163.61,296,5.74,-107.04,2.94,1,Bien servies
+Saint-Romain-en-Gal,69,45.53,4.87,Intermédiaire,172,16,259.99,120,0.0,-105.5,2.19,2,Très bien servies
+Saint-Rustice,31,43.8,1.33,Dense,164,13,0.87,120,30.83,-112.26,3.51,3,Débit limité
+Saint-Rémy-lès-Chevreuse,78,48.71,2.07,Dense,167,16,241.89,120,3.33,-107.29,2.78,1,Bien servies
+Saint-Rémy-sur-Durolle,63,45.89,3.59,Rurale,165,15,76.88,120,0.83,-97.62,2.28,1,Bien servies
+Saint-Saturnin,72,48.05,0.17,Intermédiaire,168,16,247.56,120,6.67,-102.19,2.81,2,Très bien servies
+Saint-Saturnin-lès-Apt,84,43.94,5.38,Rurale,168,16,28.04,120,30.0,-113.84,5.25,3,Débit limité
+Saint-Saulve,59,50.37,3.55,Intermédiaire,168,16,294.41,120,0.0,-101.5,2.08,2,Très bien servies
+Saint-Sauveur-lès-Bray,77,48.44,3.21,Rurale,168,16,0.0,120,96.67,-123.96,10.01,0,Mal servies
+Saint-Savin,38,45.63,5.31,Rurale,168,16,31.2,120,10.0,-112.5,2.51,1,Bien servies
+Saint-Savinien,17,45.87,-0.67,Rurale,164,14,17.92,120,31.67,-112.68,2.93,3,Débit limité
+Saint-Sulpice-sur-Risle,61,48.76,0.64,Intermédiaire,168,16,356.67,120,10.0,-103.12,2.16,2,Très bien servies
+Saint-Symphorien-d'Ozon,69,45.63,4.86,Dense,171,16,82.07,119,5.04,-114.15,2.34,1,Bien servies
+Saint-Sébastien-sur-Loire,44,47.21,-1.51,Dense,167,15,83.8,120,5.83,-106.23,3.1,1,Bien servies
+Saint-Thégonnec Loc-Eguiner,29,48.52,-3.95,Rurale,168,16,213.33,120,3.33,-98.99,2.17,2,Très bien servies
+Saint-Trivier-sur-Moignans,01,46.07,4.9,Rurale,168,16,113.26,120,0.0,-106.8,2.29,1,Bien servies
+Saint-Valery-en-Caux,76,49.87,0.71,Rurale,168,16,124.51,120,6.67,-99.62,2.42,1,Bien servies
+Saint-Vallier,71,46.64,4.37,Intermédiaire,168,16,103.76,120,0.0,-108.05,2.17,1,Bien servies
+Saint-Vallier-de-Thiey,06,43.7,6.85,Rurale,168,16,263.42,120,0.83,-101.59,2.54,2,Très bien servies
+Saint-Vaury,23,46.2,1.76,Rurale,168,16,41.58,120,0.83,-110.88,2.49,1,Bien servies
+Saint-Victor-l'Abbaye,76,49.67,1.12,Rurale,168,16,10.97,120,16.67,-109.4,3.2,3,Débit limité
+Saint-Vincent-de-Paul,33,44.95,-0.47,Dense,168,16,163.09,120,17.5,-107.25,2.47,1,Bien servies
+Saint-Vulbas,01,45.83,5.29,Rurale,168,16,6.95,120,15.0,-114.42,3.46,3,Débit limité
+Saint-Yorre,03,46.07,3.46,Intermédiaire,168,16,161.27,120,0.0,-101.0,2.09,1,Bien servies
+Saint-Yrieix-la-Perche,87,45.51,1.2,Rurale,168,16,98.0,120,7.5,-108.76,2.39,1,Bien servies
+Saint-Yrieix-sur-Charente,16,45.67,0.13,Intermédiaire,156,9,91.42,120,10.83,-108.5,2.49,1,Bien servies
+Saint-Éloy-les-Mines,63,46.17,2.83,Rurale,167,16,62.39,120,0.0,-105.89,2.23,1,Bien servies
+Saint-Émilion,33,44.89,-0.16,Intermédiaire,164,13,2.95,120,45.0,-116.93,6.62,0,Mal servies
+Saint-Étienne,42,45.44,4.4,Intermédiaire,840,80,323.89,600,0.0,-97.33,2.12,2,Très bien servies
+Saint-Étienne-d'Albagnan,34,43.53,2.86,Rurale,167,16,19.37,120,8.33,-109.17,2.61,1,Bien servies
+Saint-Étienne-du-Bois,01,46.29,5.29,Rurale,172,16,70.08,120,0.0,-110.29,2.2,1,Bien servies
+Saint-Étienne-du-Rouvray,76,49.39,1.07,Dense,168,16,320.32,120,0.0,-99.67,2.09,2,Très bien servies
+Sainte Chapelle Paris,75,48.86,2.35,Touristique,168,16,295.69,120,1.67,-89.05,2.64,2,Très bien servies
+Sainte-Adresse,76,49.51,0.08,Intermédiaire,168,16,347.27,120,0.0,-99.7,2.06,2,Très bien servies
+Sainte-Colombe-la-Commanderie,27,49.1,0.94,Rurale,167,16,58.31,119,4.2,-105.97,3.19,1,Bien servies
+Sainte-Eulalie,33,44.91,-0.49,Dense,168,16,331.12,120,5.83,-102.1,2.22,2,Très bien servies
+Sainte-Foy-lès-Lyon,69,45.73,4.78,Dense,172,16,279.88,120,0.0,-92.75,2.13,2,Très bien servies
+Sainte-Gemmes-le-Robert,53,48.2,-0.37,Rurale,168,16,36.9,120,10.83,-115.37,4.01,3,Débit limité
+Sainte-Geneviève-des-Bois,91,48.64,2.33,Dense,168,16,340.73,120,2.5,-105.19,2.56,2,Très bien servies
+Sainte-Luce-sur-Loire,44,47.25,-1.48,Dense,168,16,75.7,120,11.67,-108.61,3.22,1,Bien servies
+Sainte-Marguerite-sur-Duclair,76,49.51,0.84,Rurale,168,16,4.57,120,27.5,-113.38,3.68,3,Débit limité
+Sainte-Marie,32,43.66,0.87,Rurale,167,16,3.48,120,33.33,-116.82,4.26,3,Débit limité
+Sainte-Marie-aux-Mines,68,48.25,7.19,Rurale,168,16,81.71,120,0.0,-100.67,2.32,1,Bien servies
+Sainte-Menehould,51,49.09,4.9,Rurale,168,16,26.49,120,7.5,-114.0,3.02,3,Débit limité
+Sainte-Suzanne-et-Chammes,53,48.1,-0.35,Rurale,168,16,2.75,120,15.83,-107.06,4.22,3,Débit limité
+Sainte-Tulle,04,43.79,5.77,Intermédiaire,167,16,315.15,120,2.5,-105.44,2.64,2,Très bien servies
+Sainte-Verge,79,47.0,-0.21,Intermédiaire,168,16,255.19,120,1.67,-97.9,2.16,2,Très bien servies
+Saintes-Maries-de-la-Mer,13,43.45,4.43,Rurale,166,16,6.84,118,13.56,-109.94,3.98,3,Débit limité
+Salbris,41,47.43,2.05,Rurale,168,16,108.16,120,0.0,-102.44,2.98,1,Bien servies
+Salernes,83,43.56,6.24,Rurale,168,16,128.73,120,3.33,-110.45,2.88,1,Bien servies
+Salies-de-Béarn,64,43.47,-0.93,Rurale,168,16,90.44,120,0.83,-105.86,2.44,1,Bien servies
+Sallebuf,33,44.83,-0.41,Dense,168,16,203.78,120,10.0,-110.2,2.34,1,Bien servies
+Salles-Curan,12,44.18,2.79,Rurale,168,16,172.71,120,0.0,-104.82,2.51,1,Bien servies
+Sallèles-d'Aude,11,43.27,2.95,Rurale,168,16,51.37,120,24.17,-110.59,2.64,3,Débit limité
+Salon-de-Provence,13,43.64,5.1,Intermédiaire,502,48,113.87,358,0.28,-98.01,2.69,1,Bien servies
+Salornay-sur-Guye,71,46.52,4.6,Rurale,168,16,1.45,120,35.0,-106.3,5.75,3,Débit limité
+Samatan,32,43.49,0.93,Rurale,167,16,173.57,120,4.17,-107.85,2.38,1,Bien servies
+Sanary-sur-Mer,83,43.13,5.8,Dense,168,16,490.57,120,14.17,-98.62,2.8,2,Très bien servies
+Sanctuaire de Lourdes Lourdes,65,43.1,-0.06,Touristique,168,16,112.34,120,15.83,-108.25,2.57,1,Bien servies
+Santes,59,50.59,2.96,Dense,168,16,374.52,120,0.83,-100.42,1.98,2,Très bien servies
+Sanvignes-les-Mines,71,46.67,4.29,Intermédiaire,168,16,313.86,120,1.67,-102.77,2.26,2,Très bien servies
+Sap-en-Auge,61,48.89,0.34,Rurale,168,16,61.1,120,40.83,-106.35,3.5,3,Débit limité
+Saran,45,47.95,1.9,Intermédiaire,168,16,304.73,120,2.5,-103.3,2.84,2,Très bien servies
+Sarcelles,95,48.99,2.38,Dense,168,16,313.13,120,0.0,-89.67,2.04,2,Très bien servies
+Sarlat-la-Canéda,24,44.89,1.22,Rurale,164,15,0.0,120,64.17,-91.81,10.01,0,Mal servies
+Sarre-Union,67,48.94,7.09,Rurale,163,14,3.24,120,33.33,-108.0,2.66,3,Débit limité
+Sarrebourg,57,48.73,7.05,Intermédiaire,333,30,151.02,240,15.83,-103.0,2.36,1,Bien servies
+Sarrians,84,44.08,4.97,Dense,164,14,333.39,120,24.17,-100.51,2.88,2,Très bien servies
+Sarrola-Carcopino,2A,41.95,8.79,Intermédiaire,167,16,235.84,120,0.83,-101.67,2.71,2,Très bien servies
+Sartène,2A,41.62,8.97,Rurale,168,16,338.67,120,0.83,-105.1,2.7,2,Très bien servies
+Sassenage,38,45.22,5.66,Dense,168,16,276.3,120,0.83,-103.5,2.13,2,Très bien servies
+Sathonay-Camp,69,45.82,4.87,Dense,172,16,172.19,120,0.0,-104.25,2.14,1,Bien servies
+Saugues,43,44.96,3.55,Rurale,166,16,23.65,118,30.51,-113.03,2.75,3,Débit limité
+Saujon,17,45.67,-0.92,Rurale,163,13,336.08,120,14.17,-94.2,2.05,2,Très bien servies
+Saulty,62,50.22,2.53,Rurale,160,12,0.0,120,70.0,-120.0,10.01,0,Mal servies
+Saulx-les-Chartreux,91,48.69,2.27,Dense,168,16,301.55,120,6.67,-108.06,2.94,1,Bien servies
+Sauqueville,76,49.86,1.07,Rurale,168,16,21.94,120,11.67,-114.45,2.66,3,Débit limité
+Sautron,44,47.26,-1.67,Dense,168,16,155.45,120,3.33,-108.32,2.99,1,Bien servies
+Sauviat-sur-Vige,87,45.91,1.61,Rurale,165,14,1.09,120,32.5,-111.64,4.64,3,Débit limité
+Sauxillanges,63,45.55,3.37,Rurale,165,14,42.97,120,0.83,-114.0,2.5,1,Bien servies
+Saverdun,09,43.23,1.58,Rurale,168,16,229.94,120,0.0,-103.54,2.24,1,Bien servies
+Savigny-le-Temple,77,48.59,2.59,Dense,168,16,459.91,120,0.83,-87.76,2.6,2,Très bien servies
+Seaquarium du Grau-du-Roi Le Grau-du-Roi,30,43.53,4.14,Touristique,166,16,99.58,118,5.93,-90.45,2.75,2,Très bien servies
+Seclin,59,50.55,3.05,Dense,336,32,109.46,240,1.25,-107.06,2.17,1,Bien servies
+Sedan,08,49.7,4.94,Intermédiaire,504,48,215.94,360,0.0,-93.67,2.16,2,Très bien servies
+Seignelay,89,47.9,3.61,Rurale,168,16,203.94,120,0.83,-108.12,2.18,1,Bien servies
+Sens-de-Bretagne,35,48.33,-1.54,Rurale,168,16,107.23,120,0.0,-107.53,2.76,1,Bien servies
+Septèmes-les-Vallons,13,43.39,5.36,Dense,168,16,386.3,120,0.0,-94.98,2.58,2,Très bien servies
+Sequedin,59,50.63,2.97,Dense,168,16,321.98,120,0.0,-99.0,2.01,2,Très bien servies
+Sevrier,74,45.85,6.15,Intermédiaire,168,16,159.01,120,0.0,-91.25,2.23,2,Très bien servies
+Seyne,04,44.35,6.36,Rurale,165,16,10.72,120,25.83,-112.07,3.28,3,Débit limité
+Seyssel,74,45.96,5.84,Rurale,168,16,297.1,120,0.0,-107.76,2.22,2,Très bien servies
+Seysses,31,43.49,1.32,Dense,168,16,267.4,120,0.0,-107.37,2.3,1,Bien servies
+Seyssinet-Pariset,38,45.17,5.69,Dense,172,16,386.42,120,0.0,-99.19,2.17,2,Très bien servies
+Seyssins,38,45.16,5.7,Dense,172,16,254.74,120,0.0,-107.0,2.18,1,Bien servies
+Sigean,11,43.03,2.99,Rurale,168,16,166.14,120,20.83,-110.75,2.5,1,Bien servies
+Signy-l'Abbaye,08,49.7,4.42,Rurale,168,16,52.91,120,2.5,-112.0,2.48,1,Bien servies
+Silly-Tillard,60,49.32,2.15,Rurale,168,16,4.6,120,40.0,-112.67,4.4,3,Débit limité
+Simiane-Collongue,13,43.43,5.44,Dense,168,16,0.33,120,54.17,-119.08,10.01,0,Mal servies
+Siran,15,44.95,2.13,Rurale,165,14,0.0,120,62.5,-115.66,10.01,0,Mal servies
+Sisteron,04,44.2,5.94,Rurale,168,16,290.67,120,6.67,-99.56,2.64,2,Très bien servies
+Site de Conques (ville) Conques,12,44.6,2.4,Touristique,156,16,11.61,108,34.26,-96.78,2.4,3,Débit limité
+Site du Pont du Gard Vers Pont du Gard,30,43.95,4.54,Touristique,168,16,207.8,120,0.0,-108.6,3.04,1,Bien servies
+Six-Fours-les-Plages,83,43.09,5.83,Dense,336,32,186.32,240,12.5,-103.7,3.02,1,Bien servies
+Solaure en Diois,26,44.71,5.4,Rurale,172,16,5.41,120,1.67,-104.5,2.94,1,Bien servies
+Solesmes,59,50.19,3.5,Rurale,167,16,114.1,120,5.83,-106.0,2.2,1,Bien servies
+Solignac-sur-Loire,43,44.97,3.89,Rurale,168,16,52.48,120,3.33,-113.0,2.51,1,Bien servies
+Sollacaro,2A,41.74,8.91,Rurale,166,16,80.32,120,8.33,-109.84,3.2,1,Bien servies
+Solliès-Toucas,83,43.21,6.03,Dense,156,16,97.17,108,10.19,-109.31,3.1,1,Bien servies
+Sommesous,51,48.73,4.21,Rurale,168,16,2.72,120,12.5,-98.78,3.38,1,Bien servies
+Sorbiers,42,45.48,4.44,Intermédiaire,168,16,249.77,120,0.0,-100.0,2.18,2,Très bien servies
+Sospel,06,43.88,7.45,Rurale,164,16,46.39,118,13.56,-110.9,3.38,3,Débit limité
+Sotteville-lès-Rouen,76,49.4,1.11,Dense,168,16,334.21,120,0.0,-89.0,2.1,2,Très bien servies
+Souleuvre-en-Bocage,14,49.01,-0.84,Rurale,168,16,36.62,120,0.0,-103.56,2.24,1,Bien servies
+Soyaux,16,45.64,0.21,Intermédiaire,160,12,333.42,120,0.0,-100.11,2.01,2,Très bien servies
+Stains,93,48.95,2.39,Dense,168,16,299.09,120,0.0,-87.25,2.07,2,Très bien servies
+Steenvoorde,59,50.81,2.58,Rurale,168,16,99.85,120,20.0,-111.0,2.37,3,Débit limité
+Stenay,55,49.48,5.2,Rurale,168,16,55.96,120,0.0,-107.64,2.37,1,Bien servies
+Strasbourg (partie française),67,48.58,7.75,Dense,1680,160,209.41,1200,1.33,-99.67,2.24,2,Très bien servies
+Subles,14,49.24,-0.75,Rurale,168,16,206.46,120,4.17,-103.66,2.32,1,Bien servies
+Sucy-en-Brie,94,48.77,2.52,Dense,168,16,261.33,120,1.67,-95.19,2.58,2,Très bien servies
+Suresnes,92,48.87,2.23,Dense,160,12,248.02,120,0.0,-96.04,2.66,2,Très bien servies
+Surgères,17,46.11,-0.75,Rurale,166,15,12.26,120,8.33,-112.12,2.38,1,Bien servies
+Sèvres,92,48.82,2.21,Dense,160,12,316.36,120,2.5,-95.53,2.75,2,Très bien servies
+Sées,61,48.6,0.17,Rurale,168,16,155.99,120,25.83,-109.12,2.63,3,Débit limité
+Ségny,01,46.29,6.08,Intermédiaire,168,16,73.61,120,0.0,-111.46,2.37,1,Bien servies
+Sévérac d'Aveyron,12,44.32,3.06,Rurale,168,16,127.08,120,6.67,-101.51,3.38,1,Bien servies
+Sézanne,51,48.72,3.72,Rurale,168,16,36.03,120,3.33,-99.98,2.24,1,Bien servies
+Tain-l'Hermitage,26,45.07,4.84,Intermédiaire,168,16,99.1,120,0.83,-100.84,2.22,1,Bien servies
+Talairan,11,43.05,2.66,Rurale,168,16,43.2,120,0.83,-113.2,2.5,1,Bien servies
+Talmont-Saint-Hilaire,85,46.47,-1.63,Rurale,168,16,324.48,120,0.0,-100.2,2.68,2,Très bien servies
+Tapisserie de Bayeux,14,49.28,-0.7,Touristique,164,14,140.81,120,0.0,-110.07,2.28,1,Bien servies
+Tarascon,13,43.8,4.66,Intermédiaire,168,16,184.19,120,0.0,-93.48,2.74,2,Très bien servies
+Tarnos,40,43.54,-1.46,Intermédiaire,168,16,139.02,120,15.83,-111.57,2.6,1,Bien servies
+Tassin-la-Demi-Lune,69,45.76,4.77,Dense,172,16,178.05,120,2.5,-109.0,2.3,1,Bien servies
+Templemars,59,50.57,3.05,Dense,168,16,193.01,120,2.5,-107.68,2.17,1,Bien servies
+Terres-de-Haute-Charente,16,45.89,0.58,Rurale,164,14,27.91,120,23.33,-111.48,2.5,3,Débit limité
+Teyssode,81,43.65,1.93,Rurale,167,16,2.95,119,31.09,-115.9,5.17,3,Débit limité
+Thaon-les-Vosges,88,48.25,6.42,Intermédiaire,168,16,14.27,120,6.67,-112.0,3.14,1,Bien servies
+Thenon,24,45.14,1.07,Rurale,168,16,104.03,120,1.67,-107.46,2.28,1,Bien servies
+Thermapolis Amnéville-les-Thermes,57,49.24,6.13,Touristique,168,16,291.86,120,0.0,-100.3,2.23,2,Très bien servies
+Thiébauménil,54,48.58,6.63,Rurale,166,14,8.22,120,18.33,-111.1,3.49,3,Débit limité
+Thiézac,15,45.01,2.66,Rurale,155,10,13.62,119,49.58,-111.42,9.84,0,Mal servies
+Thonon-les-Bains,74,46.38,6.49,Intermédiaire,336,32,27.05,240,3.75,-111.3,2.43,1,Bien servies
+Thorigny-sur-Oreuse,89,48.29,3.4,Rurale,168,16,15.12,120,0.0,-103.4,2.24,1,Bien servies
+Thouars,79,46.98,-0.21,Intermédiaire,504,48,138.6,360,3.06,-104.74,2.37,1,Bien servies
+Thouaré-sur-Loire,44,47.26,-1.45,Dense,168,16,147.15,120,0.83,-107.1,2.66,1,Bien servies
+Thuret,63,45.97,3.26,Rurale,168,16,38.57,120,29.17,-111.85,2.76,3,Débit limité
+Thurins,69,45.68,4.64,Dense,172,16,218.01,120,0.0,-97.67,2.06,2,Très bien servies
+Tigy,45,47.79,2.2,Rurale,168,16,162.69,120,0.0,-100.48,2.85,1,Bien servies
+Tollevast,50,49.6,-1.6,Intermédiaire,168,16,316.41,120,0.0,-101.48,2.18,2,Très bien servies
+Tonnerre,89,47.86,3.97,Rurale,168,16,20.92,120,30.0,-113.81,2.78,3,Débit limité
+Torcy,77,48.85,2.65,Dense,168,16,263.38,120,1.67,-100.67,2.16,2,Très bien servies
+Torigny-les-Villes,50,49.04,-0.98,Rurale,168,16,146.06,120,18.33,-110.74,2.76,1,Bien servies
+Toucy,89,47.74,3.29,Rurale,167,15,1.36,120,40.0,-121.84,6.88,0,Mal servies
+Toufflers,59,50.66,3.24,Dense,168,16,117.36,120,1.67,-110.0,2.28,1,Bien servies
+Toulon,83,43.13,5.94,Dense,1344,128,234.71,960,5.52,-103.16,2.88,1,Bien servies
+Toulonjac,12,44.38,2.0,Intermédiaire,156,16,10.84,108,36.11,-110.62,3.47,3,Débit limité
+Toulouges,66,42.67,2.83,Intermédiaire,168,16,195.62,120,0.83,-107.46,2.5,1,Bien servies
+Toulouse,31,43.6,1.43,Dense,3526,336,284.17,2519,2.7,-98.46,2.25,2,Très bien servies
+Tour Eiffel Paris,75,48.86,2.3,Touristique,168,16,315.6,120,2.5,-89.83,2.62,2,Très bien servies
+Tour Montparnasse Paris,75,48.84,2.32,Touristique,168,16,262.31,120,0.83,-95.01,2.55,2,Très bien servies
+Tournefeuille,31,43.58,1.32,Dense,168,16,291.98,120,0.83,-109.06,2.28,1,Bien servies
+Tournon-sur-Rhône,07,45.07,4.83,Intermédiaire,336,32,62.92,240,1.67,-106.0,2.41,1,Bien servies
+Tourrette-Levens,06,43.79,7.27,Dense,168,16,135.84,120,12.5,-109.53,2.66,1,Bien servies
+Tourrettes-sur-Loup,06,43.72,7.06,Dense,166,14,37.91,120,29.17,-94.46,3.16,3,Débit limité
+Tours,37,47.39,0.68,Intermédiaire,668,64,206.49,478,1.26,-97.11,2.78,2,Très bien servies
+Toury-Lurcy,58,46.74,3.42,Rurale,168,16,21.47,120,0.0,-85.57,2.11,2,Très bien servies
+Toussieu,69,45.65,4.99,Dense,172,16,114.13,120,0.0,-111.0,2.17,1,Bien servies
+Trappes,78,48.78,2.01,Dense,168,16,51.27,120,28.33,-107.97,3.03,3,Débit limité
+Tremblay-en-France,93,49.01,2.54,Dense,168,16,176.14,120,0.0,-94.7,2.1,2,Très bien servies
+Troyes,10,48.3,4.07,Intermédiaire,672,64,284.17,480,0.42,-93.21,2.24,2,Très bien servies
+Trèbes,11,43.21,2.44,Rurale,168,16,77.44,120,1.67,-106.12,2.66,1,Bien servies
+Trélissac,24,45.19,0.76,Intermédiaire,168,16,257.25,120,0.83,-99.61,2.29,2,Très bien servies
+Trémuson,22,48.52,-2.85,Intermédiaire,168,16,51.85,120,6.67,-111.89,2.99,1,Bien servies
+Trévoux,01,45.94,4.78,Dense,172,16,254.97,120,0.0,-98.5,2.2,2,Très bien servies
+Trézilidé,29,48.61,-4.09,Rurale,168,16,50.75,120,5.0,-112.51,2.66,1,Bien servies
+Téléphérique de l'Aiguille du Midi Chamonix-Mont-Blanc,74,45.92,6.87,Touristique,168,16,19.33,120,5.0,-108.0,2.45,1,Bien servies
+Téléphérique de la Bastille Grenoble,38,45.19,5.73,Touristique,172,16,337.16,120,0.0,-98.78,2.06,2,Très bien servies
+Téléphérique du Brévent Chamonix-Mont-Blanc,74,45.92,6.86,Touristique,168,16,120.53,120,0.0,-109.42,2.24,1,Bien servies
+Ugine,73,45.75,6.42,Rurale,168,16,121.11,120,1.67,-96.58,2.17,1,Bien servies
+Usson-du-Poitou,86,46.28,0.53,Rurale,160,12,0.89,120,60.83,-118.94,2.58,3,Débit limité
+Val de Briey,54,49.25,5.95,Rurale,168,16,164.95,120,12.5,-92.22,2.52,2,Très bien servies
+Val-Cenis,73,45.28,6.82,Rurale,172,16,10.61,120,2.5,-88.67,2.74,1,Bien servies
+Val-Couesnon,35,48.46,-1.48,Rurale,168,16,88.94,120,19.17,-110.43,3.3,3,Débit limité
+Val-Suran,39,46.39,5.45,Rurale,165,14,4.1,120,47.5,-113.33,6.24,3,Débit limité
+Val-au-Perche,61,48.27,0.68,Rurale,168,16,6.55,120,20.0,-104.18,3.69,3,Débit limité
+Val-d'Aigoual,30,44.08,3.64,Rurale,168,16,24.85,120,25.83,-105.16,3.58,3,Débit limité
+Val-de-Reuil,27,49.27,1.21,Intermédiaire,168,16,246.21,120,0.0,-105.24,3.13,1,Bien servies
+Valbonne,06,43.62,7.05,Dense,161,12,236.73,120,21.67,-100.54,2.88,2,Très bien servies
+Valdallière,14,48.85,-0.66,Rurale,168,16,122.76,120,3.33,-98.21,2.12,1,Bien servies
+Valence-en-Poitou,86,46.3,0.18,Rurale,168,16,67.44,120,15.83,-100.75,2.52,1,Bien servies
+Valenciennes,59,50.37,3.53,Intermédiaire,336,32,353.96,240,0.0,-90.16,2.04,2,Très bien servies
+Valentigney,25,47.46,6.84,Intermédiaire,168,16,105.51,120,0.0,-108.46,2.42,1,Bien servies
+Valgorge,07,44.59,4.13,Rurale,168,16,10.42,120,21.67,-98.32,3.86,3,Débit limité
+Valhuon,62,50.44,2.38,Rurale,168,16,41.23,120,9.17,-90.95,2.25,1,Bien servies
+Vallauris,06,43.57,7.05,Dense,168,16,339.41,120,3.33,-99.34,2.64,2,Très bien servies
+Vallet,44,47.16,-1.27,Rurale,168,16,38.08,120,11.67,-105.03,3.1,1,Bien servies
+Vallons-de-l'Erdre,44,47.56,-1.05,Rurale,168,16,139.73,120,2.5,-107.3,3.1,1,Bien servies
+Valmondois,95,49.1,2.19,Dense,166,15,271.65,120,32.5,-106.0,3.16,3,Débit limité
+Valmont,76,49.75,0.51,Rurale,168,16,79.81,120,0.83,-103.25,2.26,1,Bien servies
+Valpuiseaux,91,48.39,2.31,Rurale,168,16,41.68,120,0.0,-105.74,2.96,1,Bien servies
+Vanduvre-lès-Nancy,54,48.65,6.18,Intermédiaire,168,16,325.82,120,0.0,-76.33,2.24,2,Très bien servies
+Vanves,92,48.82,2.29,Dense,168,16,247.2,120,0.0,-99.6,2.64,2,Très bien servies
+Varennes-Jarcy,91,48.68,2.56,Dense,167,16,32.72,120,44.17,-112.9,3.6,3,Débit limité
+Varennes-Vauzelles,58,47.01,3.15,Intermédiaire,164,14,385.52,120,3.33,-98.64,2.0,2,Très bien servies
+Varzy,58,47.36,3.39,Rurale,161,12,48.96,120,11.67,-104.95,2.24,1,Bien servies
+Vatan,36,47.07,1.81,Rurale,168,16,32.7,120,5.0,-111.82,3.72,1,Bien servies
+Vaucresson,92,48.84,2.17,Dense,168,16,266.84,120,2.5,-100.08,2.62,2,Très bien servies
+Vaugneray,69,45.74,4.66,Dense,172,16,136.56,120,1.67,-108.68,2.24,1,Bien servies
+Vaujany,38,45.16,6.08,Rurale,172,16,175.23,120,0.83,-108.67,2.2,1,Bien servies
+Vaulx-en-Velin,69,45.78,4.93,Dense,340,32,129.97,240,1.67,-108.0,2.26,1,Bien servies
+Vautorte,53,48.3,-0.83,Rurale,168,16,38.61,120,17.5,-112.28,3.38,3,Débit limité
+Vaux-le-Pénil,77,48.52,2.69,Dense,168,16,576.94,120,0.0,-87.16,2.65,2,Très bien servies
+Vaux-sur-Seine,78,49.01,1.96,Dense,167,15,214.0,120,32.5,-109.88,3.19,3,Débit limité
+Veauche,42,45.57,4.3,Intermédiaire,168,16,232.56,120,0.0,-109.16,2.22,1,Bien servies
+Vedettes de Bréhat Île-de-Bréhat,22,48.82,-3.01,Touristique,166,16,8.71,118,50.0,-120.05,10.0,0,Mal servies
+Vedène,84,43.98,4.91,Dense,167,16,223.81,119,0.84,-106.28,2.69,1,Bien servies
+Vendays-Montalivet,33,45.36,-1.06,Rurale,168,16,406.46,120,0.83,-99.86,2.26,2,Très bien servies
+Vendenheim,67,48.67,7.72,Dense,168,16,173.68,120,1.67,-87.0,2.24,2,Très bien servies
+Vendeville,59,50.57,3.08,Dense,168,16,130.72,120,0.83,-103.1,2.17,1,Bien servies
+Vendôme,41,47.8,1.06,Intermédiaire,503,48,122.17,360,7.5,-98.61,2.78,1,Bien servies
+Venelles,13,43.58,5.48,Dense,144,16,332.82,96,1.04,-95.3,2.6,2,Très bien servies
+Verdun,55,49.16,5.39,Intermédiaire,504,48,212.7,360,0.0,-104.0,2.3,1,Bien servies
+Verdun-sur-le-Doubs,71,46.9,5.02,Rurale,168,16,3.48,120,44.17,-113.83,3.09,3,Débit limité
+Verfeil,31,43.66,1.66,Rurale,151,14,2.98,106,46.23,-113.46,6.94,0,Mal servies
+Verlinghem,59,50.68,3.0,Dense,168,16,12.31,120,21.67,-113.5,2.77,3,Débit limité
+Vernaison,69,45.65,4.81,Dense,172,16,377.87,120,4.17,-101.0,2.13,2,Très bien servies
+Verniolle,09,43.07,1.64,Intermédiaire,168,16,105.54,120,10.0,-111.84,2.88,1,Bien servies
+Vernouillet,78,48.98,1.99,Dense,168,16,441.52,120,0.0,-104.28,2.78,2,Très bien servies
+Verrerie de Biot,06,43.63,7.1,Touristique,160,12,311.37,120,0.0,-109.02,2.76,2,Très bien servies
+Verrières-en-Anjou,49,47.51,-0.47,Intermédiaire,168,16,183.16,120,0.0,-110.36,2.96,1,Bien servies
+Verrières-le-Buisson,91,48.74,2.27,Dense,168,16,139.36,120,3.33,-108.27,3.18,1,Bien servies
+Vert,78,48.94,1.69,Dense,168,16,49.63,120,8.33,-111.49,4.06,3,Débit limité
+Vert-Saint-Denis,77,48.56,2.63,Dense,167,16,324.64,119,4.2,-96.56,2.8,2,Très bien servies
+Vertou,44,47.15,-1.47,Dense,167,16,103.94,119,7.56,-110.9,3.43,1,Bien servies
+Vestric-et-Candiac,30,43.75,4.25,Intermédiaire,167,16,30.33,119,5.04,-112.56,3.28,1,Bien servies
+Vic-sur-Seille,57,48.78,6.53,Rurale,168,16,54.26,120,0.83,-109.0,2.48,1,Bien servies
+Vichy,03,46.13,3.42,Intermédiaire,336,32,386.67,240,0.83,-93.16,1.98,2,Très bien servies
+Vienne,38,45.52,4.87,Intermédiaire,172,16,328.0,120,0.0,-86.0,2.1,2,Très bien servies
+Vierzy,02,49.29,3.29,Rurale,158,12,0.26,120,54.17,-118.33,2.82,3,Débit limité
+Vigneulles-lès-Hattonchâtel,55,48.98,5.7,Rurale,168,16,49.82,120,7.5,-108.0,2.6,1,Bien servies
+Villaines-la-Juhel,53,48.34,-0.27,Rurale,167,15,79.01,120,4.17,-109.9,2.3,1,Bien servies
+Villapourçon,58,46.95,3.96,Rurale,168,16,16.71,120,0.0,-95.22,2.32,1,Bien servies
+Villar-Saint-Pancrace,05,44.87,6.63,Intermédiaire,168,16,64.19,120,10.0,-111.24,3.01,1,Bien servies
+Villard-Bonnot,38,45.23,5.88,Dense,172,16,226.0,120,0.0,-108.0,2.14,1,Bien servies
+Villaroger,73,45.59,6.87,Rurale,168,16,214.17,120,0.0,-98.07,2.18,2,Très bien servies
+Villars,42,45.47,4.37,Intermédiaire,168,16,380.96,120,0.0,-94.16,2.09,2,Très bien servies
+Villars-les-Dombes,01,46.0,5.03,Rurale,168,16,79.68,120,0.0,-108.67,2.23,1,Bien servies
+Ville-d'Avray,92,48.82,2.19,Dense,167,16,62.29,119,9.24,-108.14,3.17,1,Bien servies
+Villeberny,21,47.43,4.6,Rurale,168,16,12.13,120,2.5,-104.0,2.54,1,Bien servies
+Villebon-sur-Yvette,91,48.69,2.21,Dense,168,16,162.48,120,2.5,-93.92,2.64,2,Très bien servies
+Villedieu-les-Poêles-Rouffigny,50,48.84,-1.22,Rurale,168,16,246.3,120,0.0,-93.62,2.08,2,Très bien servies
+Villefranche-de-Rouergue,12,44.35,2.04,Intermédiaire,309,32,185.03,216,16.2,-109.68,2.92,1,Bien servies
+Villefranche-sur-Mer,06,43.7,7.31,Dense,168,16,328.35,120,5.83,-99.01,2.76,2,Très bien servies
+Villefranque,64,43.44,-1.45,Intermédiaire,165,14,82.17,120,24.17,-112.7,2.58,3,Débit limité
+Villemomble,93,48.89,2.51,Dense,168,16,142.95,120,0.0,-105.84,2.05,1,Bien servies
+Villenave,40,43.97,-0.81,Rurale,164,14,6.94,120,45.0,-113.78,1.81,3,Débit limité
+Villenave-d'Ornon,33,44.77,-0.56,Dense,168,16,217.5,120,0.0,-103.4,2.28,1,Bien servies
+Villeneuve-Loubet,06,43.63,7.13,Dense,168,16,282.73,120,0.83,-101.56,2.6,2,Très bien servies
+Villeneuve-Saint-Georges,94,48.74,2.45,Dense,168,16,108.16,120,26.67,-95.34,2.99,1,Bien servies
+Villeneuve-d'Ascq,59,50.63,3.15,Dense,168,16,217.06,120,0.0,-101.58,2.04,2,Très bien servies
+Villeneuve-de-Rivière,31,43.12,0.67,Intermédiaire,167,16,0.32,120,60.0,-120.03,10.01,0,Mal servies
+Villeneuve-en-Perseigne,72,48.45,0.25,Rurale,168,16,48.46,120,16.67,-112.07,3.12,3,Débit limité
+Villeneuve-lès-Béziers,34,43.32,3.29,Intermédiaire,168,16,289.48,120,13.33,-104.5,2.49,2,Très bien servies
+Villeneuve-lès-Maguelone,34,43.54,3.86,Dense,168,16,460.88,120,5.83,-89.24,2.68,2,Très bien servies
+Villennes-sur-Seine,78,48.94,1.99,Dense,168,16,230.93,120,14.17,-104.92,2.92,1,Bien servies
+Villentrois-Faverolles-en-Berry,36,47.19,1.46,Rurale,168,16,1.73,120,36.67,-104.08,6.2,3,Débit limité
+Villepreux,78,48.83,2.0,Dense,167,16,281.5,119,0.84,-106.22,2.62,2,Très bien servies
+Villers-lès-Luxeuil,70,47.77,6.29,Rurale,168,16,3.89,120,31.67,-122.0,4.14,3,Débit limité
+Villers-lès-Nancy,54,48.67,6.15,Intermédiaire,168,16,205.56,120,4.17,-84.0,2.39,2,Très bien servies
+Villeurbanne,69,45.76,4.9,Dense,336,32,328.18,240,0.0,-91.0,2.08,2,Très bien servies
+Villeveyrac,34,43.5,3.61,Rurale,167,16,90.02,119,1.68,-110.21,3.16,1,Bien servies
+Villiers-Adam,95,49.07,2.23,Dense,168,16,36.16,120,36.67,-107.0,3.32,3,Débit limité
+Villiers-Charlemagne,53,47.92,-0.68,Rurale,168,16,11.35,120,4.17,-108.0,3.47,1,Bien servies
+Villiers-le-Bâcle,91,48.73,2.13,Dense,168,16,7.46,120,35.0,-114.62,5.03,3,Débit limité
+Vincennes,94,48.85,2.44,Dense,168,16,231.61,120,5.0,-105.36,3.01,1,Bien servies
+Vineuil-Saint-Firmin,60,49.2,2.5,Intermédiaire,167,16,0.0,120,80.83,-115.67,10.02,0,Mal servies
+Virieu-le-Grand,01,45.85,5.65,Rurale,168,16,8.57,120,1.67,-96.32,2.69,1,Bien servies
+Viriville,38,45.32,5.21,Rurale,172,16,115.46,120,0.0,-92.0,2.14,2,Très bien servies
+Viry-Châtillon,91,48.68,2.38,Dense,168,16,181.71,120,0.0,-100.72,2.46,1,Bien servies
+Visitor Center de Colleville-sur-Mer,14,49.35,-0.86,Touristique,159,12,14.57,120,24.17,-115.25,2.87,3,Débit limité
+Vitry-en-Perthois,51,48.74,4.63,Rurale,158,9,0.0,120,71.67,-116.17,10.02,0,Mal servies
+Vitry-sur-Seine,94,48.8,2.38,Dense,168,16,382.91,120,0.0,-80.03,2.48,2,Très bien servies
+Vittel,88,48.2,5.95,Rurale,168,16,185.47,120,0.0,-99.0,2.26,2,Très bien servies
+Vivaise,02,49.62,3.56,Rurale,166,15,15.86,120,15.83,-116.0,3.0,3,Débit limité
+Voglans,73,45.64,5.89,Intermédiaire,167,16,18.15,120,27.5,-108.33,2.86,3,Débit limité
+Voiron,38,45.37,5.59,Intermédiaire,344,32,153.73,240,0.0,-107.0,2.2,1,Bien servies
+Voreppe,38,45.28,5.65,Dense,168,16,492.87,120,0.0,-101.0,2.06,2,Très bien servies
+Voujeaucourt,25,47.48,6.78,Intermédiaire,168,16,114.95,120,0.0,-102.0,2.34,1,Bien servies
+Voulpaix,02,49.84,3.83,Rurale,168,16,0.0,120,99.17,-110.92,10.02,0,Mal servies
+Vouziers,08,49.4,4.7,Rurale,168,16,121.61,120,0.0,-87.71,2.26,2,Très bien servies
+Vrécourt,88,48.18,5.7,Rurale,166,15,2.28,120,37.5,-112.5,4.28,3,Débit limité
+Vulcania Saint-Ours-les-Roches,63,45.81,2.94,Touristique,168,16,22.09,120,0.0,-112.2,2.42,1,Bien servies
+Vy-lès-Lure,70,47.65,6.45,Rurale,151,8,8.8,120,49.17,-113.0,2.78,3,Débit limité
+Vénissieux,69,45.72,4.87,Dense,344,32,356.6,240,0.42,-89.0,2.08,2,Très bien servies
+Walincourt-Selvigny,59,50.07,3.34,Rurale,168,16,10.55,120,3.33,-102.75,2.5,1,Bien servies
+Wasquehal,59,50.67,3.13,Dense,168,16,280.56,120,0.0,-106.68,2.12,2,Très bien servies
+Wattignies,59,50.59,3.05,Dense,168,16,352.19,120,0.0,-93.5,2.01,2,Très bien servies
+Wattrelos,59,50.7,3.21,Dense,168,16,138.78,120,0.0,-98.0,2.17,1,Bien servies
+Wervicq-Sud,59,50.77,3.04,Dense,168,16,331.64,120,0.0,-97.5,2.02,2,Très bien servies
+Wignehies,59,50.02,4.01,Intermédiaire,127,8,316.81,98,6.12,-93.5,2.16,2,Très bien servies
+Wissous,91,48.74,2.33,Dense,168,16,158.07,120,29.17,-104.22,3.23,3,Débit limité
+Wittelsheim,68,47.81,7.25,Intermédiaire,168,16,292.57,120,0.0,-87.94,2.26,2,Très bien servies
+Wittenheim,68,47.81,7.31,Intermédiaire,168,16,183.73,120,0.83,-103.36,2.39,1,Bien servies
+Wylder,59,50.91,2.49,Rurale,168,16,0.64,120,45.0,-118.71,7.62,0,Mal servies
+Yerres,91,48.71,2.48,Dense,168,16,26.34,120,32.5,-108.63,3.53,3,Débit limité
+Yerville,76,49.67,0.9,Rurale,168,16,7.94,120,20.83,-114.64,3.09,3,Débit limité
+Yssingeaux,43,45.14,4.13,Rurale,168,16,130.14,120,0.0,-101.45,2.3,1,Bien servies
+Ytrac,15,44.91,2.36,Rurale,168,16,151.37,120,0.0,-101.66,2.54,1,Bien servies
+Zonza,2A,41.75,9.17,Rurale,167,16,0.94,120,35.83,-113.23,4.2,3,Débit limité
+Zoo d'Amnéville-les-Thermes Amnéville-les-Thermes,57,49.25,6.14,Touristique,168,16,238.79,120,0.0,-103.5,2.32,2,Très bien servies
+Zoo parc de Beauval Saint-Aignan,41,47.25,1.36,Touristique,168,16,324.09,120,1.67,-103.79,2.56,2,Très bien servies
+Écotay-l'Olme,42,45.59,4.05,Intermédiaire,168,16,24.11,120,5.0,-114.0,2.8,1,Bien servies
+Écouen,95,49.03,2.37,Dense,168,16,317.84,120,3.33,-106.25,2.1,2,Très bien servies
+Écourt-Saint-Quentin,62,50.25,3.07,Rurale,168,16,97.7,120,0.0,-102.0,2.13,1,Bien servies
+Écully,69,45.79,4.78,Dense,172,16,142.97,120,8.33,-90.34,2.22,2,Très bien servies
+Égletons,19,45.4,2.05,Rurale,168,16,62.15,120,0.0,-108.63,2.46,1,Bien servies
+Égly,91,48.58,2.23,Dense,167,16,303.74,119,10.92,-108.88,2.99,1,Bien servies
+Égreville,77,48.18,2.87,Rurale,162,12,33.73,120,2.5,-111.11,2.23,1,Bien servies
+Épagny Metz-Tessy,74,45.94,6.07,Intermédiaire,168,16,127.24,120,0.0,-109.0,2.25,1,Bien servies
+Épaignes,27,49.28,0.44,Rurale,168,16,12.19,120,20.0,-108.43,2.92,3,Débit limité
+Épiais-lès-Louvres,95,49.03,2.56,Dense,168,16,9.69,120,13.33,-112.7,3.12,3,Débit limité
+Épinal,88,48.18,6.46,Intermédiaire,336,32,193.64,240,1.67,-92.71,2.29,2,Très bien servies
+Épouville,76,49.56,0.22,Intermédiaire,168,16,427.36,120,0.0,-99.72,2.12,2,Très bien servies
+Éragny,95,49.03,2.1,Dense,168,16,274.1,120,3.33,-100.26,3.0,2,Très bien servies
+Éternoz,25,47.01,6.03,Rurale,167,15,4.12,120,20.83,-110.0,3.6,3,Débit limité
+Étiolles,91,48.64,2.47,Dense,168,16,127.65,120,5.83,-107.2,3.18,1,Bien servies
+Étrepigney,39,47.13,5.69,Rurale,168,16,7.49,120,21.67,-108.72,3.52,3,Débit limité
+Évenos,83,43.17,5.83,Dense,167,15,140.03,120,0.0,-105.02,3.02,1,Bien servies
+Évian-les-Bains,74,46.4,6.61,Intermédiaire,168,16,60.21,120,0.0,-100.84,2.3,1,Bien servies

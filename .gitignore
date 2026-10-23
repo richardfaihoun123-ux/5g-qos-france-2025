@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# fichier brut (93 Mo) et données nettoyées : trop volumineux pour GitHub
+data/raw/
+data/processed/

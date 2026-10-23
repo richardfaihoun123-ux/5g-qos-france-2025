@@ -1,0 +1,5 @@
+operator,dl_median_mbps,ul_median_mbps,web_success_pct,web_lt5s_pct,stream_success_pct,rsrp_median_dbm
+Orange,232.2,14.2,93.6,89.3,91.9,-103.4
+Bouygues,154.7,9.2,91.0,85.2,90.8,-103.2
+SFR,131.0,9.2,90.9,85.1,90.1,-103.3
+Free,100.8,5.0,88.7,82.3,88.1,-106.2

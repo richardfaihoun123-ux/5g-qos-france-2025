@@ -1,0 +1,266 @@
+{
+  "n_measures": 354282,
+  "n_communes": 1682,
+  "n_departements": 96,
+  "period": [
+    "2025-05-26",
+    "2025-09-02"
+  ],
+  "measures_by_protocol": {
+    "WEB": 253260,
+    "DOWNLOAD": 33384,
+    "ICMP": 17328,
+    "STREAM": 16933,
+    "ULH": 16695,
+    "UPLOAD": 16682
+  },
+  "measures_by_zone": {
+    "Rurale": 116589,
+    "Dense": 113902,
+    "Intermédiaire": 103573,
+    "Touristique": 20218
+  },
+  "dl_threshold_note": "DOWNLOAD/UPLOAD : 'Success' = fichier transféré en 10 s (seuil), pas une panne",
+  "dl_success_min_mbps": 209.5,
+  "dl_median_by_operator": {
+    "Bouygues": 154.7,
+    "Free": 100.8,
+    "Orange": 232.2,
+    "SFR": 131.0
+  },
+  "ul_median_by_operator": {
+    "Bouygues": 9.2,
+    "Free": 5.0,
+    "Orange": 14.2,
+    "SFR": 9.2
+  },
+  "dl_median_by_zone": {
+    "Dense": 243.9,
+    "Intermédiaire": 206.4,
+    "Rurale": 41.2,
+    "Touristique": 168.1
+  },
+  "rural_pct_of_dense": {
+    "Orange": {
+      "dl_rural_pct_of_dense": 17.8,
+      "ul_rural_pct_of_dense": 22.8
+    },
+    "Bouygues": {
+      "dl_rural_pct_of_dense": 12.2,
+      "ul_rural_pct_of_dense": 18.8
+    },
+    "SFR": {
+      "dl_rural_pct_of_dense": 16.0,
+      "ul_rural_pct_of_dense": 29.2
+    },
+    "Free": {
+      "dl_rural_pct_of_dense": 29.8,
+      "ul_rural_pct_of_dense": 26.3
+    }
+  },
+  "service_success_pct": {
+    "Orange": {
+      "WEB": 93.6,
+      "STREAM": 91.9,
+      "ICMP": 93.3,
+      "ULH": 92.7
+    },
+    "Bouygues": {
+      "WEB": 91.0,
+      "STREAM": 90.8,
+      "ICMP": 91.1,
+      "ULH": 90.8
+    },
+    "SFR": {
+      "WEB": 90.9,
+      "STREAM": 90.1,
+      "ICMP": 93.3,
+      "ULH": 89.4
+    },
+    "Free": {
+      "WEB": 88.7,
+      "STREAM": 88.1,
+      "ICMP": 91.0,
+      "ULH": 86.2
+    }
+  },
+  "web_failure_pct_by_zone": {
+    "Orange": {
+      "Dense": 3.2,
+      "Intermédiaire": 2.9,
+      "Touristique": 4.6,
+      "Rurale": 12.8
+    },
+    "Bouygues": {
+      "Dense": 2.4,
+      "Intermédiaire": 4.8,
+      "Touristique": 9.4,
+      "Rurale": 18.9
+    },
+    "SFR": {
+      "Dense": 6.3,
+      "Intermédiaire": 4.9,
+      "Touristique": 7.9,
+      "Rurale": 15.9
+    },
+    "Free": {
+      "Dense": 7.3,
+      "Intermédiaire": 7.1,
+      "Touristique": 13.1,
+      "Rurale": 18.7
+    }
+  },
+  "web_lt5s_pct_by_operator": {
+    "Bouygues": 85.2,
+    "Free": 82.3,
+    "Orange": 89.3,
+    "SFR": 85.1
+  },
+  "rsrp_median_by_situation": {
+    "Incar": -103.5,
+    "Indoor": -105.8,
+    "Outdoor": -102.7
+  },
+  "indoor_penalty_db": 3.2,
+  "dl_median_indoor_outdoor": {
+    "Indoor": 119.2,
+    "Outdoor": 166.6
+  },
+  "indoor_dl_loss_pct": 28.5,
+  "departements_les_moins_bien_servis": [
+    {
+      "departement": "Lot",
+      "median": 3.9
+    },
+    {
+      "departement": "Aisne",
+      "median": 4.7
+    },
+    {
+      "departement": "Corrèze",
+      "median": 8.6
+    },
+    {
+      "departement": "Creuse",
+      "median": 11.4
+    },
+    {
+      "departement": "Lot-et-Garonne",
+      "median": 18.8
+    },
+    {
+      "departement": "Lozère",
+      "median": 20.0
+    },
+    {
+      "departement": "Territoire de Belfort",
+      "median": 20.2
+    },
+    {
+      "departement": "Jura",
+      "median": 26.9
+    }
+  ],
+  "departements_les_mieux_servis": [
+    {
+      "departement": "Hauts-de-Seine",
+      "median": 300.9
+    },
+    {
+      "departement": "Loire",
+      "median": 284.6
+    },
+    {
+      "departement": "Haute-Garonne",
+      "median": 269.4
+    },
+    {
+      "departement": "Gironde",
+      "median": 267.7
+    },
+    {
+      "departement": "Paris",
+      "median": 266.1
+    },
+    {
+      "departement": "Seine-Saint-Denis",
+      "median": 251.6
+    },
+    {
+      "departement": "Val-de-Marne",
+      "median": 249.1
+    },
+    {
+      "departement": "Alpes-Maritimes",
+      "median": 219.4
+    }
+  ],
+  "model_web_failure": {
+    "n_train": 187287,
+    "n_test": 65973,
+    "failure_rate_test": 0.0671,
+    "roc_auc": 0.929,
+    "pr_auc": 0.65,
+    "roc_auc_baseline_operator_zone_situation": 0.699,
+    "roc_auc_without_location": 0.93,
+    "top_drivers": [
+      "rsrp",
+      "rsrq",
+      "lat",
+      "zone"
+    ]
+  },
+  "model_dl_throughput": {
+    "n_train": 24642,
+    "n_test": 8742,
+    "r2": 0.549,
+    "mae_mbps": 91.0,
+    "r2_baseline": 0.204,
+    "mae_baseline_mbps": 124.0,
+    "top_drivers": [
+      "rsrp",
+      "zone",
+      "operator",
+      "rsrq"
+    ]
+  },
+  "communes_eligibles": 1682,
+  "profils_communes": [
+    {
+      "profil": "Mal servies",
+      "communes": 84,
+      "dl_med": 0.1,
+      "web_fail": 63.9,
+      "rsrp": -116.2,
+      "access_s": 10.0,
+      "part_rurale": 82.1
+    },
+    {
+      "profil": "Débit limité",
+      "communes": 301,
+      "dl_med": 19.1,
+      "web_fail": 25.9,
+      "rsrp": -111.8,
+      "access_s": 3.3,
+      "part_rurale": 70.1
+    },
+    {
+      "profil": "Bien servies",
+      "communes": 753,
+      "dl_med": 107.6,
+      "web_fail": 4.1,
+      "rsrp": -106.8,
+      "access_s": 2.4,
+      "part_rurale": 46.2
+    },
+    {
+      "profil": "Très bien servies",
+      "communes": 544,
+      "dl_med": 299.6,
+      "web_fail": 2.0,
+      "rsrp": -97.8,
+      "access_s": 2.2,
+      "part_rurale": 13.2
+    }
+  ]
+}
