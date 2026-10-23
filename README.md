@@ -1,4 +1,6 @@
 # 📶 5G-QoS France 2025
+[![Voir le tableau de bord](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://5g-qos-france-2025-jmvstfjzgrundyspjy6ise.streamlit.app/)
+
 **Qualité de service mobile 5G en France métropolitaine** - analyse de 354 282 mesures réelles (mai-septembre 2025, 4 opérateurs, 1 682 communes) : comparaison des opérateurs, fracture rurale, cartes par département, modèles prédictifs, profils de communes et tableau de bord interactif.
 
 ## Questions posées
