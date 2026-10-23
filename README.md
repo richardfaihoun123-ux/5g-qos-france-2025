@@ -81,5 +81,5 @@ Pandas pour le nettoyage, agrégats exacts pour toutes les combinaisons de filtr
 - Toutes les mesures démarrent en 5G ; elles ont été faites en journée.
 - Le fichier brut (93 Mo) n'est pas versionné ; voir `data/README.md` pour la source et la reproduction.
 
-## Licence
-Code libre d'usage. Les données brutes restent soumises aux conditions de leur source officielle.
+## Source des données
+Mesures de la campagne 2025 de qualité de service mobile de l'[Arcep](https://data.arcep.fr/mobile/), publiées en open data.
